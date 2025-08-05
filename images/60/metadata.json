@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "60_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-7950__shortCode-SGS0519__drawerId-1104__gameWord-taco__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "taco",
+    "guesses": "Taco, Taco",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-7985__shortCode-SGS0519__drawerId-1104__gameWord-sandwich__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "sandwich",
+    "guesses": "Sandwich",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8051__shortCode-SGS0519__drawerId-1105__gameWord-pretzel__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pretzel",
+    "guesses": "Pret, Pret",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8092__shortCode-SGS0519__drawerId-1131__gameWord-blueberry__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "blueberry",
+    "guesses": "BLUEBERRY , Blueberry, Blueberry, Blueberry ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8159__shortCode-SGS0519__drawerId-1103__gameWord-tofu__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "tofu",
+    "guesses": "Tofu",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8338__shortCode-SGS0519__drawerId-1104__gameWord-cake__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "cake",
+    "guesses": "Cake",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8346__shortCode-SGS0519__drawerId-1105__gameWord-melon__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "melon",
+    "guesses": "Melon",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8373__shortCode-SGS0519__drawerId-1104__gameWord-water__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "water",
+    "guesses": "Water",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8397__shortCode-SGS0519__drawerId-1103__gameWord-french_fries__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "french fries",
+    "guesses": "French fry",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "60_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8456__shortCode-SGS0519__drawerId-1103__gameWord-matcha_tea__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "matcha tea",
+    "guesses": "Matcha tea",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

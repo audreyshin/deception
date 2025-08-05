@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "68_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8449__shortCode-SGS0519__drawerId-1106__gameWord-New_years_Day__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "New years Day",
+    "guesses": "New years day",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8459__shortCode-SGS0519__drawerId-1106__gameWord-Fathers_day__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Fathers day",
+    "guesses": "Father\u2019s day, Father\u2019s day",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8497__shortCode-SGS0519__drawerId-1105__gameWord-Chinese_New_Year__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Chinese New Year",
+    "guesses": "Chinese new year",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8838__shortCode-SGS0519__drawerId-1105__gameWord-Chinese_New_Year__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Chinese New Year",
+    "guesses": "Chinese new year",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8841__shortCode-SGS0519__drawerId-1105__gameWord-April_Fools__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "April Fools",
+    "guesses": "April fools",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9658__shortCode-SGS0519__drawerId-1104__gameWord-Hanukkah__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Hanukkah",
+    "guesses": "Hanukkah, Hanukkah",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9663__shortCode-SGS0519__drawerId-1104__gameWord-Hanukkah__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Hanukkah",
+    "guesses": "Hanukkah, Hanukkah",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9731__shortCode-SGS0519__drawerId-1105__gameWord-History__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "History",
+    "guesses": "HiStory ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10026__shortCode-SGS0519__drawerId-1103__gameWord-Monarchy__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Monarchy",
+    "guesses": "Monarchy",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "68_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-12381__shortCode-SGS0519__drawerId-1104__gameWord-Thanksgiving__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Thanksgiving",
+    "guesses": "Thanksgi , Thanksgiving, Thaksgiv ",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

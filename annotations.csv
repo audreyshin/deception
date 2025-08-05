@@ -1,0 +1,141 @@
+category_id,image_path,technique_used,ground_truth,human_guess
+61,61_0.jpg,,candle,"Candle, Candle, Candle, Candle"
+61,61_1.jpg,,rubik's cube,Cube
+61,61_2.jpg,,soccer ball,"Foo tboll, Football, Football"
+61,61_3.jpg,,glasses,Glasses
+61,61_4.jpg,,bicycle,"Bicycle, Bicycle"
+61,61_5.jpg,,hammer,Hammer
+61,61_6.jpg,,car,"Car, Car, Car, Car"
+61,61_7.jpg,,boat,"Boat, Boat , Boat"
+61,61_8.jpg,,boat,"Boat, Boat, Boat"
+61,61_9.jpg,,bus,"Bus, Bus"
+59,59_0.jpg,,island,"Island, Island, Island, Island"
+59,59_1.jpg,,bank,"Bank, Bank"
+59,59_2.jpg,,bowling alley,"Bowling alley,     Bowling alley"
+59,59_3.jpg,,house,"House , House, House"
+59,59_4.jpg,,pet shop,"Pet shop, Pet shop"
+59,59_5.jpg,,cave,Cave
+59,59_6.jpg,,post office,Post office
+59,59_7.jpg,,pharmacy,Phrmacy
+59,59_8.jpg,,pharmacy,Pharmacy
+59,59_9.jpg,,train station,Train station
+66,66_0.jpg,,Nazca Lines,Nazca
+66,66_1.jpg,,Marina Bay Sands,Marina bay sands
+66,66_2.jpg,,Marina Bay Sands,Mbs
+66,66_3.jpg,,Marina Bay Sands,Marina bay sands
+68,68_0.jpg,,New years Day,New years day
+68,68_1.jpg,,Fathers day,"Father’s day, Father’s day"
+68,68_2.jpg,,Chinese New Year,Chinese new year
+68,68_3.jpg,,Chinese New Year,Chinese new year
+68,68_4.jpg,,April Fools,April fools
+68,68_5.jpg,,Hanukkah,"Hanukkah, Hanukkah"
+68,68_6.jpg,,Hanukkah,"Hanukkah, Hanukkah"
+68,68_7.jpg,,History,HiStory 
+68,68_8.jpg,,Monarchy,Monarchy
+68,68_9.jpg,,Thanksgiving,"Thanksgi , Thanksgiving, Thaksgiv "
+57,57_0.jpg,,nun,"Nun, Nun"
+57,57_1.jpg,,florist,FLORIST 
+57,57_2.jpg,,blacksmith,Blacksmith
+57,57_3.jpg,,chef,"Chef, Chef"
+57,57_4.jpg,,journalist,Journalist
+57,57_5.jpg,,pirate,Pirate
+57,57_6.jpg,,pirate,"Pirate, Pirate"
+57,57_7.jpg,,magician,Magician
+57,57_8.jpg,,magician,Magi 
+57,57_9.jpg,,blacksmith,"Blacksmith, Blacksmith"
+69,69_0.jpg,,asteroid,Astroid
+69,69_1.jpg,,big bang,Bigbang
+69,69_2.jpg,,DNA,"Dna, Dna, Dna"
+69,69_3.jpg,,thermometer,Thermometer
+69,69_4.jpg,,parabolic antenna,"Parablic , Parabolic an, Parabolic ann, Parabolic "
+69,69_5.jpg,,moon,Moon
+69,69_6.jpg,,wifi,"Wifi, Wifi"
+69,69_7.jpg,,laser,"Laser, Laser"
+69,69_8.jpg,,telescope,"Telescope, Telescope"
+69,69_9.jpg,,telescope,"Telescope, Telecope, Telescope"
+56,56_0.jpg,,kicking,Kicking
+56,56_1.jpg,,bowling,"Bowling, Bowling"
+56,56_2.jpg,,jumping,"Jumping, Jump "
+56,56_3.jpg,,jumping,Jumping
+56,56_4.jpg,,throwing,"Throw, Throw"
+56,56_5.jpg,,clapping,"Clapping, Clapping"
+56,56_6.jpg,,juggling,Juggling
+56,56_7.jpg,,skydiving,"Parachutinh , Skydiving, Skydiving"
+56,56_8.jpg,,stealing,Dtealing 
+56,56_9.jpg,,cutting,"Cutting, Cutting"
+58,58_0.jpg,,Anger,Anger
+58,58_1.jpg,,Language,Language 
+58,58_2.jpg,,Economy,"Economy, Economy, Economy"
+58,58_3.jpg,,Time,Time
+58,58_4.jpg,,Love,Love
+67,67_0.jpg,,Basketball," Basketball, Basketball, Basketball, Basketball"
+67,67_1.jpg,,Surfing,"Surfing, Surfing"
+67,67_2.jpg,,Basketball,Basketball
+67,67_3.jpg,,Handball,"Handball, Handball"
+67,67_4.jpg,,Soccer,"Football, Football, Soccer"
+67,67_5.jpg,,Soccer,"Soccer, Soccer, Football"
+67,67_6.jpg,,Judo,"Judo, Judo"
+67,67_7.jpg,,Judo,"Judo, Judo"
+67,67_8.jpg,,Soccer,"Soccer, Soccer, Soccer"
+67,67_9.jpg,,Karate,"Kara , Kara "
+60,60_0.jpg,,taco,"Taco, Taco"
+60,60_1.jpg,,sandwich,Sandwich
+60,60_2.jpg,,pretzel,"Pret, Pret"
+60,60_3.jpg,,blueberry,"BLUEBERRY , Blueberry, Blueberry, Blueberry "
+60,60_4.jpg,,tofu,Tofu
+60,60_5.jpg,,cake,Cake
+60,60_6.jpg,,melon,Melon
+60,60_7.jpg,,water,Water
+60,60_8.jpg,,french fries,French fry
+60,60_9.jpg,,matcha tea,Matcha tea
+72,72_0.jpg,,Jaws,"Jaws, Jaws, Jaws"
+72,72_1.jpg,,The Lion King,"Lion king, The lion king"
+72,72_2.jpg,,Home Alone,Home alone
+72,72_3.jpg,,Kung Fu Panda,"Kung fu panda, Kung fu panda"
+72,72_4.jpg,,Minions,"Minions, Minions, Minions"
+72,72_5.jpg,,Star Wars,Star wars
+72,72_6.jpg,,Star Wars,Star wars
+72,72_7.jpg,,Toy Story,"Toy story, Toy story"
+72,72_8.jpg,,Iron Man,Iron Man 
+72,72_9.jpg,,Aladdin,Aladdin
+65,65_0.jpg,,United Kingdom,"United kingdom, United kingdom, United kingdom, United Kingdom "
+65,65_1.jpg,,Indonesia,Indonesia
+65,65_2.jpg,,Switzerland,"Switerland, Switzerland"
+65,65_3.jpg,,Vietnam,Vietnam
+65,65_4.jpg,,Argentina,Argentina
+65,65_5.jpg,,Denmark,Denmark
+65,65_6.jpg,,Jamaica,Jamaica
+65,65_7.jpg,,Vietnam,"Vieatnam, Vietnam, Vietnam, Vietnam"
+65,65_8.jpg,,Kenya,"Kenya, Kenya, Kenya"
+65,65_9.jpg,,Denmark,Denmark
+55,55_0.jpg,,giraffe,Giraf fe
+55,55_1.jpg,,pufferfish,"Pufferfish, Pufferfish"
+55,55_2.jpg,,frog,Frog
+55,55_3.jpg,,elephant,"Elphant , Elephant"
+55,55_4.jpg,,chicken,"Chicken, Chicken"
+55,55_5.jpg,,pig,Pig
+55,55_6.jpg,,dolphin,Dolphin
+55,55_7.jpg,,snail,Snail
+55,55_8.jpg,,sloth,"Sloth, Sloth"
+55,55_9.jpg,,snail,"Snail, Snail"
+64,64_0.jpg,,Subway,Subway
+64,64_1.jpg,,Starbucks,"Starbucks, Starbucks"
+64,64_2.jpg,,Heinz,"Heinz, Heinz, Heinz"
+64,64_3.jpg,,7-Eleven,"7 eleven, 7-11, 7 Eleven"
+64,64_4.jpg,,7-Eleven,"7-11, 7 eleven, 7 eleven"
+64,64_5.jpg,,Haribo,"Haribo, Haribo, Haribo"
+64,64_6.jpg,,KFC,"Kfc, Kfc, Kfc, Kfc"
+64,64_7.jpg,,Tropicana,"Tropicana, Tropicana"
+64,64_8.jpg,,Pizza Hut,"Pizza, Pizzahut, Pizza hut, Pizza"
+64,64_9.jpg,,Starbucks,Starbucks
+70,70_0.jpg,,M.C. Escher,M.c.escher
+71,71_0.jpg,,Splatoon,splatoon
+71,71_1.jpg,,Mega Man,Megaman
+71,71_2.jpg,,Pong,"Pong, Pong"
+71,71_3.jpg,,Angry Birds,"Angrybirds, Angrybirds"
+71,71_4.jpg,,Guitar Hero,Guitar
+71,71_5.jpg,,Rocket League,"Rocket league, Rocket league"
+71,71_6.jpg,,Space Invaders,"Space invaders, Apace invaDers"
+71,71_7.jpg,,Candy Crush Saga,"Candy, Candy, Candy crush, Candy"
+71,71_8.jpg,,Fortnite,Fortnite
+71,71_9.jpg,,Super Mario Bros.,"Super mario, Supermario, Supermario, Super mario"

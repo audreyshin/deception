@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "72_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-7925__shortCode-SGS0519__drawerId-1105__gameWord-Jaws__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Jaws",
+    "guesses": "Jaws, Jaws, Jaws",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8181__shortCode-SGS0519__drawerId-1103__gameWord-The_Lion_King__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "The Lion King",
+    "guesses": "Lion king, The lion king",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9259__shortCode-SGS0519__drawerId-1104__gameWord-Home_Alone__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Home Alone",
+    "guesses": "Home alone",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9528__shortCode-SGS0519__drawerId-1106__gameWord-Kung_Fu_Panda__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Kung Fu Panda",
+    "guesses": "Kung fu panda, Kung fu panda",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9793__shortCode-SGS0519__drawerId-1106__gameWord-Minions__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Minions",
+    "guesses": "Minions, Minions, Minions",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9818__shortCode-SGS0519__drawerId-1131__gameWord-Star_Wars__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Star Wars",
+    "guesses": "Star wars",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9819__shortCode-SGS0519__drawerId-1131__gameWord-Star_Wars__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Star Wars",
+    "guesses": "Star wars",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9823__shortCode-SGS0519__drawerId-1103__gameWord-Toy_Story__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Toy Story",
+    "guesses": "Toy story, Toy story",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10035__shortCode-SGS0519__drawerId-1103__gameWord-Iron_Man__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Iron Man",
+    "guesses": "Iron Man ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "72_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10512__shortCode-SGS0519__drawerId-1104__gameWord-Aladdin__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Aladdin",
+    "guesses": "Aladdin",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

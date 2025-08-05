@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "65_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8083__shortCode-SGS0519__drawerId-1103__gameWord-United_Kingdom__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "United Kingdom",
+    "guesses": "United kingdom, United kingdom, United kingdom, United Kingdom ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8135__shortCode-SGS0519__drawerId-1104__gameWord-Indonesia__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Indonesia",
+    "guesses": "Indonesia",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8196__shortCode-SGS0519__drawerId-1131__gameWord-Switzerland__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Switzerland",
+    "guesses": "Switerland, Switzerland",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8286__shortCode-SGS0519__drawerId-1103__gameWord-Vietnam__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Vietnam",
+    "guesses": "Vietnam",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8309__shortCode-SGS0519__drawerId-1104__gameWord-Argentina__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Argentina",
+    "guesses": "Argentina",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8393__shortCode-SGS0519__drawerId-1105__gameWord-Denmark__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Denmark",
+    "guesses": "Denmark",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8848__shortCode-SGS0519__drawerId-1105__gameWord-Jamaica__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Jamaica",
+    "guesses": "Jamaica",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8874__shortCode-SGS0519__drawerId-1105__gameWord-Vietnam__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Vietnam",
+    "guesses": "Vieatnam, Vietnam, Vietnam, Vietnam",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8918__shortCode-SGS0519__drawerId-1131__gameWord-Kenya__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Kenya",
+    "guesses": "Kenya, Kenya, Kenya",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "65_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9187__shortCode-SGS0519__drawerId-1104__gameWord-Denmark__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Denmark",
+    "guesses": "Denmark",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

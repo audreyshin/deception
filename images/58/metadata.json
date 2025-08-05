@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "58_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10303__shortCode-SGS0519__drawerId-1105__gameWord-Anger__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Anger",
+    "guesses": "Anger",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "58_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10944__shortCode-SGS0519__drawerId-1131__gameWord-Language__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Language",
+    "guesses": "Language ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "58_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-13114__shortCode-SGS0519__drawerId-1105__gameWord-Economy__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Economy",
+    "guesses": "Economy, Economy, Economy",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "58_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-17367__shortCode-SGS0519__drawerId-1104__gameWord-Time__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Time",
+    "guesses": "Time",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "58_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-19149__shortCode-SGS0519__drawerId-1105__gameWord-Love__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Love",
+    "guesses": "Love",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

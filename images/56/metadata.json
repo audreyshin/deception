@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "56_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8117__shortCode-SGS0519__drawerId-1104__gameWord-kicking__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "kicking",
+    "guesses": "Kicking",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8141__shortCode-SGS0519__drawerId-1105__gameWord-bowling__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "bowling",
+    "guesses": "Bowling, Bowling",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8479__shortCode-SGS0519__drawerId-1105__gameWord-jumping__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "jumping",
+    "guesses": "Jumping, Jump ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8737__shortCode-SGS0519__drawerId-1131__gameWord-jumping__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "jumping",
+    "guesses": "Jumping",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9258__shortCode-SGS0519__drawerId-1104__gameWord-throwing__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "throwing",
+    "guesses": "Throw, Throw",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9371__shortCode-SGS0519__drawerId-1103__gameWord-clapping__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "clapping",
+    "guesses": "Clapping, Clapping",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9524__shortCode-SGS0519__drawerId-1104__gameWord-juggling__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "juggling",
+    "guesses": "Juggling",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9633__shortCode-SGS0519__drawerId-1104__gameWord-skydiving__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "skydiving",
+    "guesses": "Parachutinh , Skydiving, Skydiving",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9646__shortCode-SGS0519__drawerId-1105__gameWord-stealing__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "stealing",
+    "guesses": "Dtealing ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "56_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9657__shortCode-SGS0519__drawerId-1105__gameWord-cutting__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "cutting",
+    "guesses": "Cutting, Cutting",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

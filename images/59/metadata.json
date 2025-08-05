@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "59_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-7916__shortCode-SGS0519__drawerId-1103__gameWord-island__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "island",
+    "guesses": "Island, Island, Island, Island",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-7997__shortCode-SGS0519__drawerId-1106__gameWord-bank__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "bank",
+    "guesses": "Bank, Bank",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8007__shortCode-SGS0519__drawerId-1105__gameWord-bowling_alley__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "bowling alley",
+    "guesses": "Bowling alley,     Bowling alley",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8052__shortCode-SGS0519__drawerId-1104__gameWord-house__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "house",
+    "guesses": "House , House, House",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8088__shortCode-SGS0519__drawerId-1104__gameWord-pet_shop__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pet shop",
+    "guesses": "Pet shop, Pet shop",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8165__shortCode-SGS0519__drawerId-1131__gameWord-cave__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "cave",
+    "guesses": "Cave",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8288__shortCode-SGS0519__drawerId-1106__gameWord-post_office__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "post office",
+    "guesses": "Post office",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8780__shortCode-SGS0519__drawerId-1103__gameWord-pharmacy__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pharmacy",
+    "guesses": "Phrmacy",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8781__shortCode-SGS0519__drawerId-1103__gameWord-pharmacy__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pharmacy",
+    "guesses": "Pharmacy",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "59_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8839__shortCode-SGS0519__drawerId-1105__gameWord-train_station__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "train station",
+    "guesses": "Train station",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

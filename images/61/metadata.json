@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "61_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8313__shortCode-SGS0519__drawerId-1131__gameWord-candle__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "candle",
+    "guesses": "Candle, Candle, Candle, Candle",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8328__shortCode-SGS0519__drawerId-1104__gameWord-rubik's_cube__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "rubik's cube",
+    "guesses": "Cube",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8368__shortCode-SGS0519__drawerId-1106__gameWord-soccer_ball__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "soccer ball",
+    "guesses": "Foo tboll, Football, Football",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8610__shortCode-SGS0519__drawerId-1106__gameWord-glasses__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "glasses",
+    "guesses": "Glasses",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8715__shortCode-SGS0519__drawerId-1103__gameWord-bicycle__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "bicycle",
+    "guesses": "Bicycle, Bicycle",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8754__shortCode-SGS0519__drawerId-1103__gameWord-hammer__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "hammer",
+    "guesses": "Hammer",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8877__shortCode-SGS0519__drawerId-1103__gameWord-car__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "car",
+    "guesses": "Car, Car, Car, Car",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8913__shortCode-SGS0519__drawerId-1106__gameWord-boat__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "boat",
+    "guesses": "Boat, Boat , Boat",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8915__shortCode-SGS0519__drawerId-1106__gameWord-boat__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "boat",
+    "guesses": "Boat, Boat, Boat",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "61_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9018__shortCode-SGS0519__drawerId-1131__gameWord-bus__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "bus",
+    "guesses": "Bus, Bus",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

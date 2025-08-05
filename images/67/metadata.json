@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "67_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8217__shortCode-SGS0519__drawerId-1105__gameWord-Basketball__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Basketball",
+    "guesses": " Basketball, Basketball, Basketball, Basketball",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8436__shortCode-SGS0519__drawerId-1103__gameWord-Surfing__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Surfing",
+    "guesses": "Surfing, Surfing",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8469__shortCode-SGS0519__drawerId-1105__gameWord-Basketball__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Basketball",
+    "guesses": "Basketball",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9614__shortCode-SGS0519__drawerId-1104__gameWord-Handball__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Handball",
+    "guesses": "Handball, Handball",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9616__shortCode-SGS0519__drawerId-1131__gameWord-Soccer__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Soccer",
+    "guesses": "Football, Football, Soccer",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9626__shortCode-SGS0519__drawerId-1131__gameWord-Soccer__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Soccer",
+    "guesses": "Soccer, Soccer, Football",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10621__shortCode-SGS0519__drawerId-1106__gameWord-Judo__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Judo",
+    "guesses": "Judo, Judo",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10622__shortCode-SGS0519__drawerId-1106__gameWord-Judo__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Judo",
+    "guesses": "Judo, Judo",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-11793__shortCode-SGS0519__drawerId-1105__gameWord-Soccer__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Soccer",
+    "guesses": "Soccer, Soccer, Soccer",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "67_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-11970__shortCode-SGS0519__drawerId-1131__gameWord-Karate__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "Karate",
+    "guesses": "Kara , Kara ",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

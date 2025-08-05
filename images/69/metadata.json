@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "69_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8505__shortCode-SGS0519__drawerId-1103__gameWord-asteroid__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "asteroid",
+    "guesses": "Astroid",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8957__shortCode-SGS0519__drawerId-1106__gameWord-big_bang__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "big bang",
+    "guesses": "Bigbang",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9451__shortCode-SGS0519__drawerId-1103__gameWord-DNA__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "DNA",
+    "guesses": "Dna, Dna, Dna",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-10294__shortCode-SGS0519__drawerId-1103__gameWord-thermometer__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "thermometer",
+    "guesses": "Thermometer",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-12270__shortCode-SGS0519__drawerId-1106__gameWord-parabolic_antenna__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "parabolic antenna",
+    "guesses": "Parablic , Parabolic an, Parabolic ann, Parabolic ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-12891__shortCode-SGS0519__drawerId-1104__gameWord-moon__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "moon",
+    "guesses": "Moon",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-13104__shortCode-SGS0519__drawerId-1105__gameWord-wifi__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "wifi",
+    "guesses": "Wifi, Wifi",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-14590__shortCode-SGS0519__drawerId-1106__gameWord-laser__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "laser",
+    "guesses": "Laser, Laser",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-15193__shortCode-SGS0519__drawerId-1106__gameWord-telescope__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "telescope",
+    "guesses": "Telescope, Telescope",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "69_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-15195__shortCode-SGS0519__drawerId-1106__gameWord-telescope__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "telescope",
+    "guesses": "Telescope, Telecope, Telescope",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

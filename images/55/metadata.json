@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "55_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8294__shortCode-SGS0519__drawerId-1104__gameWord-giraffe__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "giraffe",
+    "guesses": "Giraf fe",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8353__shortCode-SGS0519__drawerId-1104__gameWord-pufferfish__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pufferfish",
+    "guesses": "Pufferfish, Pufferfish",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8657__shortCode-SGS0519__drawerId-1105__gameWord-frog__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "frog",
+    "guesses": "Frog",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8667__shortCode-SGS0519__drawerId-1103__gameWord-elephant__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "elephant",
+    "guesses": "Elphant , Elephant",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9406__shortCode-SGS0519__drawerId-1106__gameWord-chicken__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "chicken",
+    "guesses": "Chicken, Chicken",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9729__shortCode-SGS0519__drawerId-1105__gameWord-pig__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pig",
+    "guesses": "Pig",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9858__shortCode-SGS0519__drawerId-1103__gameWord-dolphin__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "dolphin",
+    "guesses": "Dolphin",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9859__shortCode-SGS0519__drawerId-1103__gameWord-snail__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "snail",
+    "guesses": "Snail",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9860__shortCode-SGS0519__drawerId-1106__gameWord-sloth__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "sloth",
+    "guesses": "Sloth, Sloth",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "55_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9862__shortCode-SGS0519__drawerId-1103__gameWord-snail__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "snail",
+    "guesses": "Snail, Snail",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]

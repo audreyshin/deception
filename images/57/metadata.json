@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "57_0.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8009__shortCode-SGS0519__drawerId-1105__gameWord-nun__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "nun",
+    "guesses": "Nun, Nun",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_1.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8415__shortCode-SGS0519__drawerId-1106__gameWord-florist__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "florist",
+    "guesses": "FLORIST ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_2.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8640__shortCode-SGS0519__drawerId-1104__gameWord-blacksmith__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "blacksmith",
+    "guesses": "Blacksmith",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_3.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8670__shortCode-SGS0519__drawerId-1104__gameWord-chef__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "chef",
+    "guesses": "Chef, Chef",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_4.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-8767__shortCode-SGS0519__drawerId-1103__gameWord-journalist__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "journalist",
+    "guesses": "Journalist",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_5.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9061__shortCode-SGS0519__drawerId-1131__gameWord-pirate__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pirate",
+    "guesses": "Pirate",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_6.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9065__shortCode-SGS0519__drawerId-1131__gameWord-pirate__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "pirate",
+    "guesses": "Pirate, Pirate",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_7.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9899__shortCode-SGS0519__drawerId-1104__gameWord-magician__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "magician",
+    "guesses": "Magician",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_8.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9904__shortCode-SGS0519__drawerId-1104__gameWord-magician__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "magician",
+    "guesses": "Magi ",
+    "result": "AI_LOSE_COMPLETELY"
+  },
+  {
+    "filename": "57_9.jpg",
+    "drawing_url": "https://production-bckt.sfo3.cdn.digitaloceanspaces.com/drawings/game-2458__round-9988__shortCode-SGS0519__drawerId-1104__gameWord-blacksmith__result-AI_LOSE_COMPLETELY.jpg",
+    "ai_send_text": "blacksmith",
+    "guesses": "Blacksmith, Blacksmith",
+    "result": "AI_LOSE_COMPLETELY"
+  }
+]
