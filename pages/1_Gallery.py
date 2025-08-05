@@ -56,7 +56,7 @@ for i, (_, row) in enumerate(filtered_df.iterrows()):
     col = cols[i % 3]  # loop over 3 columns
     with col:
         category_folder = str(row["category_id"])
-        image_path = os.path.join("deception_dashboard/images", category_folder, row["image_path"])
+        image_path = os.path.join("images", category_folder, row["image_path"])
         if os.path.exists(image_path):
             st.image(Image.open(image_path), caption=row["ground_truth"], use_container_width=True)
             st.markdown(f"`{row['technique_used']}`")
