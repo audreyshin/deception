@@ -13,7 +13,7 @@ id_to_name = {
 }
 
 # Load data
-df = pd.read_csv("deception_dashboard/labled_drawings.csv")
+df = pd.read_csv("labled_drawings.csv")
 df["category_name"] = df["category_id"].map(id_to_name)
 
 # Title
