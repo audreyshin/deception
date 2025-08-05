@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="Home", layout="wide")
+
 st.title("Human Techniques for Deceiving AI in QuickDraw")
 
 st.markdown("""
