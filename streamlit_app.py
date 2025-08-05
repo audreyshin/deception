@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Home", layout="wide")
 
-st.title("Human Techniques for Deceiving AI in QuickDraw")
+st.title("Human Techniques for Deceiving AI in Outdraw AI")
 
 st.markdown("""
 For this part of the project I explore how humans are able to fool AI models like Gemini when drawing sketches. I went through incorrect guesses from the LLM and labeled techniques drawers used to confuse the AI. The purpose
