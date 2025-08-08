@@ -145,7 +145,7 @@ techniques = {
     "Implied Scene": "Context only makes sense when elements are interpreted as a whole.",
     "Invalid Test Result": "This includes test rounds, obvious cheating, or invalid entries.",
     "Minimalist Abstraction": "Sparse lines that suggest form without explicit detail. An outline of the object.",
-    "Misaligned Feature": "Core parts placed incorrectly, like a leg coming out of a chin or face in the wrong place.",
+    "Misaligned Feature": "Core parts placed incorrectly, like a leg coming out of a chin or face in the wrong place. Disproportionate sizing.",
     "Object Decomposition": "Drawn in parts, not as a whole — breaking down template-matching techniques.",
     "Odd Perspective": "Mixing top-down and side views.",
     "Overwriting Motion": "Object drawn, then scribbled over to confuse the AI.",
