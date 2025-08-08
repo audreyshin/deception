@@ -217,7 +217,7 @@ examples = {
         "notes": "The misaligned features, the off proportions of the walrus helped humans guess correctly but threw off the LLM."
     },
     "Object Decomposition": {
-        "image_path": "images/60/60_1.jpg",
+        "image_path": "images/60/60_6.jpg",
         "ground_truth": "melon",
         "ai_guess": "soda",
         "notes": "Object is in a different form throwing off the AI."
