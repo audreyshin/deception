@@ -64,38 +64,73 @@ else:
         unsafe_allow_html=True
     )
 
-
-# === Section: Frequency of Techniques (Bar Chart) ===
 st.subheader("Frequency of Techniques" + (f" in {selected_category}" if selected_category != "All" else ""))
 
-tech_counts = Counter()
-for techniques in filtered_df["technique_used"].dropna():
-    tech_counts.update([t.strip() for t in techniques.split(",")])
+view_mode = st.selectbox(
+    "Choose Frequency View",
+    ["Raw frequency (default)", "Category weighted frequency"]
+)
 
-dist_df = pd.DataFrame(tech_counts.items(), columns=["Technique", "Count"]).sort_values("Count", ascending=False)
+if view_mode == "Raw frequency (default)":
+    st.markdown(
+        """
+        <div style='font-size:15px; margin-bottom:10px;'>
+        <b>Raw frequency</b> counts how often each technique appears across all drawings. 
+        Categories with more drawings will naturally dominate the counts.
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 
+    tech_counts = Counter()
+    for techniques in filtered_df["technique_used"].dropna():
+        tech_counts.update([t.strip() for t in techniques.split(",")])
+
+    dist_df = pd.DataFrame(tech_counts.items(), columns=["Technique", "Count"]).sort_values("Count", ascending=False)
+
+else:
+    st.markdown(
+        """
+        <div style='font-size:15px; margin-bottom:10px;'>
+        <b>Category weighted frequency</b> averages technique usage across all categories so that 
+        no single category skews the result. Each category contributes equally.
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    # Build category-weighted frequency
+    df_exp = df.dropna(subset=["technique_used"]).copy()
+    df_exp["technique_used"] = df_exp["technique_used"].str.split(",")
+    df_exp = df_exp.explode("technique_used")
+    df_exp["technique_used"] = df_exp["technique_used"].str.strip()
+
+    cat_counts = df_exp.groupby("category_name")["technique_used"].value_counts(normalize=True).unstack(fill_value=0)
+    dist_df = cat_counts.mean(axis=0).reset_index()
+    dist_df.columns = ["Technique", "Count"]
+    dist_df = dist_df.sort_values("Count", ascending=False)
+
+# --- Show chart ---
 if not dist_df.empty:
     fig = px.bar(
         dist_df,
         x="Technique",
         y="Count",
-        labels={"Technique": "Technique", "Count": "Occurrences"},
-        title="",
-        color_discrete_sequence=["#e75480"]  # 💖 solid hot pink
+        labels={"Technique": "Technique", "Count": "Frequency"},
+        color_discrete_sequence=["#e75480"]
     )
-
     fig.update_layout(xaxis_tickangle=-45)
     st.plotly_chart(fig)
-else:
-    st.info("No technique data available for this category.")
 
-# === Dynamic summary line for most popular technique ===
-if not dist_df.empty:
-    top_technique = dist_df.iloc[0]  # first row = most used
+    # Dynamic summary
+    top_technique = dist_df.iloc[0]
+    view_label = "all drawings" if view_mode == "Raw frequency (default)" else "each category"
     context = selected_category if selected_category != "All" else "all categories"
+
     st.markdown(
         f"<p style='font-size:16px; margin-top: -10px;'>"
-        f"The most popular technique for <b>{context}</b> is <b>{top_technique['Technique']}</b> with <b>{top_technique['Count']}</b> uses."
+        f"The most used technique in <b>{context}</b> based on <b>{view_label}</b> is "
+        f"<b>{top_technique['Technique']}</b>."
         f"</p>",
         unsafe_allow_html=True
     )
@@ -173,3 +208,4 @@ if co_matrix is not None:
         f"</p>",
         unsafe_allow_html=True
     )
+
