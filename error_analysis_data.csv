@@ -1,0 +1,910 @@
+category_id,image_path,technique_used,notes,ground_truth,human_guesses,ai_guess,ai_confidence,ai_reasoning,created_at
+59,59/59_0.jpg,,,graveyard,"Graveyard, Graveyard",Landing Strip,82,The flags on top make me think of a landing strip for planes!,2025-06-13T21:35:15.170593+00:00
+59,59/59_1.jpg,,,pharmacy,"Drug store, Idk, Pharmacy",Residence,55,"The 'R' could be for Residence, a place where people live.",2025-06-15T21:55:01.091591+00:00
+55,55/55_0.jpg,,,mouse,"Mouse, Mouse",aardvark,72,That snout and tail could belong to an aardvark!,2025-06-16T21:48:56.503751+00:00
+59,59/59_2.jpg,,,cave,"Cave, Roro, Cave",hair salon,80,The messy hair reminds me of a hair salon!,2025-06-17T19:49:04.775695+00:00
+55,55/55_1.jpg,,,hedgehog,Hedgehog,bunny,70,Looks like a bunny to me!,2025-06-18T03:54:21.539837+00:00
+64,64/64_0.jpg,,,Nintendo,"🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹🏹, Nintendo, Nintendo, A box",LG,72,The rectangle shape reminds me of an LG TV screen!,2025-06-18T20:48:29.830264+00:00
+55,55/55_2.jpg,,,spider,Spider,robot,80,Looks like a cute little robot waving its arms!,2025-06-18T21:18:47.235978+00:00
+59,59/59_3.jpg,,,cafe,"Pool, Kitchen, Cafe, Kitchen",Call center,82,Looks like a person working at a desk in a call center.,2025-06-20T19:00:31.449515+00:00
+56,56/56_0.jpg,,,bowling,"Bowling, Shirt, Bowling, Bowling",filming,80,Looks like someone is filming someone else!,2025-06-20T20:52:29.883115+00:00
+60,60/60_0.jpg,,,blueberry,"Banana, Blueberry, Ice, Posicle",blob,8,It looks like a blob!,2025-06-20T22:19:23.308263+00:00
+72,72/72_0.jpg,,,James Bond,"James bond, Violence, Pirate",Scissors,67,"It's a stick figure holding scissors, plain and simple!",2025-06-22T18:37:37.71121+00:00
+57,57/57_0.jpg,,,farmer,"Farmer, Farmer, Farmer, Farmer",chairperson,89,That stick figure looks like it's sitting on a chair!,2025-06-22T23:18:15.361114+00:00
+61,61/61_0.jpg,,,nuclear weapon,"Chess, Nuclear weapon",propeller,70,It looks like a propeller spinning really fast!,2025-06-22T23:53:22.346115+00:00
+72,72/72_1.jpg,,,Black Panther,"Dogman, Jurasic park, Black panther, Dogman",Mask,10,The mask is the main feature of the drawing.,2025-06-24T17:34:37.768334+00:00
+61,61/61_1.jpg,,,flashlight,"Battery, Flashlight, Flashlight",bolt,75,It looks like a bolt.,2025-06-24T20:51:15.258398+00:00
+57,57/57_1.jpg,,,father,"Father, Yoga, A potato, Father",entertainer,50,The drawing looks like someone who is trying to entertain!,2025-06-25T22:50:13.780232+00:00
+64,64/64_1.jpg,,,LEGO,"Lego, Person, Coat, 👨🏿‍🦰",UPS,44,Looks like a delivery person carrying a package.,2025-06-25T23:36:43.386671+00:00
+56,56/56_1.jpg,,,kicking,"Kicking, Kicking, Soccer, Kicking",tanning,82,The person is getting a tan!,2025-06-26T20:40:57.157568+00:00
+69,69/69_0.jpg,,,telescope,"Microscope, Telescope, Microscope",cell,78,"It looks like a device used to observe tiny things, like a cell.",2025-06-27T18:27:47.899305+00:00
+61,61/61_2.jpg,,,axe,"Axe, Tree stump",stool,70,It looks like a stool with a swirly pattern on top!,2025-06-28T17:17:49.750011+00:00
+56,56/56_2.jpg,,,rowing,"Kayaking, Rowing, Carot, Eating",scribbling,82,It looks like someone is just scribbling on the paper!,2025-06-28T18:51:57.767675+00:00
+60,60/60_1.jpg,,,pudding,"Pudding, Soup, Noodles",noodles,70,"It looks like a bowl of noodles, ready to be eaten!",2025-06-29T18:29:00.328715+00:00
+72,72/72_2.jpg,,,Snow White,"Ninja turtles, Snow white, Angry bird",Karate Kid,60,The stance reminds me of a karate pose!,2025-06-29T21:40:47.698729+00:00
+55,55/55_3.jpg,,,cow,"Cow, Cow, Cow",worm,8,Looks like a worm that's been flattened by a cartoon character!,2025-06-29T22:35:28.015273+00:00
+72,72/72_3.jpg,,,Spider-Man,"Spiderman, Z, Spiderman, Spiderman",Chaos,45,Looks like a scene of utter chaos and disorder!,2025-06-30T21:52:47.464763+00:00
+72,72/72_4.jpg,,,Superman,"?, Super man, Superman, Superman",Television,60,It's a TV showing a person! Simple as that!,2025-07-02T20:11:07.553806+00:00
+60,60/60_2.jpg,,,ketchup,"Ketchup, Currywurst, Curry",pho,82,It looks like a bowl of Vietnamese noodle soup.,2025-05-28T02:15:35.891951+00:00
+71,71/71_0.jpg,,,Fortnite,"Fortnite, Pokemon?",Gems of War,40,"It looks like a gem with a face, so maybe it's Gems of War?",2025-07-01T18:12:36.159639+00:00
+56,56/56_3.jpg,,,writing,"Writing, Who knows, Writing, Girl",diving,70,"Looks like someone is diving into a pool, or maybe just floating?",2025-07-02T18:51:16.034269+00:00
+57,57/57_2.jpg,,,gymnast,"Surfer, Gymnast, Gymnast, Gymnast",swimmer,75,Looks like someone swimming in the ocean!,2025-07-03T18:32:10.683791+00:00
+65,65/65_0.jpg,,,North Korea,"North korea..., North korea, Japan",Morocco,78,"Hmm... ""Your Mom"" sounds like Morocco! It's a bit of a stretch, I admit.",2025-07-03T19:21:16.795187+00:00
+60,60/60_3.jpg,,,eggplant,"Eggplant, Eggplant, Seed sprout, Potato seed",flower,15,"The drawing looks like a flower, maybe with a stem and petals!",2025-07-04T20:25:45.023366+00:00
+65,65/65_1.jpg,,,Bangladesh,"Canada, Bangladesh, Vietnam, Usa",Korea,80,The circle in the middle reminds me of the Korean flag.,2025-07-05T22:24:37.327724+00:00
+61,61/61_3.jpg,,,book,"Window, Window, Window, Book",futon,55,"Looks like a futon, ready to be unfolded for a guest!",2025-07-06T23:06:46.904123+00:00
+55,55/55_4.jpg,,,walrus,"Ghydg, Falling, Walrus, Octopus",tadpole,82,Looks like a tadpole with a tail!,2025-07-07T20:28:05.832739+00:00
+57,57/57_3.jpg,,,farmer,"Farmer, farmer",nope,35,The drawing looks like a series of 'n's. Nope starts with 'n'!,2025-07-07T23:55:19.417752+00:00
+65,65/65_2.jpg,,,United Arab Emirates,"Puru, Paru, United arab emirates, Paru",New Zealand,44,"The shape looks like a kiwi, which is from New Zealand.",2025-07-08T20:25:26.058283+00:00
+59,59/59_4.jpg,,,movie theater,"Movie theater, Laptop",Room,89,The word 'room' is written on the side.,2025-07-09T18:49:23.957194+00:00
+60,60/60_4.jpg,,,spaghetti,"Pasta, Spaghetti, Pasta",scribbles,75,It looks like a bunch of scribbles!,2025-07-09T18:53:13.28826+00:00
+68,68/68_0.jpg,,,Ramadan,"Dinner, Ramadan",Boycott,89,Maybe it's a boycott against unhealthy foods. Pizza and donuts are the targets!,2025-07-11T01:39:51.406769+00:00
+71,71/71_1.jpg,,,Kirby,"Kirby, Kirby, Kirby, Kirby",Rainbow Road,82,The rainbow makes me think of a colorful race track!,2025-07-11T03:20:29.5675+00:00
+56,56/56_4.jpg,,,drinking,"Reading, Drinking, Drinking, Block",filming,85,The stick figure is holding a camera to film something!,2025-07-11T21:19:21.61779+00:00
+59,59/59_5.jpg,,,waterfall,"Waterfall, Water, Waterfall",scribbled-over,90,Hmm... It looks like someone went wild with the pen!,2025-07-13T18:39:42.373449+00:00
+64,64/64_2.jpg,,,McDonald's,"Bag, Happy meel, Mcdonalds",Cartoon Network,75,It looks like a cartoon character!,2025-07-13T23:34:30.959113+00:00
+57,57/57_4.jpg,,,spy,"Spy, Super hero",performer,70,"The figure is in a spotlight, so it could be any kind of performer!",2025-07-14T23:33:00.441997+00:00
+60,60/60_5.jpg,,,chocolate,"Chocolate, Pig, Milk",pancake,40,It looks like a pancake with a grid pattern.,2025-07-16T19:57:59.788484+00:00
+61,61/61_4.jpg,,,brick,"Bic, Brick, Hair, Brick",haystack,82,It looks like a messy haystack!,2025-07-16T20:59:53.537478+00:00
+72,72/72_5.jpg,,,The Matrix,"The matrix, The matrix, The matrix, The matrix",Casper,75,It looks like Casper the friendly ghost!,2025-07-16T21:23:58.047709+00:00
+71,71/71_2.jpg,,,Monster Hunter,"Mine craft, Monsterhunter, Monster hunter, Monster hunter",Phasmophobia,80,The word 'Tasmac' looks like 'Phasm' which is related to ghosts.,2025-07-17T22:47:41.180266+00:00
+61,61/61_5.jpg,,,bottle,"Lamp, Bottle, Bottle, Bottle",water pump,70,It looks like a water pump with a muscular body.,2025-07-18T01:53:17.661499+00:00
+59,59/59_6.jpg,,,police station,"Police station, Garage, Police staion, House",garage,55,Looks like a garage with a car inside.,2025-07-18T21:17:19.561102+00:00
+60,60/60_6.jpg,,,coconut,"Coconut, Watermelon, Pan dulce, Hole",cantaloupe,77,"It's round and has lines, like a cantaloupe! A sweet treat.",2025-07-19T19:53:58.261022+00:00
+61,61/61_6.jpg,,,stapler,Stapler,paper airplane,80,It looks like a paper airplane!,2025-07-20T19:16:08.470939+00:00
+71,71/71_3.jpg,,,Genshin Impact,"Genshin impact, Person with stick, King",Elden Ring,40,"A lone warrior with a sword, wandering a dangerous land.",2025-07-21T18:25:52.671591+00:00
+59,59/59_7.jpg,,,bowling alley,"Dxfgoiftdjjklrgfnuilbfdsfhkirebfiue,sbaf, Castle, Poop, Bowling alley",water park,82,"It looks like a water slide and a pool, so maybe a water park?",2025-07-21T21:38:58.114851+00:00
+58,58/58_0.jpg,,,Infinity,"Infinity, Infinity, Infinity",Mess,89,"Well, it certainly looks like a mess!",2025-07-23T23:11:58.755733+00:00
+68,68/68_1.jpg,,,Easter,Easter,Border crossing,75,"The ladder and figures suggest people crossing a border, maybe illegally.",2025-07-24T18:07:21.721111+00:00
+57,57/57_5.jpg,,,firefighter,"Firefighter, Sailor, A man",illustrator,82,The drawing style makes me think of an illustrator.,2025-07-24T18:10:22.5754+00:00
+60,60/60_7.jpg,,,croissant,"Croissant, Poop, Crossiant, Croissant",ravioli,70,"The shapes look like ravioli, all squished together.",2025-07-25T18:23:08.717175+00:00
+60,60/60_8.jpg,,,sushi,"Eggs, Pancake, Sushi, Sferes orbiting sferes tomoros",bagel,80,It looks like a bagel!,2025-07-25T18:47:46.911029+00:00
+56,56/56_5.jpg,,,hugging,"Happy, Fight, Hug, Hugging",directing,55,Looks like someone is giving instructions or guidance!,2025-07-25T19:54:51.147228+00:00
+57,57/57_6.jpg,,,fisherman,"Fisher, Fisherman, Fishing",writer,80,"Looks like someone writing at a desk, maybe a writer?",2025-07-26T21:54:19.084662+00:00
+72,72/72_6.jpg,,,Indiana Jones,"Indiana jones, Indiana jones, Indana jones",Indonesia,85,"Well, they spelled it out for us, didn't they?",2025-07-27T18:24:42.430444+00:00
+59,59/59_8.jpg,,,sewer,"Bench, Ttfjfgvi, Sewer, Bridge",seaside,60,It looks like a seaside with a cart on the beach.,2025-07-27T23:29:25.579748+00:00
+56,56/56_6.jpg,,,farting,"Defecate, Dancing, Farting",creating,88,The person seems to be making something with their hands.,2025-07-28T22:17:35.058099+00:00
+56,56/56_7.jpg,,,destroying,"Pac man, Pac man, Destroying, Pac man",chomping,79,It's chomping away at those dots!,2025-07-29T18:07:47.630177+00:00
+56,56/56_8.jpg,,,jumping,"Weirdo, Jumping, Jumping, Feet  ",gliding,82,Looks like someone is gliding across the ice!,2025-07-30T19:35:39.769196+00:00
+55,55/55_5.jpg,,,fly,"Fly, Alian ?, Seagulls, Forest",mosquito,40,Looks like a mosquito buzzing around!,2025-07-30T23:00:54.001456+00:00
+71,71/71_4.jpg,,,Animal Crossing,"Crosing road, Animal crossing, Crossy road, Crossy road",Need for Speed,45,"Looks like a road and some cars, could be a racing game!",2025-07-31T20:16:18.321823+00:00
+60,60/60_9.jpg,,,pizza,"Pizza, Pepperoni pizza",sponge,80,Looks like a sponge with holes!,2025-08-01T22:47:23.104212+00:00
+56,56/56_9.jpg,,,yelling,"Yelling, Yelling",studying,80,Looks like someone is studying notes in a book.,2025-08-02T18:34:33.035666+00:00
+71,71/71_5.jpg,,,Guitar Hero,"Guitar hero, Guitar hero, Chutes and ladders",Block Puzzle,65,It looks like a block puzzle game.,2025-08-03T00:46:37.365961+00:00
+65,65/65_3.jpg,,,Ireland,"Ireland, Jamaica, Switzerland, Do not enter",Ecuador,10,It looks like a package from Ecuador.,2025-08-03T20:29:26.467529+00:00
+59,59/59_9.jpg,,,garden,"Not a place ⚔️🗡️⚔️🗡️⚔️🗡️⚔️⚔️🗡️⚔️⚔️🗡, 🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽, Z, Garden",ravine,60,The lines look like the steep sides of a ravine.,2025-08-03T22:03:25.926586+00:00
+65,65/65_4.jpg,,,Iceland,"Iceland, POOP POtato, Iceland, Iceland",Greece,8,The circle reminds me of the sun and the pointy shapes of mountains.,2025-06-13T21:02:30.218292+00:00
+71,71/71_6.jpg,,,Super Mario Bros.,"Super mario bros, Mario, Super mario bros, Mario",Terraria,34,The blocky figure and bag remind me of resource gathering.,2025-06-13T23:29:46.599149+00:00
+61,61/61_7.jpg,,,chess,"Chess, Chess, Chess",cage,82,"It looks like a cage, maybe for a pet?",2025-06-15T19:29:58.352567+00:00
+55,55/55_6.jpg,,,caterpillar,"Caterpillar, Slug and butterfly, Worm, Caterpillar",sea cucumber,82,It looks like a sea cucumber!,2025-06-16T22:03:40.143534+00:00
+61,61/61_8.jpg,,,nuclear weapon,"Sky island, Nuclear weapon, Umbrella",octopus,80,It looks like an octopus!,2025-06-16T23:18:50.85073+00:00
+72,72/72_7.jpg,,,Snow White,"Sleeping beauty, Frozen, Snow white",Ice Age,60,The snowflake-like drawing makes me think of a certain icy movie!,2025-06-18T01:46:10.371588+00:00
+55,55/55_7.jpg,,,penguin,"Penguin, Penguin, Penguin, Penguin",mouse,80,Looks like a cute little mouse with a round body!,2025-06-18T02:40:44.631458+00:00
+65,65/65_5.jpg,,,United Kingdom,"Uk flag, United kingdom",England,80,The crown looks like a royal crown!,2025-06-18T03:12:00.709871+00:00
+72,72/72_8.jpg,,,Shrek,"Shreik, Shrek, Alian, Shrek",Karate Kid,34,The stance looks like he is ready to fight!,2025-06-20T22:14:06.975572+00:00
+68,68/68_2.jpg,,,Easter,"Human rabbit, Play, Lilo and stich, Easter",Power dynamics,81,"The size difference screams power imbalance, doesn't it?",2025-06-21T21:16:15.916406+00:00
+68,68/68_3.jpg,,,Mothers day,"Couple, No idea, Mothers day, Gift",Celebration,40,Looks like a celebration of some sort with gifts and flowers!,2025-06-21T22:05:17.71366+00:00
+59,59/59_10.jpg,,,cafe,"Cafe, Cat, Coffee, Yosemite",turtle shell,80,Looks like a turtle shell!,2025-06-22T19:53:03.391524+00:00
+64,64/64_3.jpg,,,Sony,"Sony, Espn, LCD, TV",Twitch,44,"Two people on a screen, maybe streaming on Twitch?",2025-06-22T20:14:02.678982+00:00
+60,60/60_10.jpg,,,almond,"Corn, Seed, A., Almond",olive,85,"It looks like an olive, maybe a green one?",2025-06-22T20:22:05.184609+00:00
+72,72/72_9.jpg,,,Superman,"Superman, Super man, Superman, Superman",The Fly,30,The antennae-like features make me think of an insect.,2025-06-22T23:19:49.049086+00:00
+60,60/60_11.jpg,,,tomato,"Grapefruit, Tomato, Tomatoe",fruit,55,It generally looks like a fruit cut into segments.,2025-06-23T19:28:46.979121+00:00
+57,57/57_7.jpg,,,miner,"Miner, Miner, Im not putting anything in, Miner",sailor,65,"That hat looks like a sailor's hat, and those lines could be the sea!",2025-06-23T21:27:48.769845+00:00
+72,72/72_10.jpg,,,Shrek,"Shrek, Walle, A dog with a tennis ball and a jar",Air Bud,89,A dog playing basketball? That's gotta be Air Bud!,2025-06-24T18:49:13.801665+00:00
+56,56/56_10.jpg,,,eating,"Eating, Kid in diper trying to get poo, Food, Reaching",scaling,80,"Looks like someone is scaling a wall, or maybe a fridge? Hmm…",2025-06-24T20:27:04.224566+00:00
+72,72/72_11.jpg,,,The Lion King,"The lion king, Thelionking, Wertygjbbnn b",Poseidon,80,The drawing looks like someone is at the front of a ship!,2025-06-26T18:40:06.851018+00:00
+55,55/55_8.jpg,,,cow,"Bhhhgy, What!, Cow, Cow",worm,30,It looks like a worm in a pile of dirt.,2025-06-26T18:46:10.395908+00:00
+55,55/55_9.jpg,,,goldfish,"Goldfish, Squirrel, Lion",squid,55,It looks like a squid with many tentacles.,2025-06-26T21:43:03.976963+00:00
+67,67/67_0.jpg,,,Bowling,"Softball, Soccer, Bowling, Cookie",Football,70,It looks like a football with a box next to it.,2025-06-26T23:05:36.092645+00:00
+71,71/71_7.jpg,,,Portal,"Pac Man, Portal, Billiards, ?",Puzzle Bobble,72,"It looks like bubbles in a box, so maybe Puzzle Bobble?",2025-06-27T23:33:36.144523+00:00
+59,59/59_11.jpg,,,prison,"Prism,   V jnml,., Prison",Funhouse,70,"It looks like a distorted image, like you'd see in a funhouse mirror!",2025-06-28T20:24:36.598707+00:00
+60,60/60_12.jpg,,,steak,"Steak, Steak",chamomile tea,89,Chamomile tea is known for its calming effects and promoting sleep.,2025-06-28T22:28:55.305407+00:00
+56,56/56_11.jpg,,,drawing,"Doodle, Orbiting, Drawing",swirling,88,The image is literally a bunch of swirls!,2025-06-29T17:38:05.143789+00:00
+59,59/59_12.jpg,,,parking lot,"Parking lot?, Parkinglot, Parking lot, Parking lot",daycare,56,Looks like a daycare center with toys!,2025-06-29T22:26:56.825143+00:00
+56,56/56_12.jpg,,,crying,"Crying, Crying, Crying",storing,80,"It looks like a drawer, so maybe someone is storing something.",2025-06-29T22:33:13.620075+00:00
+64,64/64_4.jpg,,,TikTok,"Rolex, Tiktok, Rolex, Apple",Swatch,67,"It looks like a simple clock, so maybe a simple watch brand?",2025-07-01T21:00:39.622638+00:00
+57,57/57_8.jpg,,,plumber,"Plumber, Plumber, Washing hands, Washing face",patient,70,The person could be a patient at a dentist or doctor's office.,2025-07-01T22:35:35.717716+00:00
+72,72/72_12.jpg,,,Superman,"Superman, Superman, Hockey player",Robot,60,It looks like a sad robot.,2025-07-02T20:46:40.437071+00:00
+60,60/60_13.jpg,,,chicken nugget,"Chickennugget, Chicken nugget, Chicken nuggets!, Chicken nugget",pear,34,Looks like a pear that's been squished a bit.,2025-07-02T20:55:19.651452+00:00
+60,60/60_14.jpg,,,chicken nugget,"Chicken nugget, Chicken nugget, Chickennugget, Chicken nn ",brownie,79,It looks like a warm brownie with steam rising from it.,2025-07-02T21:07:16.070552+00:00
+72,72/72_13.jpg,,,Black Panther,"Black panther, Black panther, Black panther, Black panther",Cats,89,"It says cats, so I'm going with Cats!",2025-07-03T18:37:04.139695+00:00
+55,55/55_10.jpg,,,mosquito,"Mosquito, Misquto, Firefly, Beetle",tick,80,It looks like a tick.,2025-07-03T21:43:03.163614+00:00
+65,65/65_6.jpg,,,Brazil,Brazil,New Zealand,9,"The shape is like a rectangle, and New Zealand is a country!",2025-07-04T19:05:21.349605+00:00
+65,65/65_7.jpg,,,Venezuela,"Toilet, ?, Venezuela, Venuala",Korea,30,The lines remind me of Korean calligraphy!,2025-07-04T20:02:30.766864+00:00
+61,61/61_9.jpg,,,toilet,"Toilet, Tralalero tra la la, Shark with shoes, Toilet",creature,45,Looks like some kind of weird creature with a fin and legs.,2025-07-05T20:20:18.784557+00:00
+55,55/55_11.jpg,,,cat,"Cat, Banny, Cat, Mouse",blobfish,80,It looks like a blobfish!,2025-07-05T23:04:49.683708+00:00
+55,55/55_12.jpg,,,stingray,"Stingray, Stingray, Stingray, Stingray",blobfish,82,It looks like a blobfish!,2025-07-06T19:44:11.07918+00:00
+71,71/71_8.jpg,,,Angry Birds,"Angry birds, Idk, Pac man, Angry birds",Life,30,It looks like a game of life!,2025-07-06T21:33:11.424324+00:00
+59,59/59_13.jpg,,,farm,"Farm, Barn, House, House",shed,55,Looks like a simple shed.,2025-07-06T22:33:29.685127+00:00
+57,57/57_9.jpg,,,composer,"Conductor, Magician, Composer, Conducter",performer,75,"It looks like a performer on stage, belting out a tune or acting!",2025-07-07T23:39:32.491623+00:00
+59,59/59_14.jpg,,,park,"Park, Airport, Bali hai restraunr, Beach",watchtower,55,It looks like a watchtower!,2025-07-08T22:40:27.64072+00:00
+61,61/61_10.jpg,,,vacuum,Vacuum,desk,80,Looks like a desk with a monitor attached.,2025-07-09T17:15:04.152097+00:00
+69,69/69_1.jpg,,,drone,"Bone blossom from grow a garden, Drobe, Drone, Drone",Singularity,88,The scribbles look like everything collapsing into a single point!,2025-07-09T20:03:00.197671+00:00
+59,59/59_15.jpg,,,pool,"Mountains, Pool",tent,80,It looks like a tent.,2025-07-09T22:23:00.545575+00:00
+61,61/61_11.jpg,,,diaper,Diaper,face,60,It looks like a distorted face with scribbles on top.,2025-07-10T18:33:53.870157+00:00
+65,65/65_8.jpg,,,South Korea,"Yourup, United state, Usa, South korea",Oman,45,The word 'Oman' is also in the middle of the drawing. Is it Oman?,2025-07-10T20:07:56.959011+00:00
+60,60/60_15.jpg,,,watermelon,Watermelon,fruit juice,60,Looks like a drop of water being added to a fruit. Fruit juice!,2025-07-12T17:24:11.937182+00:00
+56,56/56_13.jpg,,,opening,"Cutting the ribbon, A race, Playing, Opening",carving,80,Looks like someone is carving something with a tool!,2025-07-12T18:50:07.534912+00:00
+60,60/60_16.jpg,,,butter,"Butter, Butter, Popcorn, butter",cracker,82,Looks like a box of crackers to me!,2025-07-12T23:48:19.651035+00:00
+68,68/68_4.jpg,,,Monarchy,"Monarchy, Answer, Monarchy",Love,82,The butterfly and '+y' makes me think of love!,2025-06-13T21:31:12.667738+00:00
+60,60/60_17.jpg,,,popcorn,"Soda, Taco, Popcorn!!!",milkshake,82,It looks like a milkshake with whipped cream on top!,2025-06-13T21:57:07.03502+00:00
+59,59/59_16.jpg,,,garbage dump,Garbage dump,coffee shop,82,"It looks like a cup of coffee and a table, so maybe a coffee shop?",2025-06-21T02:09:48.048782+00:00
+59,59/59_17.jpg,,,tunnel,"Tunnel, Tunnel, Hiding place, Blackhole?",panic room,88,Looks like a place to hide in a panic!,2025-06-27T04:56:19.680535+00:00
+56,56/56_14.jpg,,,playing,"Playing, Playign, Amongus, A person in room",scribbling,89,"Well, someone's definitely scribbling!",2025-06-28T22:05:35.261862+00:00
+59,59/59_18.jpg,,,gas station,Gas station,scrapyard,70,It looks like a scrapyard with a vehicle moving scrap metal.,2025-07-04T02:03:47.993815+00:00
+61,61/61_12.jpg,,,book,"BoOK, Book, Book, Book",boombox,60,It kind of looks like a boombox with speakers!,2025-07-09T19:00:13.697942+00:00
+57,57/57_10.jpg,,,astronaut,"Astronaut, Astronaut, Umugus, Astronaut",joker,72,The chaotic lines and face remind me of a joker card.,2025-07-09T22:16:09.384123+00:00
+71,71/71_9.jpg,,,Space Invaders,"Space invaders, Galaga, Dig dug",Roblox,72,The blocky figure at the bottom reminds me of a character in Roblox.,2025-05-28T02:25:26.387093+00:00
+70,70/70_0.jpg,,,Hokusai,"Hokusai, House",Takashi Murakami,78,Hmm... the smiling face and the overall cartoonish style remind me of Murakami!,2025-06-18T21:13:18.634059+00:00
+71,71/71_10.jpg,,,Final Fantasy,"Game, Minecraft, Minie mouse, Final fantasy",Blockland,70,The blocky shape and 'Min' writing could be Blockland.,2025-07-22T23:56:33.07648+00:00
+59,59/59_19.jpg,,,sewer,"Sewer, Video game, Nintendo world, Mario",Playground,88,"The character looks like a child, which you often find in a playground.",2025-07-27T23:42:35.792117+00:00
+55,55/55_13.jpg,,,panda,"Panda, Cat, Dog",unicorn,90,It looks like a unicorn!,2025-06-20T20:25:42.798528+00:00
+56,56/56_15.jpg,,,drinking,"Making popcorn, A human, Drinking, Shopping",studying,80,Looks like the stick figure is hitting the books!,2025-06-25T20:26:48.036135+00:00
+72,72/72_14.jpg,,,Iron Man,"Iron man, Dinosor",Shark Tale,45,Looks like a shark in a bubble!,2025-06-18T20:56:51.560828+00:00
+72,72/72_15.jpg,,,Superman,"Superman, Superman, Super man, Supperman",The Fly,33,The scribbles make me think of a fly.,2025-06-29T19:24:48.364505+00:00
+72,72/72_16.jpg,,,Aladdin,"Scarf, Aladdin, Alladin",Scarf Face,89,"The drawing literally says Scarf, so Scarf Face!",2025-07-09T19:02:16.106908+00:00
+59,59/59_20.jpg,,,swamp,"Ocean, Fish, Somp, Swamp",underwater cave,40,It looks like an underwater cave with a creature lurking inside!,2025-07-11T20:02:17.285785+00:00
+59,59/59_21.jpg,,,hospital,"Hospitol, Hospitals suck!, Hospital, Heb",motel,80,It looks like a motel with the 'H' on top!,2025-07-12T22:58:14.525642+00:00
+71,71/71_11.jpg,,,Gears Of War,"Gears of war, Gears of wear, Gears of war, Gears of war",Doom,70,"It looks like a gun, so I'm going with Doom!",2025-07-16T21:30:25.486738+00:00
+57,57/57_11.jpg,,,fortune teller,"Fortune teller, Fortune teller, Fortune teller",coder,80,Looks like a computer with a messy desk. Maybe a coder?,2025-07-29T21:00:50.727516+00:00
+56,56/56_16.jpg,,,dribbling,"Basketbsll, Dribbling",playing,88,Looks like the stick figures are playing with a ball!,2025-06-27T01:50:38.711855+00:00
+60,60/60_18.jpg,,,watermelon,"French fries, Watermelon",sandwich,15,The shape could be a sandwich with lots of fillings.,2025-07-12T17:36:20.213385+00:00
+57,57/57_12.jpg,,,magician,"Tinkerbell, G, Tree man, Magician",,,,2025-07-14T22:11:41.59204+00:00
+60,60/60_19.jpg,,,bubble gum,"Bubble gum, Bubble gum, Bubble gum",,,,2025-07-14T23:52:03.472057+00:00
+65,65/65_9.jpg,,,Finland,"Scrible, Finland, Us, Finland",,,,2025-07-16T21:22:09.970605+00:00
+59,59/59_22.jpg,,,school,"School, School, School, U r lame",,,,2025-07-16T21:28:19.620243+00:00
+60,60/60_20.jpg,,,lettuce,"Lettuce, Popcorn, Popcorn, Ice cream",,,,2025-07-17T18:20:57.77762+00:00
+59,59/59_23.jpg,,,campsite,"Funny farm, Golden gate bridge, Campsite",,,,2025-07-17T19:41:02.19469+00:00
+55,55/55_14.jpg,,,owl,Owl,tick,80,"Looks like a tick carrying a backpack, ready for a hike!",2025-06-05T20:53:01.618683+00:00
+60,60/60_21.jpg,,,corn,Corn,cotton candy,89,"It looks like a big, fluffy cloud of cotton candy!",2025-06-09T23:07:25.845076+00:00
+65,65/65_10.jpg,,,Italy,Italy,New Zealand,10,"The shape reminds me of the kiwi bird, which is native to New Zealand.",2025-07-04T02:48:45.109539+00:00
+61,61/61_13.jpg,,,leaf,"Net, fishing net, Leaf, IDk",fishing bobber,75,It looks like a fishing bobber floating on the water.,2025-06-15T21:09:20.765949+00:00
+61,61/61_14.jpg,,,eraser,"Eraser, Camera, Pink pearl",pink paper,80,It looks like a pink paper with some scribbles on it.,2025-06-21T23:53:25.412763+00:00
+60,60/60_22.jpg,,,banana,"..., Banana, Bnana, Banana",noodles,82,It looks like noodles hanging from a rack to dry.,2025-06-30T22:31:53.925071+00:00
+71,71/71_12.jpg,,,Minecraft,Minecraft,Elden Ring,40,The character looks like he is from Elden Ring.,2025-06-11T19:19:28.410202+00:00
+55,55/55_15.jpg,,,koala,"Labubu, Koala, Koala",teddy bear,60,"Looks like a teddy bear, ready for a hug!",2025-08-01T02:06:25.328203+00:00
+64,64/64_5.jpg,,,Walmart,"Shoe, Race car, Walmart",Sketchers,70,Looks like a Sketchers shoe!,2025-06-13T18:28:29.256472+00:00
+65,65/65_11.jpg,,,Spain,"Spain, Spain",Vietnam,9,"The shape is vaguely like Vietnam, maybe?",2025-06-11T23:22:53.222066+00:00
+72,72/72_17.jpg,,,Minions,Minions,Poseidon,10,"The scribbled drawing could be a trident in the ocean, maybe?",2025-06-13T19:35:38.477602+00:00
+56,56/56_17.jpg,,,voting,"Voting, Pressing a button, Playing computer",working,82,The stick figure is working hard at the typewriter!,2025-06-13T19:46:23.221101+00:00
+57,57/57_13.jpg,,,scientist,"Scientist, Nerd, Scientist, Shearif",lecturer,70,Lecturers often cite sources in their lectures.,2025-06-13T20:31:10.720993+00:00
+55,55/55_16.jpg,,,mouse,"Mouse, Mouse, Repeat",myna,82,Myna birds are known for repeating sounds and mimicking human speech.,2025-06-13T21:29:24.149383+00:00
+65,65/65_12.jpg,,,Iceland,"Iceland, Iceland,         Pooooooooooooooooooooooooooooooo",Uruguay,10,The opposite of green could be the blue in the flag of Uruguay.,2025-06-13T21:50:41.448851+00:00
+71,71/71_13.jpg,,,Angry Birds,"Angry birds, Angry birds",Subnautica,45,The dolphin makes me think of exploring the underwater world of Subnautica.,2025-06-13T22:16:57.798574+00:00
+60,60/60_23.jpg,,,popcorn,"Popcorn, Popcorn, Popcorn",milkshake,34,It looks like a person drinking a milkshake.,2025-06-13T22:19:24.759433+00:00
+59,59/59_24.jpg,,,bakery,"School, Bakery, School bus?, Apartment",building,80,It looks like a building.,2025-06-13T22:41:02.978293+00:00
+56,56/56_18.jpg,,,farting,"Farting, Somebody farting, Farting💨",drawing,70,Someone is drawing a character with a tail!,2025-06-13T22:45:36.183852+00:00
+56,56/56_19.jpg,,,dreaming,"Dri, Dreaming, Drake, Crab",carpooling,60,The car makes me think of carpooling!,2025-06-13T23:03:16.086857+00:00
+57,57/57_14.jpg,,,dentist,"Dentist, Businessman, Chef, Office worker",professional,60,"Looks like a professional in a suit, ready to tackle the day!",2025-06-13T23:18:44.585648+00:00
+58,58/58_1.jpg,,,Infinity,"Joining, Infinity, Infinite",Glasses,80,It looks like a pair of glasses!,2025-06-13T23:39:51.093704+00:00
+69,69/69_2.jpg,,,DNA,"Snake, Dna, Ladder",Pipeline,55,The drawing looks like a pipeline with segments.,2025-06-15T19:01:37.609239+00:00
+61,61/61_15.jpg,,,screw,"Nail, Screw, Axe, Sausage",mallet,70,"Looks like a mallet hitting a strange, segmented object.",2025-06-15T19:24:00.573705+00:00
+61,61/61_16.jpg,,,whistle,"., couch, Whistle",water gun,85,It looks like a water gun!,2025-06-13T21:47:22.288228+00:00
+59,59/59_25.jpg,,,train station,Train station,scribbles,80,It looks like a bunch of scribbles!,2025-06-15T23:31:33.156245+00:00
+56,56/56_20.jpg,,,praying,"Praying, J(, Hands, Climbing",seeing,8,The person is looking at something. ,2025-06-16T19:40:45.243068+00:00
+72,72/72_18.jpg,,,Ghostbusters,Ghostbusters,Alien,55,Looks like an alien is being blocked out!,2025-06-16T20:07:29.075847+00:00
+57,57/57_15.jpg,,,comedian,"Guy with big hat and sword, Comedian, Clown, Person",performer,80,The pose looks like a performer on stage.,2025-06-16T21:13:18.784793+00:00
+57,57/57_16.jpg,,,witch,"Witch, Wizard, New year, Santa",wizard,88,The wand and the surprised face make me think of a wizard!,2025-06-16T21:24:40.761512+00:00
+61,61/61_17.jpg,,,spoon,"Soup, Soup, Soup spoon, Spoon",bowl,85,It looks like a bowl with some fruit inside!,2025-06-16T21:29:39.470138+00:00
+55,55/55_17.jpg,,,walrus,"Shark, Shark, Walrus, Dinosaur",tadpole,82,It looks like a tadpole with a big head and a tail!,2025-06-16T21:35:25.445022+00:00
+57,57/57_17.jpg,,,lawyer,"Lawyer, Lawyer, Attlawer, Lawyer",Builder,78,Looks like someone hammering something. Maybe they're building a house!,2025-06-16T22:51:32.793542+00:00
+59,59/59_26.jpg,,,treehouse,"Treehouse, Treehouse",petting zoo,82,It looks like a building with animals outside.,2025-06-17T17:21:59.754537+00:00
+57,57/57_18.jpg,,,detective,"Detective, Detective, Detective, Detective",wizard,72,The drawing looks like a wizard casting a spell with wild hand gestures.,2025-06-17T17:57:52.407784+00:00
+68,68/68_5.jpg,,,Halloween,"Halloween, Portrait painting, Babysit",Visitation,80,Looks like a family is visiting someone. Perhaps they are bringing a tot?,2025-06-15T22:11:45.487637+00:00
+67,67/67_1.jpg,,,Judo,"Pickleball, Basketball, Judo",Scribble Sports,72,Looks like someone scribbled all over the sports!,2025-06-17T20:10:44.436781+00:00
+57,57/57_19.jpg,,,cowboy,"Cowboy, Cowboy, Cowman, Cowboy",professor,70,The hat makes me think of a professor.,2025-06-17T20:28:56.238716+00:00
+65,65/65_13.jpg,,,Turkey,"Australia, Australia, Australia, Turkey",Madagascar,8,"It's a bird, and Madagascar has lots of unique birds!",2025-06-18T04:25:44.524645+00:00
+60,60/60_24.jpg,,,tofu,"Tofu, Tofu, Tree, Taco",margarine,88,The boxy shape makes me think of margarine!,2025-06-18T17:56:30.927762+00:00
+59,59/59_27.jpg,,,parking lot,"Grocery shop, Mall, Parking lot, Shop",strip mall,80,It looks like a strip mall with multiple stores!,2025-06-18T19:40:39.581323+00:00
+61,61/61_18.jpg,,,key,"Banana, Scribble, Key, No idea",dagger,80,That pointy thing looks like a small knife!,2025-06-18T19:54:59.26559+00:00
+58,58/58_2.jpg,,,Art,Art,Mess,89,Looks like a mess of lines!,2025-06-18T20:00:44.548983+00:00
+59,59/59_28.jpg,,,library,"The Void💀💀💀, City, Library, City",daycare,45,"Looks like a building with some scribbles, maybe a daycare?",2025-06-18T20:07:44.036199+00:00
+55,55/55_18.jpg,,,spider,"Butterfly, Turtul, Spider",turtle,90,It looks like a turtle!,2025-06-18T21:32:04.578212+00:00
+55,55/55_19.jpg,,,hyena,"Hyena, Hyena, Cow, Bug",tick,80,It looks like a tick.,2025-06-18T21:40:48.064409+00:00
+57,57/57_20.jpg,,,old person,"Old person, Someone driving, Grumpy old person with a walker, Elderly person",student,80,"Looks like a student sitting at a desk, maybe studying hard!",2025-06-18T21:51:15.905946+00:00
+61,61/61_19.jpg,,,ruler,"Ruler, Ruler, Ruler, Ruler",cabinet,82,It looks like a cabinet with shelves inside.,2025-06-18T22:04:32.326456+00:00
+60,60/60_25.jpg,,,sushi,"Sushi, Donut, Donut, Sushi",popcorn,80,Looks like popcorn in a box!,2025-06-18T22:18:45.233998+00:00
+60,60/60_26.jpg,,,sushi,"Lemonade, Boba, Sushi, Hot dog and drink",juice,75,It looks like a glass of juice with pulp.,2025-06-18T22:31:35.396187+00:00
+65,65/65_14.jpg,,,Egypt,"Egypt, Himalayans, Egypt, Egypt",Peru,8,The Andes Mountains run through Peru as well!,2025-06-18T22:59:07.267572+00:00
+61,61/61_20.jpg,,,diamond,"Pentagon, Whatthesigma, Diamond, Diamond",scribbles,70,Looks like a bunch of scribbles!,2025-06-18T23:11:20.97099+00:00
+71,71/71_14.jpg,,,Space Invaders,"Chessboard, Space invaders, Ball?, Lines",Lineage,5,The lines could represent the different paths in Lineage.,2025-06-18T23:13:24.686555+00:00
+71,71/71_15.jpg,,,Space Invaders,"Pikachu, Space invaders, Pockemon, Cool",Flappy Bird,60,"It looks like a bird, and it's flapping!",2025-06-18T23:24:49.380422+00:00
+61,61/61_21.jpg,,,key,"Key, Key",reflection,85,The phrase 'same as before' really screams 'reflection' to me!,2025-06-19T03:18:36.366413+00:00
+60,60/60_27.jpg,,,pretzel,"Peach, Pretzel, Petzel",Bubble tea,82,The circles remind me of the bubbles in bubble tea!,2025-06-20T19:23:55.917765+00:00
+60,60/60_28.jpg,,,pretzel,"Pretzel, Heart, Whale with feet, Pretzel",juice,60,It looks like a glass of juice with a straw!,2025-06-20T19:27:57.56833+00:00
+60,60/60_29.jpg,,,croissant,"Crosiant , Crossiant, Croissant, Churro",cotton candy,70,Looks like they're about to eat a big ball of cotton candy!,2025-06-20T19:42:55.717098+00:00
+58,58/58_3.jpg,,,Imagination,"Unicorn, Imagination, Dream, Sleeping",Possession,88,That hand looks like it's trying to grab something and keep it!,2025-06-20T19:50:20.264859+00:00
+60,60/60_30.jpg,,,pretzel,"Pie, Pretzel, Pretzel, Water",dessert,88,It looks like someone is presenting a dessert.,2025-06-20T20:27:53.436553+00:00
+72,72/72_19.jpg,,,Minions,"Minions, Minions, Minions, Minions",Robots,45,The eye and the round shape make me think of a robot's head!,2025-06-20T20:30:11.388727+00:00
+72,72/72_20.jpg,,,Shrek,"Shrek, I have no idea, ET, Shrek",Alien,15,It's an alien!,2025-06-20T21:57:03.840472+00:00
+68,68/68_6.jpg,,,New years Day,"Jasmine, New years day, Girl",Celebration,89,The figure looks like it is celebrating something!,2025-06-20T22:05:29.435099+00:00
+55,55/55_20.jpg,,,wolf,"Wolf, Hamster,  Cow, Dog",sheep,82,Looks like a fluffy sheep with a tail!,2025-06-20T19:03:48.735821+00:00
+55,55/55_21.jpg,,,lion,"Mouse, Bear, Dog, Lion",aardvark,60,It looks like an aardvark!,2025-06-20T23:36:21.637552+00:00
+60,60/60_31.jpg,,,eggplant,"Bean, Eggplant",blob,70,It looks like a blob!,2025-06-21T03:06:39.298365+00:00
+60,60/60_32.jpg,,,blueberry,"Cherry, Blueberry, Apple, Cherry",fruit salad,88,"With all those fruits, it looks like a fruit salad.",2025-06-21T19:14:39.867733+00:00
+68,68/68_7.jpg,,,Easter,"Sad, Sad person, Easter, Sad",Sadness,72,"It's a simple frown, but it screams sadness!",2025-06-21T20:11:50.150048+00:00
+57,57/57_21.jpg,,,chef,"Chef, Chef, Chicken",leader,65,"He looks like he is being greeted, maybe he is a leader?",2025-06-21T20:41:43.378585+00:00
+60,60/60_33.jpg,,,sushi,"Soda, Salt, Salt shaker, Sushi",cupcake,82,It looks like a cupcake with sprinkles on top!,2025-06-21T20:57:47.065925+00:00
+68,68/68_8.jpg,,,Easter,"Egg easter bunny, Easter, Easter, Easter",Love,60,"The heart is a universal symbol of love, so that's my guess!",2025-06-21T22:35:23.482317+00:00
+57,57/57_22.jpg,,,knight,"Dad, Servant, Silly, Knight?",waiter,67,Perhaps they're waiting to take your order with a straight face!,2025-06-21T22:51:33.801884+00:00
+60,60/60_34.jpg,,,fish and chips,"Fish and chips, Candy, Fish with blbobs?, Candy",nachos,72,Looks like a pile of nachos with cheese and toppings!,2025-06-21T23:04:53.848145+00:00
+59,59/59_29.jpg,,,fire station,"Fire station, Fire station, Something, Fire station",motel,80,Looks like a motel with a UFO!,2025-06-21T23:24:35.851792+00:00
+60,60/60_35.jpg,,,coconut,"Dragonfruit, Coconut, Coconut",cantaloupe,80,It looks like a cantaloupe!,2025-06-20T22:36:00.898897+00:00
+59,59/59_30.jpg,,,stadium,"Statium, Stadium, Football stadium, Stadium",jacuzzi,85,It looks like a jacuzzi.,2025-06-22T19:58:43.49586+00:00
+60,60/60_36.jpg,,,spaghetti,"Spaghetti!, Ramen, Toast, Food",pho,82,It looks like a bowl of pho with steam rising from it.,2025-06-22T20:02:03.109349+00:00
+72,72/72_21.jpg,,,Titanic,"Titanic, Titanic, Titanic, Boat",Alien,30,Looks like an alien spaceship!,2025-06-22T21:01:39.442926+00:00
+72,72/72_22.jpg,,,King Kong,"King kong, King kong, King kong, King kong",Hercules,45,Looks like Hercules is showing off his strength!,2025-06-22T22:25:05.874018+00:00
+60,60/60_37.jpg,,,coffee,"Hat, House, Cereal box, Coffee",pie,82,"It looks like a slice of pie, maybe apple pie?",2025-06-22T22:30:23.796581+00:00
+55,55/55_22.jpg,,,horse,"Horse, Horse, Cat, Cow",unicorn,75,It looks like a unicorn!,2025-06-22T22:35:49.556281+00:00
+57,57/57_23.jpg,,,farmer,"Farmer, Farm, Home, Farm",trapper,60,"Looks like a trap, maybe for catching animals?",2025-06-22T22:40:15.854936+00:00
+56,56/56_21.jpg,,,flying,"Dead person, Fling, Flying, Flying",treading water,70,Looks like they are trying to stay afloat!,2025-06-22T23:21:22.133998+00:00
+65,65/65_15.jpg,,,Argentina,"Argentina, Argentina, Mexico, Brazil",England,40,"England is the birthplace of soccer, so maybe it's a clue?",2025-06-22T19:34:56.925919+00:00
+55,55/55_23.jpg,,,parrot,"Parrot, Parrot, Parrot, Parrot",duck,80,It looks like a duck.,2025-06-23T19:10:25.05325+00:00
+60,60/60_38.jpg,,,croissant,"Croissant, Croissant, Croissant, Croissant",gyoza,60,"The shapes look like gyoza on a plate, ready to be eaten!",2025-06-23T20:09:27.030591+00:00
+61,61/61_22.jpg,,,kite,"Kite, Tree, A chair, Airballoon",cactus,82,Looks like a cactus in a pot!,2025-06-23T20:22:46.837523+00:00
+65,65/65_16.jpg,,,Peru,"A train, U.s.a, Peru, Mountain",Nepal,89,"The mountain looks like the Himalayas, so I'm guessing Nepal!",2025-06-23T20:27:51.31127+00:00
+59,59/59_31.jpg,,,stadium,"A court, Buffet, Easter egg, Stadium",Ferris Wheel,60,It looks like a ferris wheel!,2025-06-23T20:34:03.329645+00:00
+55,55/55_24.jpg,,,monkey,"Monkey, Mono, Monkey, My rat brother",teddy bear,80,"It looks like a cute teddy bear, ready for a hug!",2025-06-23T23:03:27.994243+00:00
+72,72/72_23.jpg,,,Avatar,"Avatar, Avatar, Avatar good, Avart",Scribble,70,"It's just a scribble, so I'll guess 'Scribble'!",2025-06-23T23:36:58.767098+00:00
+60,60/60_39.jpg,,,gummy bear,"Milk, Bear, Food bag, Gummy bear",gingerbread man,89,The shape and the face drawn on it makes me think of a gingerbread man!,2025-06-24T20:41:23.45755+00:00
+72,72/72_24.jpg,,,Aladdin,"Beauty and the beast, Aladdin, Aladdin",Cast Away,70,A person alone on a raft? Wilson! Where are you?,2025-06-23T17:45:13.458322+00:00
+57,57/57_24.jpg,,,baby,"Baby, Brother, Baby, Ronaldo",cook,85,The curly line on top looks like a chef's hat!,2025-06-24T23:27:08.31776+00:00
+57,57/57_25.jpg,,,baby,"Baby, Shaggy, Baby, Baby",entomologist,82,"It looks like a bug, so maybe someone who studies bugs?",2025-06-24T23:35:09.899556+00:00
+60,60/60_40.jpg,,,kebab,"Loaf of bread, Pasta, Quebabe, Kebab",cantaloupe,60,The round shape and lines remind me of a cantaloupe.,2025-06-25T02:09:45.053916+00:00
+55,55/55_25.jpg,,,parrot,"Otter, Dog, Parrot, Cowboy boot",lamprey,30,The shape could be a lamprey attached to a fish.,2025-06-25T18:57:29.507539+00:00
+56,56/56_22.jpg,,,drinking,"Drinking, Vomit, Drinking, Drinking",directing,60,Looks like someone is directing traffic or a movie scene!,2025-06-25T20:32:41.245495+00:00
+60,60/60_41.jpg,,,potato,"Potato, Fdfgdgydfhfdhhffhufdfhy, Taters, Cookie",biscuit,82,It looks like a biscuit with chocolate chips!,2025-06-25T21:49:59.07026+00:00
+69,69/69_3.jpg,,,moon,"Moon, Da moon!!!",Pandemic,82,The chaos and sick face makes me think of a pandemic.,2025-06-25T22:19:54.589847+00:00
+57,57/57_26.jpg,,,mother,"Mother, mother, Roadkill, Mother",performer,82,The figure looks like a performer on a stage.,2025-06-25T23:02:32.344795+00:00
+57,57/57_27.jpg,,,father,"Father, Father, Mother, Father",male,89,It literally says 'MALE'!,2025-06-25T23:23:33.691896+00:00
+72,72/72_25.jpg,,,Titanic,"Titanic, Titanic, Titantic, U",Jungle,34,Looks like a jungle with a moon in the sky!,2025-06-24T21:03:14.005174+00:00
+56,56/56_23.jpg,,,erasing,"Erasing, Erasing",backwards,80,Everything is backwards!,2025-06-26T17:07:58.975648+00:00
+57,57/57_28.jpg,,,dentist,"Dentist, Dentist, Dentist",coach,60,"The scribbled part looks like a sports field, so maybe it's a coach?",2025-06-26T17:16:34.509225+00:00
+55,55/55_26.jpg,,,kangaroo,"Kangaroo, Kangaroo, Kangaroo, Kangaroo",kitten,88,It looks like a baby cat!,2025-06-26T17:24:14.219267+00:00
+61,61/61_23.jpg,,,skull,"Skull, Skull, Skull",music note,89,It looks like a music note!,2025-06-26T17:30:11.140084+00:00
+60,60/60_42.jpg,,,pancake,"Pancake, Pancake, Pancake",crepe,99,It spells out 'crepe' in the drawing! How could I miss that?,2025-06-26T17:42:44.970492+00:00
+56,56/56_24.jpg,,,smelling,"What is this😭😭😭😭😭😭😭😭😭😭😭😭😭😭, Smelling, Sniffing, Smelling",sipping,82,Looks like someone is sipping from a cup.,2025-06-26T18:43:04.758284+00:00
+59,59/59_32.jpg,,,amusement park,"Amusement park, Ferris wheel, Fair, Faristw",ferris wheel,45,Looks like a ferris wheel!,2025-06-26T18:52:47.933666+00:00
+60,60/60_43.jpg,,,ketchup,"Pepper, Ketchup, Fire post",kettle,82,"It looks like a kettle, ready to boil some water!",2025-06-26T19:41:22.598835+00:00
+61,61/61_24.jpg,,,jar,"Box, Jar, Jar",towel,88,Looks like a towel hanging on a rack!,2025-06-26T19:57:35.229695+00:00
+61,61/61_25.jpg,,,book,"Book, Door, Book",dryer,82,Looks like a dryer with clothes tumbling inside!,2025-06-25T23:52:11.144422+00:00
+56,56/56_25.jpg,,,winking,"Black eye, Black eye, Winking, Wink",directing,60,The arrow looks like someone is directing the other person.,2025-06-26T20:52:00.597356+00:00
+60,60/60_44.jpg,,,pizza,Pizza,soda,70,It looks like soda bubbles!,2025-06-26T22:43:49.522473+00:00
+60,60/60_45.jpg,,,french fries,"French fries, Fries, Dietcoke?.., Plant",greens,80,It looks like a box of greens!,2025-06-26T23:39:21.537953+00:00
+71,71/71_16.jpg,,,Pac-Man,"Pacman, Pac man 🌞, Pacman, Pacman",Spacewar!,20,It reminds me of the first multiplayer video game.,2025-06-27T02:22:30.841459+00:00
+57,57/57_29.jpg,,,plumber,"Plumer, Plumber, Mario, Italian",Mario,85,The M on the hat reminds me of Mario!,2025-06-27T03:55:14.733807+00:00
+65,65/65_17.jpg,,,Canada,"Canada, Canada, Christmas tree, Canada",Palestine,80,The star is a symbol of Palestine.,2025-06-27T04:25:41.327934+00:00
+55,55/55_27.jpg,,,stingray,"Stingray, Fish, Fish, Stingray",swordfish,70,The shape reminds me of a swordfish.,2025-06-27T04:30:17.311886+00:00
+65,65/65_18.jpg,,,Mongolia,"Mongolia, Mongolia,  Korea, Mongolia",Vietnam,80,The flag looks like a simplified version of Vietnam's flag.,2025-06-27T04:36:38.650719+00:00
+56,56/56_26.jpg,,,kicking,"Kicking, Kicking, Kicking",resting,80,Looks like someone is resting in bed.,2025-06-26T20:43:12.775116+00:00
+61,61/61_26.jpg,,,shield,"Sheild, Love, Shield, Love note?????????",sink,60,The drawing looks like a sink with a heart-shaped drain.,2025-06-27T19:10:21.678673+00:00
+60,60/60_46.jpg,,,ketchup,"Kechup, Ketchup, Kechup",juice,70,It looks like a bottle of juice.,2025-06-27T20:37:48.248524+00:00
+66,66/66_0.jpg,,,Leshan Giant Buddha,"Lashan giant buddah, Skib tolet, Buddt, Leshan giant buddha",Boat Tour,45,"Looks like someone enjoying a boat tour, maybe near a famous landmark!",2025-06-27T21:23:21.0218+00:00
+60,60/60_47.jpg,,,fish and chips,"Brugh, Fish and chips, Fries, Fish and chips",brownie,82,It looks like a brownie with chocolate swirls on top.,2025-06-27T21:37:22.749437+00:00
+59,59/59_33.jpg,,,island,"Island, Island, Island, A big temple",Messy Room,80,Looks like a very messy room!,2025-06-27T21:46:54.682725+00:00
+59,59/59_34.jpg,,,power plant,"Powerplant, Power plant, Power plant",Dot matrix printer store,70,Looks like a dot matrix printer threw up.,2025-06-28T17:42:27.996083+00:00
+60,60/60_48.jpg,,,bread,"Bread, Donut",noodles,82,All those lines make me think of a big pile of noodles!,2025-06-28T19:28:51.667296+00:00
+55,55/55_28.jpg,,,cockroach,"Cockroach, Cocharoach, Bug, Ram",bug,65,It looks like a generic bug with a round body and antennae.,2025-06-28T19:40:45.97288+00:00
+59,59/59_35.jpg,,,prison,"Prison, Prison, Im quitting💀💀",scribbles,80,Looks like a bunch of scribbles to me!,2025-06-28T20:26:38.047925+00:00
+55,55/55_29.jpg,,,snake,"Worm, Worm, Otter, Snake",sea lion,75,It looks like a sea lion balancing a ball on its nose.,2025-06-28T21:41:57.171232+00:00
+60,60/60_49.jpg,,,steak,"Pancake, Bread, Steak, ???",cake,20,The shape could be a cake with lines for decoration.,2025-06-28T21:55:50.360117+00:00
+61,61/61_27.jpg,,,car,"Car, Car, Cody is dumb , Car",scribbles,80,It looks like a bunch of scribbles!,2025-06-28T22:22:42.330047+00:00
+55,55/55_30.jpg,,,owl,"Owl, Grow a garden owl, Owl, Owl",bird,80,"It looks like a bird, but scribbled over. Perhaps they are trying to hide it?",2025-06-28T23:15:15.155551+00:00
+72,72/72_26.jpg,,,Superman,"Superman, Human, Superman",Stickman,80,It's just a stickman!,2025-06-28T23:32:29.394607+00:00
+55,55/55_31.jpg,,,chicken,"owl, Chicking jockey, Chicken",jackal,72,It looks like a jackal with its pointy ears and snout.,2025-06-28T23:56:04.769708+00:00
+61,61/61_28.jpg,,,key,"Key, Key, Key, Koy",tangle,40,Looks like a tangled mess of string! What could it be attached to?,2025-06-29T17:47:15.947472+00:00
+61,61/61_29.jpg,,,bus,"Idk, House, Bus",arrow,82,Looks like an arrow pointing to the right!,2025-06-29T18:46:37.283038+00:00
+60,60/60_50.jpg,,,kebab,"Food truck, Kebab",milkshake,82,Looks like a milkshake delivery car!,2025-06-29T18:58:38.887785+00:00
+61,61/61_30.jpg,,,diaper,"Diaper, Idk, Diaper, Diaper",dress,40,"It looks like a dress, ready for a special occasion!",2025-06-29T19:12:30.567595+00:00
+61,61/61_31.jpg,,,diaper,"Smile, Smile, Horseshoe, Diaper",bib,80,It looks like a bib.,2025-06-29T19:35:16.210534+00:00
+57,57/57_30.jpg,,,DJ,"Candy, Steak, Candy, Dj",fighter,70,Looks like a fighter in a ring.,2025-06-29T19:53:37.284665+00:00
+59,59/59_36.jpg,,,police station,"Police staton, Police station, Police station",government building,88,The shield shape makes me think of government buildings!,2025-06-29T20:27:18.74016+00:00
+71,71/71_17.jpg,,,Rocket League,"Soccer, Golf, Mario cart, Rocket League",Dig Dug,80,"It looks like a digging machine, maybe it's from Dig Dug?",2025-06-29T20:35:09.748758+00:00
+55,55/55_32.jpg,,,cockroach,"Rat, Cricket, Bug, Cockroach",tick,60,It looks like a tick!,2025-06-29T21:04:11.456513+00:00
+61,61/61_32.jpg,,,chopsticks,"Chopsticks, NOT chopsticks, Chopsticks, Chopsticks",lollipop,82,It looks like a lollipop on a stick!,2025-06-30T23:00:32.991967+00:00
+60,60/60_51.jpg,,,kebab,"Bagette, Kebab, Lava lamp, Ice tea",loaf,60,It looks like a loaf of something.,2025-06-29T18:38:27.278861+00:00
+71,71/71_18.jpg,,,Portal,"Idontknow, Portal, Portal, Portal 2",Spore,60,Looks like a creature from Spore!,2025-06-29T22:09:01.311552+00:00
+71,71/71_19.jpg,,,Portal,"Portal, Portal, Portal, Portal",Spiral Knights,82,It looks like a spiral!,2025-06-29T22:14:17.238374+00:00
+71,71/71_20.jpg,,,Portal,"Portal3, Portal, Portal",Geometry Dash,55,It looks like a level from Geometry Dash.,2025-06-29T22:24:58.47382+00:00
+60,60/60_52.jpg,,,hot dog,"Hot dog, Hot dog, Hotdog",puff pastry,70,It looks like a puff pastry.,2025-06-29T22:37:03.052275+00:00
+71,71/71_21.jpg,,,Grand Theft Auto,"Grand theft auto, Smile, Grand thief auto",Smile,20,"It looks like a smile, so I'm going with it!",2025-06-29T22:39:04.984986+00:00
+55,55/55_33.jpg,,,cow,"Cow, Cow, Cow, Cow",worm,70,Looks like a bunch of worms all tangled together!,2025-06-29T22:41:58.703598+00:00
+67,67/67_2.jpg,,,Rock Climbing,"Rock climbing, Rock climbing, Rock climbimg, Rock climbing",Sphere,8,Looks like a sphere of some sort!,2025-06-29T22:43:31.145574+00:00
+65,65/65_19.jpg,,,Russia,"Russia, Russia",Korea,8,The lines remind me of the complex patterns in Korean calligraphy!,2025-06-29T22:45:17.203683+00:00
+71,71/71_22.jpg,,,Among Us,"Among us, Among us, Among us, Among us",Chaos,60,It's just a chaotic mess of lines!,2025-06-29T22:49:06.255294+00:00
+61,61/61_33.jpg,,,cup,"Eavu jb c.  C n s nnds mbdfvn b fx🐈‍⬛📼, Cup, Wood, Fgugg ff",pillar,80,"It looks like a pillar, supporting something grand!",2025-06-29T23:39:36.639829+00:00
+71,71/71_23.jpg,,,Portal,"Portals, Portal, Portal, Portal",Spaghetti,5,Looks like a plate of spaghetti!,2025-06-29T22:06:56.223647+00:00
+71,71/71_24.jpg,,,Dark Souls,"Luigis haunted mansion, Dark souls, Girl, Horror",Spooky's Jump Scare Mansion,75,The scribbled face reminds me of Spooky's Jump Scare Mansion!,2025-06-30T19:19:18.380544+00:00
+68,68/68_9.jpg,,,Halloween,"Skeleton, Halloween, Skeleten, Human",Love,85,"It looks like a heart with an arrow through it, which is a symbol of love.",2025-06-30T19:25:48.098864+00:00
+68,68/68_10.jpg,,,Halloween,"Human, President, Person, Halloween",Authoritarianism,89,"That stern face and rigid posture scream absolute power, don't you think?",2025-06-30T19:28:16.207248+00:00
+65,65/65_20.jpg,,,China,"Chile, Fruit, China, Chile",Peru,9,The shape is vaguely reminiscent of the outline of Peru.,2025-06-30T19:47:07.050733+00:00
+59,59/59_37.jpg,,,supermarket,"Supermarket, Super marke, Hotdog stand",Metro station,60,It looks like a metro station with screens and a little train.,2025-06-30T20:56:46.751812+00:00
+55,55/55_34.jpg,,,mouse,"Mouse, Mouse, Mouse",teddy bear,82,It looks like a cute teddy bear with a big smile!,2025-06-30T21:38:01.315023+00:00
+68,68/68_11.jpg,,,Family,"Family, Family, Family",Community,66,"The figures look like they're part of a community, standing together!",2025-06-30T21:48:02.757051+00:00
+65,65/65_21.jpg,,,Argentina,"Argentina, Australia, Argentina, A",Barbados,89,The palm tree makes me think of the beaches in Barbados.,2025-06-30T21:58:33.52231+00:00
+60,60/60_53.jpg,,,banana,"Bana, Banana, Banana, Banana",cotton candy,70,Looks like a fluffy cloud of sugary goodness!,2025-06-30T22:10:21.874045+00:00
+59,59/59_38.jpg,,,dam,"Prison, DAM, Wall, Dam",cell block,85,It looks like a cell block.,2025-06-30T22:24:37.890017+00:00
+61,61/61_34.jpg,,,screw,"Huh, Rocket ship, Spoon, Screw",skeleton key,88,It looks like a skeleton key!,2025-07-01T20:35:46.194454+00:00
+72,72/72_27.jpg,,,Shrek,"Shrek, Back to the ice, Et, Godzilla",Alien,60,It looks like a cute alien.,2025-07-01T20:51:41.979831+00:00
+68,68/68_12.jpg,,,Education,"House, Education, House",Home,89,"It's a simple house, a place to call home, sweet home!",2025-07-01T21:30:37.042611+00:00
+61,61/61_35.jpg,,,binoculars,"Binoculars, Pants",stand,50,It looks like a stand with some round objects at the bottom.,2025-07-01T22:15:33.621165+00:00
+65,65/65_22.jpg,,,Norway,"Norway, Camel, Sealion",Portugal,15,"Looks like Portugal, a small but mighty country!",2025-07-01T22:59:38.881384+00:00
+64,64/64_6.jpg,,,Steam,"Steam, Cast iron, Lightening, Lightning",Hot Topic,82,"The drawing says ""So Hot"", so I'm guessing a store with trendy items.",2025-07-01T23:13:04.304469+00:00
+72,72/72_28.jpg,,,Aladdin,"Aladin, Magic carpet, Aladin, Aladdin",Cast Away,60,"A person stranded on a raft, perhaps?",2025-07-01T23:55:58.031713+00:00
+60,60/60_54.jpg,,,pancake,"Pancake, Pizza, Pizza",brownie,82,Looks like a brownie with some chocolate swirls on top!,2025-07-02T17:58:27.438785+00:00
+57,57/57_31.jpg,,,knight,"Knight, Ballet, Ballerina",swimmer,70,Looks like someone swimming in the water.,2025-07-01T20:09:24.311477+00:00
+69,69/69_4.jpg,,,moon,"Moon, Moon, Moon, Moon",Chaos theory,60,The drawing looks like a chaotic system with many interconnected elements.,2025-07-02T20:38:40.099979+00:00
+67,67/67_3.jpg,,,Bobsleigh,"Bobsleigh, Jetski, Socccer shoe, Sled",Wakeboarding,82,"Looks like someone riding a board on water, wakeboarding maybe?",2025-07-02T20:53:17.699374+00:00
+60,60/60_55.jpg,,,chicken nugget,"Chicken Nugget, Burger, Chichennugget",sunflower seed,8,"The shape reminds me of a sunflower seed, but much bigger!",2025-07-02T21:02:02.824165+00:00
+71,71/71_25.jpg,,,Space Invaders,Space invaders,Human Fall Flat,40,The wobbly figure reminds me of the characters in Human Fall Flat.,2025-07-02T22:33:37.126543+00:00
+59,59/59_39.jpg,,,mountain,"Mountain, Dot, A dot",Dot,89,It looks like a dot.,2025-07-02T22:50:32.193903+00:00
+57,57/57_32.jpg,,,detective,"Detective, Arrow, Detective, Detective",fighter,40,The arrow-like shape could represent someone who is always fighting for what they believe in.,2025-07-02T23:10:52.517891+00:00
+65,65/65_23.jpg,,,United States,United states,Luxembourg,15,"The drawing is quite abstract, like Luxembourg!",2025-07-03T17:13:58.921521+00:00
+67,67/67_4.jpg,,,Baseball,Baseball,Football,95,The drawing literally says 'football'!,2025-07-03T17:18:38.789529+00:00
+57,57/57_33.jpg,,,gymnast,"Gymnast, Gymnist, Gymnast, Gymnast",handyman,70,Looks like a handyman fixing something under the sink.,2025-07-03T18:26:46.692099+00:00
+59,59/59_40.jpg,,,graveyard,"Graveyard, Graveyard, Graveyard, Graveyard",void,20,It looks like a single point in the void.,2025-07-03T18:39:46.350604+00:00
+68,68/68_13.jpg,,,Wedding,"Scribbles, Wedding",Cover-up,88,It looks like someone is trying to hide something with all those scribbles!,2025-07-02T19:59:44.830716+00:00
+61,61/61_36.jpg,,,screw," Screw, Screw, Screw",glass,80,Looks like a glass. Maybe it's filled with water or juice?,2025-07-03T20:46:50.84337+00:00
+59,59/59_41.jpg,,,bakery,"Bike shop, Boike, Bakerey, Bakery",Vending Machine,80,Looks like a vending machine with some items inside.,2025-07-03T21:18:11.086662+00:00
+57,57/57_34.jpg,,,DJ,"Conductor, Music, DJ",percussionist,80,"The stick figure is hitting a drum, so it could be a percussionist.",2025-07-04T01:58:50.091817+00:00
+59,59/59_42.jpg,,,crosswalk,"Crosswalk, Pedestrian walk, Abby road",convention center,65,It looks like a convention center with a moving walkway.,2025-07-04T04:10:08.926613+00:00
+55,55/55_35.jpg,,,pig,"Pig, Pig, Chicken, Pig",sea lion,60,Looks like a sea lion peeking out of the water!,2025-07-04T04:33:39.178496+00:00
+68,68/68_14.jpg,,,Thanksgiving,"Thanksgiving, Thanksgiving, Thanksgiving, Thanksgiving",Diaspora,68,"The bird scattering people reminds me of a diaspora, a scattering of a population.",2025-07-04T04:41:27.32045+00:00
+55,55/55_36.jpg,,,deer,"Yak, Deer (angry, Deer",tick,72,It looks like a tick with antennae and a grumpy face!,2025-07-04T19:10:34.50564+00:00
+61,61/61_37.jpg,,,shield,"Ear, Shield, Ear",cauliflower,60,It looks like a cauliflower head.,2025-07-04T22:55:34.32999+00:00
+56,56/56_27.jpg,,,bowling,Bowling,boozing,82,Looks like someone is boozing it up!,2025-07-05T16:56:36.796117+00:00
+69,69/69_5.jpg,,,moon,"Turtle, Moon",Algorithm,82,The drawing looks like a confused algorithm trying to make sense of things.,2025-07-05T20:07:38.673977+00:00
+64,64/64_7.jpg,,,Steam,"Aroma, Steam",Campbell's,82,The pot of soup reminds me of Campbell's soup.,2025-07-05T20:10:14.091194+00:00
+60,60/60_56.jpg,,,lemon,"Lemon, Onion, Patow, Cacao?",shallot,82,The shape and lines remind me of a shallot.,2025-07-05T20:50:26.398426+00:00
+60,60/60_57.jpg,,,coconut,coconut,juice,55,It looks like a surprised face after drinking some juice.,2025-07-05T21:14:01.985261+00:00
+64,64/64_8.jpg,,,7-Eleven,"7-11, 7eleven, 7eleven, Seven eleven",Zillow,82,"The house shape and the word ""Tele"" made me think of real estate.",2025-07-05T22:13:14.735371+00:00
+56,56/56_28.jpg,,,singing,"A poson with a sword, Peepull, Squid game, Singing",sick,82,Looks like someone's not feeling too hot!,2025-07-04T21:08:38.831517+00:00
+60,60/60_58.jpg,,,french fries,"Idk, French Fries, French fries, Mc.donald man¿",brownie,80,It looks like a brownie!,2025-07-05T23:10:58.011023+00:00
+55,55/55_37.jpg,,,piranha,"Iyjnvgbhb, Piranha, Fish, Fish",guppy,82,Looks like a guppy!,2025-07-05T23:27:09.305588+00:00
+61,61/61_38.jpg,,,spoon,"Spoon, Mussher, Basket ball hoop, Mushroom",mushroom,80,It really looks like a mushroom!,2025-07-05T23:33:17.39828+00:00
+55,55/55_38.jpg,,,fox,"Fox,  Butterfly, Fox, Msceto",fairy,82,Those wings look like a fairy fluttering around!,2025-07-06T19:51:44.808766+00:00
+59,59/59_43.jpg,,,beach,"Hawaii, Hi, Beach, Beach",playground,9,"The scribbles look like a climbing frame, so it could be a playground.",2025-07-06T20:03:01.365855+00:00
+59,59/59_44.jpg,,,hot spring,"Hot spring, Desert, Dot, Dot ",hole,88,"It's a dark void, like a mysterious abyss!",2025-07-06T20:25:37.910589+00:00
+55,55/55_39.jpg,,,dragonfly,"Fly, Dragonfly, Bee, Fly",gnat,82,Looks like a gnat buzzing around my head!,2025-07-06T21:04:05.541607+00:00
+60,60/60_59.jpg,,,coconut,"Cookie, Coconut, Coconut, Face",alien,80,It looks like an alien face!,2025-07-06T21:42:05.462874+00:00
+60,60/60_60.jpg,,,cherry,"Ice cream with cherry, Cherry",milkshake,80,It looks like a milkshake in a cup!,2025-07-06T21:53:47.306829+00:00
+60,60/60_61.jpg,,,coconut,"Watermelon, Coconut, Watermelon, Watermelon",fruit bowl,45,It looks like a bowl with some fruit in it.,2025-07-06T22:03:27.887534+00:00
+71,71/71_26.jpg,,,Tetris,"Playstation, Tetris, Tetris, Lego city",Home Builder,33,Looks like a house under construction. Maybe it's all about building homes?,2025-07-06T22:37:06.437729+00:00
+57,57/57_35.jpg,,,nurse,"Nurse, Your mom i guess?, Girl, Girl",painter,82,"The bottle looks like a paint bottle, so she could be a painter!",2025-07-05T23:08:23.147141+00:00
+72,72/72_29.jpg,,,Minions,"Minouns, Minions, Wall e, Olaf",Robot,60,It looks like a robot with claws!,2025-07-07T20:43:24.171306+00:00
+59,59/59_45.jpg,,,bus stop,"Bus stop, Train station, Bus stop",classroom,88,"Looks like a screen and desks, must be a place for learning!",2025-07-07T21:47:54.472307+00:00
+70,70/70_1.jpg,,,Anish Kapoor,"Anish kapoor, Farmer with pitchfork, Artist",Raphael,30,The hat and palette remind me of Renaissance painters.,2025-07-07T21:59:20.756609+00:00
+57,57/57_36.jpg,,,dancer,"Egg, Dancer, Denser",astronomer,72,Looks like someone is looking through a telescope at the stars.,2025-07-07T22:17:46.78884+00:00
+71,71/71_27.jpg,,,Call Of Duty,"Mario kart, Super mario cart, Minecraft, Call of duty",Rayman,30,The hair reminds me of Rayman.,2025-07-07T23:10:04.058207+00:00
+60,60/60_62.jpg,,,peach,"Apples, Peach, Apples",fruit,45,"It looks like a generic fruit shape, doesn't it?",2025-07-07T23:12:55.471952+00:00
+71,71/71_28.jpg,,,Call Of Duty,"Hero, Call of duty, Running game, CALL OF Duty",Human Fall Flat,72,It looks like a character from Human Fall Flat.,2025-07-07T23:17:40.906445+00:00
+64,64/64_9.jpg,,,Sony,"Sony, Sony, sony",7-Eleven,78,"Hmm... The 'even' in '7-Eleven' is written in the drawing, maybe it's a hint?",2025-07-07T23:50:32.244872+00:00
+60,60/60_63.jpg,,,spaghetti,"Hotdog, Spaghetti, Salad, Muffin",pho,82,Looks like a bowl of Vietnamese noodle soup!,2025-07-06T23:29:39.109189+00:00
+58,58/58_4.jpg,,,Love,"Wedding, Love, Monkey, Person talking nonsense",Communication,60,Looks like they're communicating something important to each other!,2025-07-08T20:47:41.576551+00:00
+59,59/59_46.jpg,,,haunted house,"Haunted house, Scrible, House",scribbles,70,Looks like someone was just doodling and made a bunch of scribbles!,2025-07-08T21:25:37.028562+00:00
+61,61/61_39.jpg,,,fireworks,"Sun, Fireworks, Sun, Sun",star,88,It looks like a star!,2025-07-08T22:33:09.915065+00:00
+59,59/59_47.jpg,,,treehouse,"Treehouse, Treehouse, Treehouse, Treehouse",building,15,It's definitely a building of some sort!,2025-07-08T22:44:53.920567+00:00
+59,59/59_48.jpg,,,school,"Tent, School, Shcool",playground,70,The slide makes me think of a playground.,2025-07-08T23:21:51.33577+00:00
+65,65/65_24.jpg,,,Spain,"hyfjcfyjyrtxhfthfg, Spain, Bvfg, Italy",Greece,5,"It could be a sandal-boot hybrid, hinting at Greece!",2025-07-09T17:37:43.341241+00:00
+60,60/60_64.jpg,,,turkey,"Turkey, Chicken, Chennegethe, Turkey",rice cake,82,It looks like a rice cake with something on top!,2025-07-09T17:46:09.031245+00:00
+60,60/60_65.jpg,,,spaghetti,"Spigetti, Spaghetti, Spaghetti, Burger",brownie,70,Looks like a fudgy brownie with lots of chocolate swirls!,2025-07-09T17:50:28.91966+00:00
+57,57/57_37.jpg,,,father,"Old person, Father, Butt hole",disabled person,70,The cane suggests someone with mobility challenges.,2025-07-09T18:28:16.077821+00:00
+67,67/67_5.jpg,,,Curling,"Curling, Bowling, Curling, Curling",Pool,88,Looks like someone's lining up a shot in a game of pool!,2025-07-11T02:10:18.93602+00:00
+57,57/57_38.jpg,,,plumber,"La poo poo, Plumber, Plumer, Plumer",scribbler,80,Looks like someone was just scribbling!,2025-07-08T20:38:27.256612+00:00
+60,60/60_66.jpg,,,popcorn,"GROW A GARDEN CARROT, Popcorn🍿, Popcorn",cauliflower,65,Looks like a cauliflower head to me!,2025-07-09T19:04:15.124286+00:00
+60,60/60_67.jpg,,,kimchi,"Ariella, Sushi, Kimchi",fruit,66,It looks like a scribbled fruit!,2025-07-09T19:19:10.678681+00:00
+60,60/60_68.jpg,,,popcorn,"Nose, Popcorn, Popcorn, Popcorn",blob,67,"Looks like a blob of something, maybe a sauce or a spread?",2025-07-09T19:26:29.709303+00:00
+55,55/55_40.jpg,,,owl,"Wolf, Owl, Owl, Owl",werewolf,82,The drawing looks like a werewolf howling at the moon!,2025-07-09T19:27:58.882348+00:00
+57,57/57_39.jpg,,,midwife,"Person using the subway, Midwife, Me. Sadly looking in the mirroe, Midwife",speaker,82,The figure looks like they're addressing an audience!,2025-07-09T19:46:22.476311+00:00
+55,55/55_41.jpg,,,goldfish,"Whale, Goldfish, Goldfish, Fish",sea cucumber,80,Looks like a sea cucumber!,2025-07-09T20:57:26.507855+00:00
+59,59/59_49.jpg,,,bowling alley,"Bowling, Bouling, Bouling, Bowling alley",Playground,80,Looks like a slide in a playground!,2025-07-09T21:30:47.421742+00:00
+59,59/59_50.jpg,,,bowling alley,"Bowling alley, Bouling, ,kjbktuf""vky&ougcuyrf, Fanhh",slope,60,Looks like a slope to me!,2025-07-09T21:53:05.223831+00:00
+60,60/60_69.jpg,,,bacon,"Bacon, Bacon",caviar,34,The scribbles look like a jar of caviar!,2025-07-09T22:12:04.18725+00:00
+55,55/55_42.jpg,,,gorilla,"Big foot, Gorrila, Gorilla",snowman,55,It looks like a snowman with arms and legs!,2025-07-13T18:16:42.337521+00:00
+71,71/71_29.jpg,,,Pikmin,"Crazy man, Minecraft, Pikmin, Party person",Flappy Bird,60,The bird-like figure reminds me of Flappy Bird.,2025-07-09T22:45:32.147295+00:00
+55,55/55_43.jpg,,,Stick insect,"Horse, Giraffe, Stick insect, Stick insect",camel,55,It looks like a camel without the humps!,2025-07-10T19:15:41.741528+00:00
+61,61/61_40.jpg,,,boomerang,"Boomerang of death, Boomerang, Boomerang, Boomerang",banana,45,It looks like a banana with some weird stuff around it.,2025-07-10T19:32:24.172832+00:00
+60,60/60_70.jpg,,,pickle,"Pickle, Hotdog",bubble tea,82,It looks like a cup with bubbles inside!,2025-07-10T21:32:48.413073+00:00
+59,59/59_51.jpg,,,bowling alley,"Farm, Bowling alley, Bowling lanes",Jail,75,Looks like a jail cell to me!,2025-07-10T23:51:32.288717+00:00
+64,64/64_10.jpg,,,Disney,Disney,Burger King,4,"The shape is like the top of a burger, maybe?",2025-07-11T01:28:56.452578+00:00
+55,55/55_44.jpg,,,raccoon,"Raccoon, Asians",tadpole,60,Looks like a tadpole swimming in a pond!,2025-07-11T01:37:33.912274+00:00
+69,69/69_6.jpg,,,telescope,"Telescope, Meteor shower, Planetarium, Big bang",space exploration,56,It evokes a sense of venturing into the unknown depths of space!,2025-07-11T01:57:57.100239+00:00
+56,56/56_29.jpg,,,eating,"Eating, Eating, Eating, Eating",showing,89,"The hand is clearly indicating something, like a magician's reveal!",2025-07-11T02:01:43.813988+00:00
+60,60/60_71.jpg,,,french fries,"Mcdonalds french fries, French fries",juice,80,It looks like a glass of juice with some leaves as decoration.,2025-07-09T22:36:22.278002+00:00
+60,60/60_72.jpg,,,chocolate,"Chocolate bar, Chocolate bar, Chocolate, Chocolate",pancake,67,Looks like a stack of pancakes with a bite taken out!,2025-07-11T04:57:40.587461+00:00
+60,60/60_73.jpg,,,cheese,"Pizza, Chesse, Cheese, Rock",beans,82,Looks like a bowl of beans. I wonder what kind of beans they are!,2025-07-11T18:58:22.071255+00:00
+56,56/56_30.jpg,,,dreaming,"Desk, Dreaming, Dream, Dreaming",studying,32,School is a place to study!,2025-07-11T19:18:41.048083+00:00
+72,72/72_30.jpg,,,King Kong,"Chicken little, Kingkong, Chicken little, King kong",Skull,85,It looks like a skull!,2025-07-11T19:59:47.105183+00:00
+65,65/65_25.jpg,,,Spain,"Vampire bunny, Spain, Bunny, Vampire bunny",New Zealand,89,The bunny looks like it's ready to bungee jump!,2025-07-11T20:25:47.654231+00:00
+72,72/72_31.jpg,,,King Kong,"Emorje, Done!, King kong, Mincraft person",Beetlejuice,45,The wild hair and crazy expression remind me of Beetlejuice!,2025-07-11T20:44:42.955439+00:00
+55,55/55_45.jpg,,,shrimp,"T, Shrimp, Alien, Banana slug",sea slug,75,It looks like a sea slug with its rhinophores.,2025-07-11T21:05:54.328243+00:00
+55,55/55_46.jpg,,,cheetah,"Cheetah, Cheeta, Cow, Cow",calf,70,It looks like a baby cow!,2025-07-19T22:08:48.668772+00:00
+60,60/60_74.jpg,,,chocolate,"Coffee, Hot chocolate, Chocolate, Tea",hot chocolate,80,It looks like a cup of hot chocolate with some chocolate sprinkles.,2025-07-11T04:34:46.576158+00:00
+56,56/56_31.jpg,,,camping,"Camping, Lake, Camping",curling,88,Looks like someone curling up in bed. Time for sleepy time!,2025-07-11T23:08:06.802002+00:00
+60,60/60_75.jpg,,,coconut,"Flower, Coconut, Coconut",cotton candy,82,The fluffy top looks like a cloud of cotton candy!,2025-07-11T23:30:14.690986+00:00
+60,60/60_76.jpg,,,bacon,"Coke, Potato, Fries, Bacon",sauce,89,"It looks like a container of sauce, maybe for dipping!",2025-07-12T17:48:50.659431+00:00
+59,59/59_52.jpg,,,lake,"Lake, Lake, Garden",arboretum,85,It looks like an arboretum with trees and a happy face.,2025-07-12T18:12:17.599141+00:00
+60,60/60_77.jpg,,,pizza,"Pizzzzzzzzzaaaaaaaaaa, Pizza, What, Cheese",pastry,60,Looks like a delicious pastry with some cream filling!,2025-07-12T18:47:49.078267+00:00
+57,57/57_40.jpg,,,miner,"Miner, Mom, Miner, Miner",performer,85,The drawing looks like someone putting on a show!,2025-07-12T19:59:14.124746+00:00
+67,67/67_6.jpg,,,Cycling,"Biking, Biking, Cycling, Cycaling",Wrestling,82,Looks like a wrestler getting ready for a takedown!,2025-07-12T20:02:21.564316+00:00
+61,61/61_41.jpg,,,teapot,"Teapot, Tea pot, Teapot, Teapot",heater,60,"The drawing looks like something that gets hot, like a heater!",2025-07-12T22:21:48.849146+00:00
+72,72/72_32.jpg,,,Moana,"Toystory, Moana, Stickman",Stickman,88,It's literally a stickman!,2025-07-12T22:23:55.017139+00:00
+57,57/57_41.jpg,,,witch,"Cowboy, Witch, Sad cowboy",rancher,70,Looks like a rancher with a hat and lasso!,2025-07-12T23:57:20.360857+00:00
+61,61/61_42.jpg,,,key,"Wheel, Fish, Key, K",fishing rod,60,Looks like a fishing rod to me! Time to catch some fish!,2025-07-11T22:17:31.817148+00:00
+56,56/56_32.jpg,,,pinching,"Pinching, Pinching",shaking hands,80,Looks like they are shaking hands.,2025-07-13T20:01:06.845529+00:00
+60,60/60_78.jpg,,,ramen,"Spagetti, Mashed potatos, Ramen",crepe,88,Looks like a crepe with a mountain of filling!,2025-07-13T20:06:50.346331+00:00
+60,60/60_79.jpg,,,rice,"Rice, Rice, Rice",oatmeal,60,It looks like a bowl of oatmeal with toppings.,2025-07-13T21:11:36.64698+00:00
+71,71/71_30.jpg,,,Space Invaders,"Pillow, Roblox, Space invaders",Terraria,30,The drawing reminds me of a world with blocks and monsters!,2025-07-13T21:39:21.779262+00:00
+60,60/60_80.jpg,,,spaghetti,"Wheel, Forkinomelet, Spaghetti",guacamole,70,It looks like a bowl of guacamole.,2025-07-13T22:22:44.946285+00:00
+57,57/57_42.jpg,,,diver,"Diver, Student, Student",traveler,80,"A traveler with a backpack, ready for adventure! Where are they headed?",2025-07-13T23:15:48.986013+00:00
+59,59/59_53.jpg,,,sewer,"Sewer, Sewer",roadside,88,Looks like a car on the roadside.,2025-07-14T17:57:03.669865+00:00
+61,61/61_43.jpg,,,eraser,"Earaser, Eraser",sparkler,92,It looks like a sparkler!,2025-07-14T18:49:07.021234+00:00
+59,59/59_54.jpg,,,volcano,"Volcano erupting, Volcano, Volcano, Volcano",spiderweb,71,Looks like a spiderweb with something caught in the middle!,2025-07-14T20:33:54.963922+00:00
+61,61/61_44.jpg,,,spoon,"Yo yo, Swing, Tadpole , Spoon",fishing bobber,75,It looks like a fishing bobber floating on the water!,2025-07-15T18:16:37.667886+00:00
+65,65/65_26.jpg,,,Cambodia,"Cambodia, Stick man, Cambodia, Stick man",Korea,89,The stick figure looks like it's doing a traditional Korean dance. Perhaps?,2025-07-15T20:44:34.697595+00:00
+64,64/64_11.jpg,,,Amazon,"Non mais serieux c quoi ça, Amozon, Amazon",Swiffer,80,The swirl looks like the motion of a Swiffer cleaning.,2025-07-15T22:45:10.546009+00:00
+61,61/61_45.jpg,,,phone,"Phone, Phone, Phone, Phone",window,34,It looks like a window with some shapes outside.,2025-07-15T22:46:56.956141+00:00
+55,55/55_47.jpg,,,tiger,Tiger,sheep,82,Looks like a fluffy sheep with stick legs!,2025-07-15T23:54:09.352693+00:00
+55,55/55_48.jpg,,,caterpillar,"Caterpillar, Caterpilar, Catterpiller, Caterpilar",stick insect,89,The stick figure is actually a stick insect disguised as a person!,2025-07-16T17:34:09.224843+00:00
+61,61/61_46.jpg,,,vacuum,Vacuum,golf club,70,Looks like a golf club hitting a ball,2025-07-16T18:41:40.481981+00:00
+60,60/60_81.jpg,,,sushi," Uoop, Pizza, Sushi, Eye balls",walnut,82,It looks like a walnut!,2025-07-16T19:45:37.363659+00:00
+55,55/55_49.jpg,,,pelican,"Bird, Bird, Pelican, Pelican",bird,82,It looks like a generic bird.,2025-07-16T21:34:42.287071+00:00
+60,60/60_82.jpg,,,cupcake,"Cupcake, Cupcake, Cupcake, Cupcake",latte,80,Maybe it's a latte with some fancy art on top?,2025-07-17T17:20:02.299074+00:00
+60,60/60_83.jpg,,,cherry,"Coke, Cherry, Coca cola, Cherry",cola,95,Looks like they are trying to spell out cola,2025-07-17T17:22:24.240068+00:00
+60,60/60_84.jpg,,,hot dog,"Hot dog, Hot dog, Hot dog",mango,55,"It looks like a mango. A very abstract mango, indeed.",2025-07-17T18:51:56.260858+00:00
+65,65/65_27.jpg,,,Portugal,"Portugal, America, Pooooooop",Korea,9,"The hand looks like it's holding a fan, ready to cool off!",2025-07-17T19:35:21.349112+00:00
+61,61/61_47.jpg,,,diamond,"Diamond, Dimend, Gold, Ender dragon egg",game console,70,"It looks like a game console, maybe a really old one?",2025-07-17T22:03:09.557402+00:00
+55,55/55_50.jpg,,,cheetah,"..., Cheetah, A girl",gnat,60,Looks like a gnat buzzing around!,2025-07-19T22:54:56.043+00:00
+57,57/57_43.jpg,,,dentist,"Dentist, A dentist, Stick figure, Dentist",performer,80,"The figure is holding props, like a performer!",2025-07-16T21:26:01.725001+00:00
+65,65/65_28.jpg,,,South Africa,"South africa, South africa, South africa",Korea,15,"The shape looks like a peninsula, so maybe it's a country in East Asia?",2025-07-18T02:40:38.237773+00:00
+55,55/55_51.jpg,,,goldfish,"Cat, Cat, Goldfish, Catfish",kitten,80,It looks like a kitten!,2025-07-18T03:57:36.158463+00:00
+68,68/68_15.jpg,,,Buddhism,"Buddhism, ¿, Scribble",Suppression,82,Looks like someone is trying to keep something down!,2025-07-18T20:39:05.744882+00:00
+60,60/60_85.jpg,,,peach,"Peach, Apple, French fries, Peach",fruit,56,It looks like a generic fruit.,2025-07-18T20:46:03.890009+00:00
+61,61/61_48.jpg,,,axe,"Umbrella, Axe, Plant, Umbrella",parasol,77,"It looks like a fancy umbrella, so maybe it's a parasol!",2025-07-18T21:00:57.4487+00:00
+61,61/61_49.jpg,,,eraser,"Eraser, Trahs can, Eraser, Cheese",glass,70,It looks like a glass!,2025-07-17T23:55:23.452646+00:00
+57,57/57_44.jpg,,,diver,"Pilot, Diver, Teacher",warrior,60,Looks like a warrior with a weapon.,2025-07-18T22:03:49.578945+00:00
+55,55/55_52.jpg,,,fly,"Fly, Fly🪰🪰, A fly, Insect",bunny,80,"Looks like a bunny with floppy ears! Hop, hop, hop!",2025-07-18T22:06:46.570093+00:00
+65,65/65_29.jpg,,,Italy,"Italy, Fla, Italy",Bulgaria,9,"R/W/G could be a hint to Bulgaria's flag colors, perhaps?",2025-07-18T22:57:50.384767+00:00
+55,55/55_53.jpg,,,squid,"Jellyfish, Squid, Jelly fish",kiwi,80,The shape and the face remind me of a kiwi bird!,2025-07-18T23:03:34.835432+00:00
+55,55/55_54.jpg,,,cockroach,"Cockroach, Bug, Cockroach, Beatle",tick,80,It looks like a tick with its round body and legs. Is it hiding in the grass?,2025-07-18T23:12:09.920544+00:00
+55,55/55_55.jpg,,,cockroach,"Ladybug, Cockroach, Tik, Tic",tick,80,It looks like a tick!,2025-07-18T23:29:02.559175+00:00
+60,60/60_86.jpg,,,popcorn,Popcorn,fruit salad,80,A mix of different fruits all chopped up!,2025-07-19T00:04:09.167515+00:00
+55,55/55_56.jpg,,,penguin,"Penguin, Penguin",ladybug,72,The circles could be the spots on a ladybug's back!,2025-07-19T16:55:46.778323+00:00
+57,57/57_45.jpg,,,composer,"Composer, Human getting burned from tsar bomba, Spy poo, Squiggles",illusionist,70,It looks like an illusionist trying to make something disappear!,2025-07-19T20:01:42.845941+00:00
+59,59/59_55.jpg,,,sewer,"Suwer, Sewer, Island, A bridge to a pool",water tower,75,Looks like a water tower standing tall above the ground.,2025-07-19T20:38:40.104329+00:00
+59,59/59_56.jpg,,,lake,"Pond, Park, Lake",field,50,It looks like a field with some trees.,2025-07-19T21:28:13.570056+00:00
+55,55/55_57.jpg,,,grizzly bear,"Grizzly bear, Mouse, Mouse, Mouse",warthog,75,It looks like a warthog with those tusks!,2025-07-18T21:48:54.161955+00:00
+60,60/60_87.jpg,,,popcorn,"Popcorn or pizza, Movie, Popcorn, Popcorn",crepes,80,The squiggles on top remind me of crepes.,2025-07-20T18:42:18.249191+00:00
+56,56/56_33.jpg,,,eating,"Eating, Banana, Fighting, A person",chatting,80,Looks like they are having a friendly chat!,2025-07-20T19:41:41.481074+00:00
+69,69/69_7.jpg,,,AI,"Robot, Ai  robot, Ai, Robot",Observatory,80,It looks like an observatory with a telescope inside!,2025-07-20T19:46:25.574163+00:00
+72,72/72_33.jpg,,,Rocky,"Rocky, Superhero, Super Man🦸‍♂️, Elsa",Robocop,34,Looks like a robot cop!,2025-07-20T20:33:31.717111+00:00
+71,71/71_31.jpg,,,Portal,"Puzzle, Racing, Portal, Maze",Terraria,82,The spiral reminds me of digging down into the world of Terraria.,2025-07-20T23:16:20.901919+00:00
+59,59/59_57.jpg,,,forest,Forest,underwater,60,Looks like an underwater scene with some coral-like structures.,2025-07-21T00:01:15.076746+00:00
+66,66/66_1.jpg,,,Golden Temple,"Templ, Golden temple, San francisco, Golden hate bridge",Castle Neuschwanstein,82,"It looks like a fairy tale castle, maybe Castle Neuschwanstein?",2025-07-21T18:28:53.987123+00:00
+60,60/60_88.jpg,,,cupcake,"Icecream cone, Cupcake",gelato,79,It looks like a cone of gelato!,2025-07-21T19:22:33.144912+00:00
+60,60/60_89.jpg,,,cupcake,Cupcake,fruit basket,66,Looks like a basket with some fruits inside.,2025-07-20T17:43:09.375379+00:00
+59,59/59_58.jpg,,,factory,"Factory, Factory, Factory, Chocolate factory",sweet shop,80,That lollipop looks like it came from a sweet shop!,2025-07-22T18:08:41.255921+00:00
+65,65/65_30.jpg,,,Indonesia,"A countries, Indoneasau, Indonesia, Peru",Korea,9,The circles remind me of the Korean flag.,2025-07-22T18:31:45.191106+00:00
+65,65/65_31.jpg,,,Vietnam,"The carrebian, Vietnam, Vietnam, Jellyfish?",Albania,5,"Looks like Albania, but I'm not too sure!",2025-07-22T19:34:33.516798+00:00
+60,60/60_90.jpg,,,pancake,"Pancake, Pancake, Foo, Pancake",ball,80,Looks like a ball!,2025-07-22T19:57:47.313673+00:00
+55,55/55_58.jpg,,,cheetah,"Cheetah, Dog, Lepord, Dog",porcupine,75,It looks like a porcupine with its quills!,2025-07-22T21:42:36.600648+00:00
+57,57/57_46.jpg,,,butcher,"Steak, Butcher, Chf, Chef",salesman,60,The person is selling something on a table.,2025-07-22T21:53:35.149589+00:00
+64,64/64_12.jpg,,,Apple,"Apple, Cherry, Apple",Cherry Republic,88,"It looks like a cherry, so maybe it's Cherry Republic!",2025-07-23T18:14:38.905624+00:00
+56,56/56_34.jpg,,,writing,"Writing, Swiming, Water, Waves",waving,80,It looks like someone is waving their hand.,2025-07-23T18:33:50.034475+00:00
+59,59/59_59.jpg,,,bowling alley,"Road with ball that looks like phina, Bowling alley, Bowling alley, Bowling",bleachers,80,Looks like bleachers to me!,2025-07-21T21:42:17.956236+00:00
+57,57/57_47.jpg,,,drummer,"Teacher, Chef, Kid playing, Drummer",developer,60,Looks like a person developing something with blocks!,2025-07-23T20:26:08.600793+00:00
+69,69/69_8.jpg,,,moon,"Moon, Moon, Cheese, Helphelphelp",Generative AI,88,"The text ""image is generated"" strongly suggests generative AI.",2025-07-23T20:48:20.478665+00:00
+61,61/61_50.jpg,,,watch,"Watch, Stick man, Stick man, Heuman",sunscreen,45,"It's a sunny day, so maybe the person needs sunscreen!",2025-07-23T22:02:49.667844+00:00
+65,65/65_32.jpg,,,Mexico,"Mexico, Mekso, Mexico, Mexico",France,5,The scribble looks like a beret that has been scribbled on!,2025-07-23T23:10:08.456018+00:00
+66,66/66_2.jpg,,,White House,"Whitehouse, White house, Whitehouse, Whitehouse",The Wave,40,"It looks like a wave, maybe it's that famous rock formation?",2025-07-23T23:14:13.646597+00:00
+71,71/71_32.jpg,,,Portal,"Portal, Portal, Portal, Portal",Orbital,34,It looks like an orbital shape.,2025-07-23T23:38:28.133149+00:00
+56,56/56_35.jpg,,,jogging,"Jogging, Running",leaping,80,"The stick figure is in mid-air, like it's taking a big leap forward.",2025-07-23T23:54:22.172705+00:00
+57,57/57_48.jpg,,,knight,"Horserider, Knight, KNight time",nomad,75,A nomad traveling under the stars on their trusty camel.,2025-07-24T17:42:46.422401+00:00
+59,59/59_60.jpg,,,school,"Gym, School, Restraunt",kitchen,88,Looks like a stove! Must be a kitchen.,2025-07-23T19:08:52.002941+00:00
+64,64/64_13.jpg,,,TikTok,"Tiktok?, Dk, Tiktok, Tik tok",SoundCloud,82,"It's a musical note, so maybe a music platform?",2025-07-24T20:19:22.033583+00:00
+61,61/61_51.jpg,,,sword,"Jesus, Church, Sword, Im sorry😭",tombstone,85,"Looks like a tombstone on a hill, a place of rest.",2025-07-24T21:39:10.611931+00:00
+57,57/57_49.jpg,,,witch,"A weach, Witch",rancher,85,The fence and open land make me think of someone working on a ranch!,2025-07-24T22:02:52.859769+00:00
+57,57/57_50.jpg,,,dancer,"Baseball player, Girrafe, Dancer, Chicken",countryman,80,Looks like a person in the countryside with a hat and a stick.,2025-07-24T23:14:27.592799+00:00
+58,58/58_5.jpg,,,Infinity,"Infinity, Infinity, Infinity, Infinity",Wave,80,The lines look like a wave.,2025-07-25T00:05:32.080584+00:00
+65,65/65_33.jpg,,,Turkey,"Finglevania, Gloveland, Turkey, United states",England,9,"The hand looks like it's holding a cup of tea, maybe from England?",2025-07-25T01:24:58.164004+00:00
+68,68/68_16.jpg,,,Thanksgiving,"Thanksgiving, Turkey",Engagement,85,"Looks like a ring being offered, definitely engagement vibes!",2025-07-25T02:34:18.417105+00:00
+65,65/65_34.jpg,,,Kenya,"Kenya, Africa",New Zealand,10,"The shape is like a blob, and New Zealand is a blob-shaped country!",2025-07-25T17:22:47.900338+00:00
+56,56/56_36.jpg,,,throwing,"Throwing, Throwimg a ball, House, Throwing",daydreaming,66,The person seems to be in a daydream with those clouds above their head.,2025-07-25T18:26:06.282449+00:00
+60,60/60_91.jpg,,,sushi,"Sushi, Bagl, Idk, Sushi",bagel,60,"It looks like a bagel, ready for cream cheese!",2025-07-25T18:59:49.341792+00:00
+60,60/60_92.jpg,,,banana,"Banana, Banana, Banana, Banana",empanada,60,Looks like an empanada with a sealed edge.,2025-07-25T19:24:59.601687+00:00
+61,61/61_52.jpg,,,key,"Motorcyle in progress, Key, Telephone, Key",truck,60,It looks like a truck with a big load in the back!,2025-07-25T19:40:29.466327+00:00
+72,72/72_34.jpg,,,Toy Story,"Toy story, Woody, Toy story, Toy story",Treasure Island,60,The hat and pose make me think of pirates and buried treasure!,2025-07-25T20:28:51.619364+00:00
+58,58/58_6.jpg,,,Secret,"Collabrate, Secret, @-@, Kissing",Support,71,Looks like someone is supporting another person. Maybe they need help?,2025-07-25T20:41:35.997068+00:00
+57,57/57_51.jpg,,,police,"Roraly, Police, Dog man, Dog man",entertainer,60,"The drawing looks like someone putting on a show, an entertainer!",2025-07-25T21:43:32.809007+00:00
+61,61/61_53.jpg,,,cup,"Cup, Pot, Cup, Mug cup",bowl,60,It looks like a bowl filled with something!,2025-07-25T22:55:13.512018+00:00
+61,61/61_54.jpg,,,boat,"Boat, Boat, Playground, Streetlight",sink,80,It looks like a sink with a tap!,2025-07-26T20:17:31.057544+00:00
+59,59/59_61.jpg,,,haunted house,"Stop cheating the ai, Haunted house, Idk whtis this bro like whattt🤔, Haunted house",pond,40,It looks like a pond with a small waterfall.,2025-07-26T20:19:53.769022+00:00
+60,60/60_93.jpg,,,popcorn,"Popcorn, Popcorn, Coffee",milkshake,60,Looks like a cup with something thick inside. Maybe a milkshake?,2025-07-27T00:00:16.161139+00:00
+65,65/65_35.jpg,,,Kenya,"Kenya, Kenya",New Zealand,25,Maybe the scribbles are sheep? New Zealand has lots of sheep!,2025-07-27T18:19:13.699189+00:00
+57,57/57_52.jpg,,,barber,"Scientist, Barber, Rockstar, Barber",entertainer,65,"The whole thing just screams 'look at me, I'm entertaining!'",2025-07-27T18:45:49.771632+00:00
+72,72/72_35.jpg,,,Jaws,Jaws,Flight,89,The stick figure is flying! Maybe it's a movie about flight.,2025-07-27T19:18:49.661604+00:00
+60,60/60_94.jpg,,,bacon,"Bacon, Bacon, Violin, Chicken",ravioli,82,The drawing looks like a plump ravioli filled with deliciousness!,2025-07-27T19:35:28.729618+00:00
+61,61/61_55.jpg,,,ruler,"Ruler, Piano, Ruler, Ruler",domino,80,It looks like a domino with multiple dots on it.,2025-07-27T19:45:01.60746+00:00
+56,56/56_37.jpg,,,sleeping,"Zig zag, Z, Sleeping, Zigzag",zigzagging,60,"It looks like a zigzag path, so maybe it's about zigzagging?",2025-07-27T21:12:57.702341+00:00
+60,60/60_95.jpg,,,strawberry,"Carrot, Strawberry, Pizza, Carrot",nachos,55,The triangle shape and toppings make me think of nachos!,2025-07-26T23:18:31.093096+00:00
+61,61/61_56.jpg,,,couch,"Bean bag, Bean bag, Record, Couch",goggles,60,Looks like a pair of goggles to me!,2025-07-28T17:10:18.696345+00:00
+61,61/61_57.jpg,,,jacket,"Jacket, Person, Fish, Thom yorke",person,50,Looks like a person standing with one arm out.,2025-07-28T20:00:45.873272+00:00
+65,65/65_36.jpg,,,Greece,"Denmark, I dont know, America, Greece",United States,85,Looks like the stars and stripes! Maybe they're drawing the American flag?,2025-07-28T20:26:19.926307+00:00
+60,60/60_96.jpg,,,coconut,"Coconut, Coconut, Coconut",peach,8,It looks like a peach with a flag on top. A very proud peach!,2025-07-28T21:09:31.712247+00:00
+56,56/56_38.jpg,,,farting,"Farting, Farting, Farting, Farting",upset,79,The sad face suggests someone is feeling quite down. Maybe they're upset?,2025-07-28T22:19:40.616261+00:00
+55,55/55_59.jpg,,,swan,"Rockit, Swan, Rocket, Shark",squid,8,The shape reminds me of a squid swimming in the ocean!,2025-07-28T22:21:58.782101+00:00
+64,64/64_14.jpg,,,Subway,"Subway, Scribble, Subway, Subway",Generic Brand,5,Looks like a generic brand covered in scribbles.,2025-07-28T22:50:32.091272+00:00
+60,60/60_97.jpg,,,melon,"Watermelon seeds, Watermellon, Melon",fruit,55,It looks like a fruit next to a slice of fruit!,2025-08-01T21:14:14.25908+00:00
+57,57/57_53.jpg,,,witch,"Hat, Dog, Witch",adventurer,88,The arrow pointing down makes me think of someone exploring!,2025-07-27T23:49:19.90165+00:00
+71,71/71_33.jpg,,,Angry Birds,"Aa idk , Angry birds",Terraria,30,The blocks and the animal remind me of Terraria.,2025-07-29T18:55:03.535135+00:00
+56,56/56_39.jpg,,,kicking,"Leg, Big. Nosed dude, IDK, Kicking",greeting,89,The 'Hey' makes me think of a greeting!,2025-07-29T19:26:56.700361+00:00
+55,55/55_60.jpg,,,walrus,"Dragon, Walrus, Dragon",kiwi,15,That body shape reminds me of a kiwi bird. Is it hiding in New Zealand?,2025-07-29T21:16:09.669122+00:00
+72,72/72_36.jpg,,,King Kong,"Koala, King kong, King Kong",Cliffhanger,60,Looks like a person hanging off a cliff!,2025-07-29T21:28:15.096097+00:00
+61,61/61_58.jpg,,,key,"Key, Car, Key, Key",slug,80,Looks like a slug!,2025-07-29T22:16:33.42903+00:00
+65,65/65_37.jpg,,,Mexico,"Italy, Bolivia, Mexico, France",Fiji,15,"The bird looks like a parrot, and Fiji is known for its colorful birds.",2025-07-29T23:11:37.180202+00:00
+65,65/65_38.jpg,,,Mexico,"Mexico, Dot, ..., Earth",Singapore,70,It could be a small dot representing the small island nation of Singapore.,2025-07-29T23:29:37.222416+00:00
+55,55/55_61.jpg,,,platypus,"Dog, Platypus, Dog, Turtle",turtle,75,It looks like a turtle!,2025-07-30T17:40:41.778257+00:00
+59,59/59_62.jpg,,,factory,"Factory, Factory",skyscraper,88,It's a tall building with many windows. A skyscraper!,2025-07-30T18:08:06.643401+00:00
+61,61/61_59.jpg,,,kite,"Kite, Kite, Kite, Kite",scribbles,70,It looks like a page full of scribbles!,2025-07-30T19:05:42.502624+00:00
+64,64/64_15.jpg,,,Spotify,"Spotify, Spotify, Spotify, Spoty",Under Armour,45,"The legs are crossed out, maybe meaning no armour?",2025-07-29T18:20:33.767321+00:00
+72,72/72_37.jpg,,,Frozen,"Home alone, Frozen, King kong, Titanic",The Climb,9,"The figure is climbing stairs, so it could be a movie about climbing!",2025-07-30T21:31:17.3879+00:00
+60,60/60_98.jpg,,,beer,"Bottle, Wine, Water bottle, Beer",cider,66,The bottle shape makes me think of a nice glass of cider!,2025-07-30T21:42:42.509171+00:00
+69,69/69_9.jpg,,,moon,"Ipad?, Phone, Tv, Moon",screen,67,"It looks like a screen, maybe a monitor or a display of some sort.",2025-07-30T23:22:59.572328+00:00
+69,69/69_10.jpg,,,moon,"Spaceship, Moon, Moon with the stars, Moon",planet,80,It looks like a planet with stars around it.,2025-07-30T23:36:40.400775+00:00
+57,57/57_54.jpg,,,boxer,"J, H, T, Boxer",builder,82,"It looks like a building, so maybe a builder?",2025-07-31T00:00:30.920617+00:00
+72,72/72_38.jpg,,,Kung Fu Panda,Kung fu panda,Circle,8,"It's literally a circle, so why not?",2025-07-31T16:48:20.521585+00:00
+64,64/64_16.jpg,,,X,X,Plus,70,It's a plus sign! Like the streaming service Paramount Plus!,2025-07-31T17:33:00.112182+00:00
+65,65/65_39.jpg,,,Portugal,"Portigul, Poutuil, Portugal, Portugal",Russia,30,"The stick figure is wearing a ushanka hat, like in Russia!",2025-07-31T18:18:40.484578+00:00
+64,64/64_17.jpg,,,IKEA,"A skribble, Tournado, Scribble, Ikea",Reebok,55,Looks like a logo that someone tried to cover up!,2025-07-31T18:30:56.160049+00:00
+60,60/60_99.jpg,,,potato,"Potato, Potato, Potato",corn dog,82,It looks like a corn dog on a stick!,2025-07-31T19:57:28.829482+00:00
+60,60/60_100.jpg,,,bell pepper,"Bellpepper, Apple, Bell pepper",squash,80,It looks like a squash.,2025-07-30T20:58:17.905276+00:00
+57,57/57_55.jpg,,,scientist,"Scientist, Gamer, Clown, Chef",fighter,90,The drawing looks like a fighter ready to throw a punch!,2025-07-31T21:17:35.063406+00:00
+60,60/60_101.jpg,,,yogurt,"Bowl with carrot on it, Yogurt, Cup and straw, Coffee",juice,82,Looks like a glass of juice to me!,2025-07-31T22:02:45.404842+00:00
+57,57/57_56.jpg,,,father,"Father, Techer, Father",nerd,70,The glasses and hair make me think of a nerd.,2025-07-31T22:46:17.883831+00:00
+60,60/60_102.jpg,,,sushi,"Sushi, Sushi, Sushi, Shushi",juice,82,That cup looks like it could hold a refreshing juice!,2025-07-31T23:20:06.308927+00:00
+60,60/60_103.jpg,,,tofu,"Tofu, Avocado, Cake, Cheese",submarine sandwich,70,"It looks like a submarine sandwich, with the top part being the filling.",2025-08-01T03:11:40.055233+00:00
+68,68/68_17.jpg,,,Islam,"Star, Illusion, Star, Islam",Government,72,It looks like a structured system within a boundary.,2025-08-01T03:43:05.920908+00:00
+68,68/68_18.jpg,,,Olympics,"Olympics, Olympics, Olympics",Knowledge,80,A cloud of knowledge above someone's head!,2025-08-01T04:07:43.001173+00:00
+67,67/67_7.jpg,,,Fencing,"Fire, Fencing, Fencing, Pickle ball",Netball,60,Looks like they are building a net for netball!,2025-08-01T04:49:23.21859+00:00
+55,55/55_62.jpg,,,elephant,"Elephant, Elephant, Elephant",ladybug,45,The round shape reminds me of a ladybug!,2025-08-01T18:08:33.88698+00:00
+72,72/72_39.jpg,,,Iron Man,"Iron man, Up, Captain america, Back to the future",Robot,55,It looks like a robot,2025-08-01T20:37:13.230113+00:00
+68,68/68_19.jpg,,,Thanksgiving,"A fish swimming into a donut pot, Thanksgiving, Planet, Fruit",Engagement,70,The ring looks like an engagement ring!,2025-08-01T20:50:20.116077+00:00
+57,57/57_57.jpg,,,DJ,"Doorkeeper, DJ, Person opneing , Doorman",repairman,82,Looks like a repairman fixing something!,2025-07-31T20:26:37.993801+00:00
+70,70/70_2.jpg,,,Kaws,"Lady gaga, Clown, Clown, Kaws",Takashi Murakami,72,The cartoonish style reminds me of Murakami's playful characters.,2025-08-01T23:47:00.303772+00:00
+55,55/55_63.jpg,,,deer,"Deer, Goat, Deer, Ant",tick,75,It looks like a tick.,2025-08-02T17:46:48.343571+00:00
+61,61/61_60.jpg,,,boat,"Boat, Boat, Boat, Ship",bowl,75,It looks like a bowl.,2025-08-02T22:38:02.946314+00:00
+61,61/61_61.jpg,,,television,"Television, Television, Tv",nightstand,80,Looks like a nightstand with a lamp on it.,2025-08-03T00:16:06.643327+00:00
+65,65/65_40.jpg,,,Australia,"Australia, Australia, Australia",Italy,15,"The figure looks like a person gesturing dramatically, like an Italian!",2025-08-03T00:27:14.768549+00:00
+57,57/57_58.jpg,,,journalist,"Journalist, Businessman, Abductee",builder,82,"The drawing looks like a building under construction, so a builder?",2025-08-03T00:43:26.350733+00:00
+60,60/60_104.jpg,,,kiwi,"Strawberry, Cocunut drink, Strawberry, Kiwi",raspberry,77,It looks like a raspberry with the little bumps on the surface.,2025-08-01T23:22:54.693348+00:00
+56,56/56_40.jpg,,,fishing,"Fishing, Fishing, Fishing",resting,90,Looks like they are resting in bed.,2025-08-03T01:00:27.718814+00:00
+71,71/71_34.jpg,,,Pac-Man,"Pacman, Pacman, Pacman bro",Township,80,"Looks like a town layout, maybe from Township?",2025-08-03T01:13:55.240987+00:00
+55,55/55_64.jpg,,,penguin,"Polar bear, Polar Bear, Penguin, Penguin",fox,45,That tail and the mischievous look... could it be a fox?,2025-08-03T17:38:48.593878+00:00
+65,65/65_41.jpg,,,Hungary,"Hungary, Hungary, America, Usa",United States,95,"Stars and stripes, oh my! Looks like a flag of the United States to me.",2025-08-03T17:55:38.675891+00:00
+60,60/60_105.jpg,,,water,"Water, Egg, Plant, Skibidi tolielt",milkshake,72,It looks like a milkshake with a face drawn on it!,2025-08-03T19:17:51.940973+00:00
+64,64/64_18.jpg,,,Haribo,"Gummy bear brand, Haribo, GummyBear, Bag",Huggies,68,Looks like a diaper. Maybe it's Huggies?,2025-08-03T19:22:37.790783+00:00
+60,60/60_106.jpg,,,ketchup,"Ketchup, Ketchup, Catsup",flying saucer,80,The shape reminds me of a flying saucer!,2025-08-03T00:49:05.155683+00:00
+55,55/55_65.jpg,,,rabbit,"Dog, Rabbit, Rat",hedgehog,82,The scribbles make me think of a spiky hedgehog!,2025-08-03T21:50:27.9452+00:00
+55,55/55_66.jpg,,,rabbit,"Rabbit, Face, 🐽🐽🐽🐽🐽🐽",squid,40,It looks like a squid with its tentacles all tangled up!,2025-08-03T21:54:28.870591+00:00
+60,60/60_107.jpg,,,radish,"Banana, Radish, Radish, 💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩",kettle,80,It looks like a kettle. Time for a cuppa!,2025-08-03T22:05:36.608318+00:00
+55,55/55_67.jpg,,,rabbit,"Rabbit, Rabbit, Rabbit",squid,40,It looks like a squid with many tentacles!,2025-08-03T22:13:01.937149+00:00
+55,55/55_68.jpg,,,cat,"Cat, Cat, Squid, Co",ghost shark,70,It looks like a ghost shark!,2025-08-03T22:14:50.51323+00:00
+61,61/61_62.jpg,,,book,"Book, Bag, Laundry machine, Book",box,80,Looks like a box with a bunch of scribbles inside!,2025-08-03T22:51:11.905504+00:00
+59,59/59_63.jpg,,,crosswalk,"Crosswalk, Road, Ground, Road",canal,60,Looks like a canal to me!,2025-08-03T23:26:48.316689+00:00
+61,61/61_63.jpg,,,telescope,"Telescope, Telescope, Telescope, Telescope",arrow,55,It looks like an arrow pointing towards the sky!,2025-06-13T18:11:07.43655+00:00
+61,61/61_64.jpg,,,boat,"Golf course, Island, Map, Boat",box,80,It looks like a box with some scribbles!,2025-08-03T21:47:44.684558+00:00
+68,68/68_20.jpg,,,History,"History, History, History",Authority,65,"The word 'command' screams authority, doesn't it?",2025-06-13T21:26:53.327036+00:00
+58,58/58_7.jpg,,,Luck,"Luck, Luck",Abstract,89,"It's so abstract, it could be anything! Or nothing at all...",2025-06-13T22:21:47.180313+00:00
+65,65/65_42.jpg,,,Israel,"?, Mad face, Israel, China",Dubai,8,The buildings remind me of the Burj Khalifa in Dubai!,2025-06-13T23:16:14.206283+00:00
+71,71/71_35.jpg,,,Space Invaders,"Space invaders, Super mario bros, Superman, Astronut",Digimon,40,Looks like a digital monster!,2025-06-13T23:32:50.656524+00:00
+60,60/60_108.jpg,,,strawberry,"Strawberry, Juice, Strawberry, Strawberry",juice,70,It looks like juice with a straw and some berries.,2025-06-15T17:15:39.901084+00:00
+56,56/56_41.jpg,,,flying,"Flying, Shapes, Plane",coughing,60,Looks like someone has a tickle in their throat!,2025-06-15T17:42:21.077035+00:00
+61,61/61_65.jpg,,,toothbrush,"Toothbrush, Comb, Toothbrush, Tooth brush",barcode,89,Looks like a barcode to me!,2025-06-15T17:54:36.100469+00:00
+61,61/61_66.jpg,,,scissors,"Pendulum, Scissors, Fruits",goggles,60,The two circles with a bridge remind me of swimming goggles.,2025-06-15T18:18:17.270908+00:00
+67,67/67_8.jpg,,,Bowling,"Bowling, Bolling",Rafting,88,Looks like a raft going down a river!,2025-06-15T18:38:53.542211+00:00
+60,60/60_109.jpg,,,potato,"Potato, Strawberry, Bean, Potato",bean,80,It looks like a bean!,2025-06-15T18:44:41.503639+00:00
+57,57/57_59.jpg,,,scientist,"Scientist, Scientest, Scientist",performer,82,"The figure is presenting something, like a performer on stage.",2025-06-15T18:48:11.50279+00:00
+64,64/64_19.jpg,,,LEGO,"Lego, Lego, Lego",Cartoon Network,55,"It looks like a cartoon character, so maybe it's related to Cartoon Network.",2025-06-13T21:12:04.080686+00:00
+71,71/71_36.jpg,,,Guitar Hero,"Hand, Guitar hero, Guitar hero",Hand Simulator,70,"It's literally a hand, so why not?",2025-06-15T22:02:54.830599+00:00
+71,71/71_37.jpg,,,Guitar Hero,"Guitar hero, Tv, Guitar hero, Wii",Shooter,40,"The stick figure is holding a gun, so it's a shooter game!",2025-06-15T22:13:43.66003+00:00
+65,65/65_43.jpg,,,North Korea,"North korea, Ohio, America",Korea,8,"Looks like a fan, so I'm guessing Korea!",2025-06-15T22:21:26.442504+00:00
+56,56/56_42.jpg,,,farting,"Murder, Farting, Farting",sick,85,The X's on the face make me think of someone who is sick.,2025-06-16T19:00:17.620002+00:00
+56,56/56_43.jpg,,,farting,"Farting, Ferting, Farting, Falling",directing,60,Looks like they are directing traffic or giving instructions.,2025-06-16T19:03:39.190835+00:00
+57,57/57_60.jpg,,,caveman,"Caveman, Crooks, Pirate",zombie,70,It looks like a zombie with stitches.,2025-06-16T20:05:17.149123+00:00
+69,69/69_11.jpg,,,smartphone,"Soda, SmartPhone, Smart phone, Phone",radar,60,Could be a radar system sending out signals!,2025-06-16T20:51:59.40525+00:00
+71,71/71_38.jpg,,,Fortnite,"Fortnite, Fortnite, Fortnite",Mr. Potato Head,80,It looks like Mr. Potato Head with a mustache and glasses!,2025-06-15T20:12:19.515492+00:00
+55,55/55_69.jpg,,,tiger,"Tiger, Cat, Tiger, Tiger",kitten,80,It looks like a baby cat!,2025-06-16T22:54:30.699662+00:00
+65,65/65_44.jpg,,,Netherlands,"Canda, Netherlands, United states, America",France,9,The cloud looks like the Eiffel Tower!,2025-06-17T18:06:35.352166+00:00
+69,69/69_12.jpg,,,rocket,"Ufo, Rocket, Ufo, Rocket",observatory,82,It looks like an observatory with a dome on top!,2025-06-17T18:57:26.891326+00:00
+61,61/61_67.jpg,,,hammer,"Hammer, Hamer, Hammer, Scrible",wand,80,It looks like a magic wand!,2025-06-17T19:05:35.254576+00:00
+71,71/71_39.jpg,,,Tetris,"Brds, Roblox, Tetris, Duck hunt",Flappy Bird,89,Those birds look like they are flapping their wings!,2025-06-17T21:47:43.874351+00:00
+57,57/57_61.jpg,,,scientist,"Scientist, Scientist, Scientist, Scientist or chemist",decorator,55,"They could be a decorator, adding flair to a room!",2025-06-17T22:21:46.017617+00:00
+72,72/72_40.jpg,,,Moana,"Moana, Moana, Moana, Moana",Matilda,8,"The girl in the dress reminds me of Matilda, ready for school!",2025-06-17T22:56:44.214819+00:00
+57,57/57_62.jpg,,,fortune teller,"Poop, Fortune, Super man, Fortune teller",manager,80,Perhaps it's a manager dividing up tasks?,2025-06-17T22:59:36.450708+00:00
+65,65/65_45.jpg,,,Hungary,"Hungary, Hungary",New Zealand,15,"The shape is like an island, maybe like New Zealand?",2025-06-18T00:47:01.864003+00:00
+60,60/60_110.jpg,,,fish and chips,"Fish and chips, Steak dinner, Breakfast",dinner,56,It looks like a full dinner plate. I wonder what's on the menu?,2025-06-18T01:34:22.975154+00:00
+55,55/55_70.jpg,,,tiger,"Cat, Tiger, Tiger, Tiger",okapi,72,"It looks like an okapi, which is like a zebra-giraffe hybrid!",2025-06-16T22:34:26.442718+00:00
+64,64/64_20.jpg,,,Starbucks,"Starbuks, Star buck., Starbucks, 🥰🍋‍🟩",7-Eleven,91,Looks like a building with a sign. The sign says '7-Eleven'!,2025-06-18T20:17:10.043055+00:00
+57,57/57_63.jpg,,,old person,Old person,strongman,70,Looks like a strongman flexing his muscles!,2025-06-18T20:32:01.221274+00:00
+55,55/55_71.jpg,,,spider,"Cat, Pider, Clipbord, Spider",ladybug,82,It looks like a ladybug with two spots!,2025-06-18T20:38:36.447982+00:00
+60,60/60_111.jpg,,,durian,"Z☕️🥷, Xep, Durian",fruit,88,It looks like a generic fruit shape to me!,2025-06-18T21:15:15.615414+00:00
+70,70/70_3.jpg,,,Hokusai,"Hokusai, Squrpion",Louise Bourgeois,80,The scorpion reminds me of Bourgeois' giant spider sculptures.,2025-06-18T21:20:27.841782+00:00
+61,61/61_68.jpg,,,ruler,"Ruler, Ruler, Ruler, Ruler",notepad,80,It looks like a notepad with some notes scribbled on it.,2025-06-18T22:15:41.114928+00:00
+61,61/61_69.jpg,,,key,"Key, Key, Key, Key",scribbles,99,"It's just a bunch of scribbles, plain and simple!",2025-06-18T19:16:42.631886+00:00
+59,59/59_64.jpg,,,parking lot,"Field, Parking lot, Bridge, Windo",Messy Room,70,It looks like a room that is very messy.,2025-06-18T19:22:29.581464+00:00
+60,60/60_112.jpg,,,sushi,"Cookie, Sushi, Burger Patty, Sushi",blackberry,80,It looks like a blackberry!,2025-06-18T23:01:01.582357+00:00
+71,71/71_40.jpg,,,Space Invaders,"Spaceship, Space invaders",Soccer,65,The drawing looks like a ball on a field.,2025-06-18T23:15:32.908286+00:00
+60,60/60_113.jpg,,,sushi,"Sushi, Sushi",bagel,82,"It looks like a bagel, ready to be toasted and topped with cream cheese!",2025-06-18T23:49:01.710725+00:00
+55,55/55_72.jpg,,,shark,Shark,earthworm,30,Looks like an earthworm's messy tunnel system!,2025-06-19T03:06:06.255394+00:00
+65,65/65_46.jpg,,,Canada,"Canada, Gg, Canada, Holand",Egypt,70,"Hmm... the drawing looks like a TV with a hand in it, and the word REEP on top?",2025-06-19T03:28:33.286275+00:00
+58,58/58_8.jpg,,,Love,"Love, Ih",Flight,72,"The figure looks like it is flying, maybe representing flight?",2025-06-19T04:24:46.843248+00:00
+64,64/64_21.jpg,,,IKEA,"Key, Ikea, Ikea",LG,70,"It looks like a monitor, maybe it's an LG monitor?",2025-06-19T04:38:34.203548+00:00
+65,65/65_47.jpg,,,Italy,"I have no idea, Italy, America, You need to make a contry",Singapore,10,"The wall looks like an apartment building, maybe in Singapore?",2025-06-20T18:06:26.027592+00:00
+60,60/60_114.jpg,,,pretzel,"Pretzel, Pretzel, Pretzel",ravioli,82,It looks like a ravioli with a little sauce droplet.,2025-06-20T19:30:37.802477+00:00
+55,55/55_73.jpg,,,hamster,"Turtle, Turtle, Hamster",bull,60,Looks like a bull to me!,2025-06-20T19:32:59.114544+00:00
+60,60/60_115.jpg,,,pretzel,"Person, Pretzel, Eight, Sprite",cotton candy,82,It looks like a fluffy cloud of cotton candy!,2025-06-20T20:12:03.947171+00:00
+60,60/60_116.jpg,,,smoothie,"Smoothie, Smoothie, Smoothie",dot,5,It looks like a dot.,2025-06-18T22:53:08.513364+00:00
+59,59/59_65.jpg,,,train station,"Trainstation, Train station, Train staition, Train staition",jail,80,Looks like a jail cell to me!,2025-06-20T20:38:37.560469+00:00
+72,72/72_41.jpg,,,Jaws,"Sharks., Shark tank, Sharktsnk, Jaws",A Bug's Life,34,Could be a bug on a mountain. A Bug's Life!,2025-06-20T21:19:13.929127+00:00
+65,65/65_48.jpg,,,Saudi Arabia,"Saudi arabia, Russia, Usa, Turkey",Netherlands,8,"The flag is simple, like the Dutch flag!",2025-06-20T21:44:46.896461+00:00
+61,61/61_70.jpg,,,jacket,"Hammer, Jacket, Fire hydrant, ..........",earmuffs,82,Looks like a pair of earmuffs to keep your ears warm!,2025-06-20T22:08:45.096188+00:00
+60,60/60_117.jpg,,,bread,"Bread, Bread, Bread, Bread",cherry,80,It looks like a cherry on a stem!,2025-06-20T22:26:02.414077+00:00
+60,60/60_118.jpg,,,coconut,"Cantolope, Coconut, Pumpkin, Coconut",cantaloupe,65,The lines remind me of the outside of a cantaloupe.,2025-06-20T22:41:07.392267+00:00
+67,67/67_9.jpg,,,Tennis,Tennis,Cannonball,92,Looks like someone doing a cannonball into the water!,2025-06-21T00:47:37.933209+00:00
+72,72/72_42.jpg,,,The Matrix,The matrix,Fallen,80,Looks like someone has fallen over!,2025-06-21T03:26:39.756812+00:00
+72,72/72_43.jpg,,,The Lion King,The lion king,Flush Away,80,"The drawing looks like a toilet and some figures, maybe they are getting flushed away.",2025-06-21T04:05:47.298701+00:00
+55,55/55_74.jpg,,,panda,"Panda, But, Frog, Fly",echidna,30,The snout and body shape vaguely resemble an echidna.,2025-06-20T20:34:46.666161+00:00
+67,67/67_10.jpg,,,Soccer,"Sewer, Soccer, Soccer, Soccer",Netball,60,"Looks like a net, so maybe it's netball!",2025-06-21T21:53:49.180283+00:00
+71,71/71_41.jpg,,,Bioshock,"Tetris, Book, Zelda, Bioshock",Homescapes,15,"It looks like a phone screen, maybe with a puzzle game.",2025-06-21T22:58:34.542089+00:00
+60,60/60_119.jpg,,,yogurt,"Yogurt, Carrot, Carrot, Yogurt",juice,82,It looks like a glass of juice!,2025-06-21T23:15:53.125491+00:00
+67,67/67_11.jpg,,,Kayaking,"Kayaking, Scribble, Soccer, Soccer",Ball,80,It looks like a ball with a lot of scribbles around it.,2025-06-21T23:51:24.545672+00:00
+67,67/67_12.jpg,,,Bowling,"Bowling, Bowling, Bowling",Beach Volleyball,82,Looks like someone is about to hit the ball in beach volleyball.,2025-06-22T17:49:16.719315+00:00
+56,56/56_44.jpg,,,eating,"Robber, Huuuh, Eating, Eating",sobbing,82,Looks like someone is sobbing uncontrollably.,2025-06-22T17:58:57.812871+00:00
+65,65/65_49.jpg,,,India,"., India, India, India",New Zealand,89,The wavy lines remind me of the coast of New Zealand.,2025-06-22T19:07:01.954462+00:00
+65,65/65_50.jpg,,,Argentina,"Argentina, China",Australia,8,"The scribbled drawing looks like a boomerang, doesn't it?",2025-06-22T19:14:11.318681+00:00
+71,71/71_42.jpg,,,Tetris,"Tetris, Tetris, Mincraft, Couch",Cities: Skylines,68,"It looks like a city being built, maybe a modern take on SimCity?",2025-06-22T19:31:59.585969+00:00
+65,65/65_51.jpg,,,Brazil,"Chicken leg, Light bulb, Uruguay, Brazil",New Zealand,15,"The shape reminds me of a kiwi bird, maybe?",2025-06-21T21:42:25.02303+00:00
+67,67/67_13.jpg,,,Swimming,"Football , Swimming, Soccer, Football",Obstacle Course,60,It looks like an obstacle course with hurdles and walls.,2025-06-22T20:52:04.477798+00:00
+68,68/68_21.jpg,,,April Fools,"Poopimng, Toilet, Toilet, April fools",Meeting,56,Looks like someone is sitting down in a meeting. Just a wild guess!,2025-06-22T21:35:11.328239+00:00
+66,66/66_3.jpg,,,Leaning Tower of Pisa,"Leaning tower of pisa, Leaning towner of pizza, Leaning tower of piza, Leaning tower of isa",Skyscraper,82,It looks like a tall building with many windows.,2025-06-22T23:13:07.969422+00:00
+67,67/67_14.jpg,,,Jet Skiing,"Ski?, Jet, D, Jet skiing",Arrow,88,"Looks like an arrow, ready to pierce the target!",2025-06-22T23:50:05.846053+00:00
+61,61/61_71.jpg,,,bottle,"Bottle, Trash, Bittle, Bunny",container,60,"It looks like a container of some sort, but what could it be?",2025-06-22T23:55:56.035316+00:00
+65,65/65_52.jpg,,,Kenya,"Kenya, Kenya, Kenya, England",Taiwan,45,The symbol in the middle looks like the sun on the flag of Taiwan.,2025-06-23T18:12:52.396168+00:00
+65,65/65_53.jpg,,,Argentina,"Chile, Argentina, Argentina",Portugal,8,"The shape reminds me of a map of Portugal, maybe?",2025-06-23T18:38:02.239718+00:00
+55,55/55_75.jpg,,,monkey,"Monkey, Bird, Monkey",goose,60,The long neck and body shape resemble a goose.,2025-06-23T18:52:52.161359+00:00
+57,57/57_64.jpg,,,pirate,"Pirate, Pirate, Pierat, Pirate",illusionist,72,"It's a confusing mess, like an illusionist's trick!",2025-06-23T21:30:37.856335+00:00
+61,61/61_72.jpg,,,envelope,"Envlope, Envelope",raft,70,It looks like a raft floating on water.,2025-06-23T21:44:14.361391+00:00
+72,72/72_44.jpg,,,Batman,"Batman, Batman, BAT MAN",Towering Inferno,33,Looks like a tall building on fire!,2025-06-23T21:56:42.660036+00:00
+65,65/65_54.jpg,,,Israel,"Flag, Israel, Israel",Liberia,82,The stripes and star remind me of the Liberian flag!,2025-06-23T22:27:27.53391+00:00
+72,72/72_45.jpg,,,Avatar,"Anime, Avarter, Avatar, Avatar",The Archer,42,The drawing looks like an archer with a bow and arrow.,2025-06-23T23:18:26.998116+00:00
+60,60/60_120.jpg,,,french fries,"Hambegur, Fries, Hambrgr drink, French fries",milkshake,80,Looks like a milkshake with a straw!,2025-06-23T23:21:14.942956+00:00
+55,55/55_76.jpg,,,owl,"Owl, Owl, Owl, Owl",worm,34,The squiggly lines remind me of a worm crawling in the dirt.,2025-06-23T23:23:50.814173+00:00
+55,55/55_77.jpg,,,wolf,"Person, Wolf, SNake, Turtle",termite,70,It looks like a termite.,2025-06-24T18:14:32.420115+00:00
+60,60/60_121.jpg,,,butter,"Rock, Butter",dough,82,"It looks like dough, ready to be baked into something delicious!",2025-06-24T18:34:04.43376+00:00
+60,60/60_122.jpg,,,pickle,"Pickle, Pickle, Pickle",scribbles,90,It looks like a bunch of scribbles!,2025-06-24T19:04:25.543945+00:00
+71,71/71_43.jpg,,,Fortnite,"Fortnite, Mariokart",Bunniiies,70,Looks like a bunny under a scribble storm!,2025-06-23T19:49:08.397545+00:00
+56,56/56_45.jpg,,,eating,Eating,reaching,82,The stick figure is reaching out to touch the circle!,2025-06-24T21:05:58.692775+00:00
+58,58/58_9.jpg,,,Happiness,"Ps5, Happiness, Ps5😤, Happy",Communication,82,"The figures seem to be interacting, suggesting an exchange of information.",2025-06-24T22:22:27.224946+00:00
+72,72/72_46.jpg,,,Shrek,"Shrik, Shrek, Shrek, Shrek",Ted,55,"Looks like a teddy bear, so I'm guessing Ted.",2025-06-24T22:24:41.146856+00:00
+72,72/72_47.jpg,,,Frozen,"Idk scribbles?, Movies, Bridge to t, Frozen",The Ring,33,The lines look like hair covering a face. Maybe it's a spooky ghost story?,2025-06-24T22:47:36.57518+00:00
+65,65/65_55.jpg,,,Portugal,"Spain, No idea srry, Portugal, Chile",Uruguay,60,Uruguay is also a country with a rich soccer history!,2025-06-24T23:41:50.379927+00:00
+61,61/61_73.jpg,,,gloves,"Baseball, Basball, Gloves",orb,45,It looks like a magical orb with energy lines!,2025-06-25T18:14:18.218296+00:00
+55,55/55_78.jpg,,,donkey,"Donke🐴, Doncky, Donkey, Donkey",tadpole,60,It looks like a tadpole with a big head and a small tail!,2025-06-25T18:17:13.16492+00:00
+72,72/72_48.jpg,,,Batman,"Batman, Batman, Dog man",Gremlins,82,Those ears and mischievous eyes scream trouble!,2025-06-25T18:22:30.794039+00:00
+72,72/72_49.jpg,,,Transformers,"Transformers, Transformers, Inside out fear, Squid",Sausage Party,60,The drawing looks like a face with a sausage body. ,2025-06-25T19:34:04.672787+00:00
+57,57/57_65.jpg,,,queen,"Crazy person, Human, Queen, Qwine",punk,82,That wild hair screams punk rocker to me!,2025-06-25T19:58:19.268238+00:00
+57,57/57_66.jpg,,,father,"Fathe, Father, Father, Dad",male,89,The drawing looks like a male with glasses and a hat!,2025-06-25T23:27:06.864609+00:00
+56,56/56_46.jpg,,,climbing,"Climbing, Climbing, Climbing",backwards writing,82,It looks like someone is writing backwards. How peculiar!,2025-06-26T17:18:33.527127+00:00
+58,58/58_10.jpg,,,Sadness,"Saddness, Sadness, Sadness",Chill,78,The word 'cool' and the waves make me think of chilling out.,2025-06-26T17:34:34.177033+00:00
+60,60/60_123.jpg,,,corn,Corn,cantaloupe,82,The grid pattern makes me think of a cantaloupe.,2025-06-26T18:04:05.88626+00:00
+60,60/60_124.jpg,,,coconut,"Pizza, Coconut, Cookie, Cookie",face,80,It looks like a face!,2025-06-26T20:38:18.806977+00:00
+59,59/59_66.jpg,,,bowling alley,"Bowling alley, Bolingalle, Poop, Poop",cage,70,"It looks like a cage, a place where something is kept inside.",2025-06-26T21:37:16.93063+00:00
+57,57/57_67.jpg,,,queen,"King, King, King?, Queen",ruler,88,A stick figure with a crown? It must be a ruler!,2025-06-25T20:35:04.885394+00:00
+72,72/72_50.jpg,,,Aladdin,"Aladdin, Aladdin, Alladin, Slide",Surf's Up,85,Looks like someone is surfing on a wave!,2025-06-25T22:09:19.509543+00:00
+67,67/67_15.jpg,,,Bowling,"Bowling, Bowling, Bowling, Bowling",Television,88,"It looks like a TV, so maybe the sport is watching TV?",2025-06-26T23:26:12.322132+00:00
+55,55/55_79.jpg,,,leech,"Sun, Leech, Sun, Sun",tick,80,It looks like a tick with many legs.,2025-06-27T18:11:21.69706+00:00
+65,65/65_56.jpg,,,Philippines,"Philippines, Philippines, Philippines",England,65,"The 'GB' makes me think of Great Britain, which includes England.",2025-06-27T18:31:16.727977+00:00
+56,56/56_47.jpg,,,farting,"Farting, Fart",beckoning,82,Looks like they are beckoning someone to come closer.,2025-06-27T19:12:32.089717+00:00
+72,72/72_51.jpg,,,King Kong,"Cowboy, King kong, King kong, King kong",Robot,82,It looks like a simple robot drawing!,2025-06-27T19:49:25.148296+00:00
+57,57/57_68.jpg,,,plumber,"Conductor, Plumber, Peson, Chef?💀",Hairdresser,82,Looks like they are holding a hair styling tool!,2025-06-27T20:02:05.975417+00:00
+59,59/59_67.jpg,,,amusement park,AmUSEMENT PARK,daycare,82,"The drawing looks like a child with a bib on, like at daycare!",2025-06-27T20:15:12.154042+00:00
+61,61/61_74.jpg,,,jacket,"Girl, Jacket, Heart, Jacket",wig,60,The drawing looks like a wig on a mannequin.,2025-06-27T21:27:16.516732+00:00
+65,65/65_57.jpg,,,Iceland,"Iceland, Poland, I dont know",Jamaica,8,A box of Jamaican patties?,2025-06-27T22:48:47.079811+00:00
+57,57/57_69.jpg,,,cowboy,"Cowboy, Coyboy, Cowboys",psychologist,45,The spiral could represent the mind.,2025-06-27T23:12:53.990528+00:00
+64,64/64_22.jpg,,,Rolex,"River, Rolex, Rolex",Under Armour,45,"Looks like athletic wear, maybe it's Under Armour?",2025-06-26T23:21:43.125621+00:00
+56,56/56_48.jpg,,,pooping,"Huhhhghhvhhgb, Sleep, Pooping, Angry",unwrapping,82,It looks like someone is unwrapping a gift!,2025-06-28T19:12:53.710093+00:00
+67,67/67_16.jpg,,,Darts,"Dart, Darts, Darts, Darts",Shuffleboard,82,It looks like a shuffleboard puck surrounded by chaos!,2025-06-28T19:50:10.397052+00:00
+59,59/59_68.jpg,,,prison,"Jail, Hotel, Prison..., Prison",building,55,It looks like a building with multiple rooms or sections.,2025-06-28T19:59:20.704252+00:00
+59,59/59_69.jpg,,,prison,"Stop being dirty minded, Prison.                                 , Zoo, Bathroom",water park,85,It looks like a water park with slides and pools!,2025-06-28T20:09:52.883059+00:00
+60,60/60_125.jpg,,,pie,"Slushie, Pie, Ice cream, Trophie",gelato,70,It looks like a scoop of gelato in a cup!,2025-06-28T20:40:40.896623+00:00
+57,57/57_70.jpg,,,clown,"Pirate, Clown, Boy",patient,80,The person looks like they are being examined.,2025-06-28T20:55:10.19688+00:00
+57,57/57_71.jpg,,,firefighter,"Mailman, Firefighter, Fire fighter, fireman",wizard,40,The hat and the pointy object makes me think of a wizard.,2025-06-28T21:31:42.964355+00:00
+56,56/56_49.jpg,,,sleeping,"Sleeping, Sleeping, Sleeping, Sleeping",sketching,65,"They are sketching something, even if they don't think it's good.",2025-06-28T21:53:29.174838+00:00
+56,56/56_50.jpg,,,camping,"Forking joe mama, Camping, Camping, Camping",scribbling,60,"It looks like a bunch of scribbles, doesn't it?",2025-06-28T22:08:14.883268+00:00
+55,55/55_80.jpg,,,bee,"B, Bee, Bee, Bèee",chimpanzee,70,"It looks like they were trying to write monkey, so maybe chimpanzee?",2025-06-28T22:25:50.927868+00:00
+68,68/68_22.jpg,,,Diversity,"Friendship, A concert, Diversity",Community,60,Looks like a group of people together. Maybe they're starting a band?,2025-06-28T17:30:34.145535+00:00
+60,60/60_126.jpg,,,jam,"Fries, Jam, Sandwitch",pancake,82,It looks like a pancake with some syrup on top.,2025-06-28T22:37:06.128336+00:00
+64,64/64_23.jpg,,,KFC,"Kfc, Kfc, Kfc, Kfc",Dunkin',82,Looks like a cup of coffee from Dunkin'!,2025-06-28T22:53:00.774901+00:00
+61,61/61_75.jpg,,,brick,"Brick, Brick, What is thattt you are bad at it, Brick",hat,88,The drawing looks like a hat.,2025-06-28T23:13:17.006826+00:00
+55,55/55_81.jpg,,,crab,"Crap, Butterfly,  Ug, Crab",crocodile,70,It looks like a crocodile with its mouth open!,2025-06-28T23:34:15.305101+00:00
+61,61/61_76.jpg,,,shield,Shield,beach ball,60,It looks like a beach ball with some lines on it.,2025-06-29T17:31:30.679476+00:00
+56,56/56_51.jpg,,,kissing,Kissing,relaxing,80,Someone is relaxing on the beach.,2025-06-29T17:40:44.714751+00:00
+57,57/57_72.jpg,,,caveman,"Queen, Squirrel, Caveman, Person",performer,75,"The figure seems to be presenting something, so maybe they're a performer.",2025-06-29T18:19:15.055519+00:00
+60,60/60_127.jpg,,,ketchup,"Ketchup, Ketchup, Ketchup, Ketchup",grenade,70,Looks like a grenade!,2025-06-29T22:17:59.658018+00:00
+71,71/71_44.jpg,,,Portal,"Portal, Portal, Portal, Portal",Spiral Knights,20,"It looks like a spiral, so maybe Spiral Knights?",2025-06-29T22:23:03.899999+00:00
+64,64/64_24.jpg,,,KFC,"Kfc, Starbucks, Kfc, Kfc",Monster,45,Could it be a Monster energy drink? Unleash the beast!,2025-06-28T22:34:13.602239+00:00
+60,60/60_128.jpg,,,cake,"Cake, Cake, Cake",noodles,70,It looks like a pile of tangled noodles!,2025-06-29T22:50:58.504887+00:00
+55,55/55_82.jpg,,,cow,"Scribbles, Cow, Cow",worm,70,It looks like a worm wriggling through the dirt!,2025-06-29T22:52:42.759863+00:00
+55,55/55_83.jpg,,,cow,"Square, Cow, Table, Cow",lobster,80,It looks like a lobster to me!,2025-06-29T22:54:28.34462+00:00
+55,55/55_84.jpg,,,cow,"Cow, Cat, Cow, Cow?!?",earthworm,70,It looks like an earthworm wriggling in the soil!,2025-06-29T23:07:24.435641+00:00
+69,69/69_13.jpg,,,moon,"Star, Moon, Moon, Moon",star,70,"It's a star shape, so maybe it's just a star!",2025-06-29T23:18:51.530618+00:00
+60,60/60_129.jpg,,,bell pepper,"Bell pepper, Bell pepper, Dr pepper, Bell pepper",seasoning,92,The salt and pepper are types of seasoning.,2025-06-30T16:49:59.905082+00:00
+56,56/56_52.jpg,,,jogging,"Running, Runing, Running, Jogging",paddling,82,They could be paddling a canoe or kayak. Splish splash!,2025-06-30T19:13:46.418053+00:00
+68,68/68_23.jpg,,,Wedding,"Halloween, Wedding, Wedding, Octopus",Displacement,70,"The shape looks like someone lost, maybe it's about displacement?",2025-06-30T19:30:07.758789+00:00
+64,64/64_25.jpg,,,Disney,"Champion, Logos, Logos, Disney",EarBuds,72,"Looks like an earbud, so I'm guessing a brand that makes them.",2025-06-30T19:32:32.454177+00:00
+65,65/65_58.jpg,,,Mexico,"🇨🇮, Mexico, Mexico, Mexico",Peru,10,"The stripes are giving me flag vibes, maybe it's Peru?",2025-07-29T23:20:25.425972+00:00
+61,61/61_77.jpg,,,gloves,"Gloves, Gloves, Gl, Gloves",circle,80,"It looks like a circle, a simple shape!",2025-06-29T22:31:10.612955+00:00
+59,59/59_70.jpg,,,supermarket,"Farm, Supermarket, Supermarket",Animal Shelter,60,"It looks like a cute animal, maybe it's at an animal shelter.",2025-06-30T21:34:50.773489+00:00
+71,71/71_45.jpg,,,Angry Birds,"Angry birds, Angry Birds, Anrery birds, Aarshpro",Stack,60,"The blocks are stacked on top of each other, so I'm guessing 'Stack'.",2025-06-30T22:45:03.810982+00:00
+56,56/56_53.jpg,,,kicking,"A soul leaving from someone, Kicking",coughing,70,The lines coming from the person's face could also represent coughing.,2025-07-01T18:54:24.574398+00:00
+59,59/59_71.jpg,,,volcano,"Volcano, Volcamo ",underwater restaurant,60,It looks like an underwater restaurant with jellyfish!,2025-07-01T19:25:48.455089+00:00
+55,55/55_85.jpg,,,panda,"Panda, A book, Idk, Bird",termite,70,Looks like a termite's nest!,2025-07-01T19:46:39.422995+00:00
+72,72/72_52.jpg,,,Shrek,"Shrek, Shrek, Grinch, Shrek",Monster House,72,"The drawing looks like a monster, so maybe it's from Monster House?",2025-07-01T20:20:15.435061+00:00
+64,64/64_26.jpg,,,TikTok,"Tiktok, Blue moon",Omega,45,"The drawing looks like a clock, so I'll guess Omega.",2025-07-01T21:22:19.485723+00:00
+57,57/57_73.jpg,,,knight,"Knight, Baby, I dont know, Night",apple picker,80,Looks like they are picking apples.,2025-07-01T21:26:23.986376+00:00
+57,57/57_74.jpg,,,prisoner,"..., Swimmer, Swimer, Prisoner",performer,80,The person is performing on a stage.,2025-07-01T21:35:19.388995+00:00
+60,60/60_130.jpg,,,cupcake,"Cupcake, Buntcake, Cupcake",latte,80,"Looks like a latte with a person holding it, maybe offering it?",2025-07-01T23:10:04.477258+00:00
+65,65/65_59.jpg,,,Canada,"Canada, Canada",England,9,The shape on the top left looks like England.,2025-07-01T23:52:39.005732+00:00
+56,56/56_54.jpg,,,writing,"Some one takeing a poo, Face, Writing, Pooping",smiling,80,That's a big smile!,2025-07-02T18:45:26.067138+00:00
+55,55/55_86.jpg,,,hyena,"Cougar, Wolf, Hyena",coyote,82,It looks like a coyote.,2025-07-02T19:13:45.413745+00:00
+68,68/68_24.jpg,,,Buddhism,"Questions, Buddhism, Persen, Meditating",Grief,82,The drawing evokes a sense of sorrow and loss.,2025-07-02T19:29:24.281001+00:00
+65,65/65_60.jpg,,,Poland,"Poland, Poland, What, Country",New Zealand,89,"It looks like a kiwi, which is a bird from New Zealand!",2025-07-02T20:13:16.632684+00:00
+58,58/58_11.jpg,,,Invisible,"Ugly one, Invisable, Stick, Invisible",Change,72,"The stick figure is pointing to something new, representing change.",2025-07-02T20:36:23.439317+00:00
+61,61/61_78.jpg,,,cd,"Eyeball?, Eye, Peach, Cd",comet,82,It looks like a comet streaking across the sky!,2025-07-02T20:51:19.140661+00:00
+55,55/55_87.jpg,,,frog,"Frog, Frog",blobfish,80,It looks like a blobfish!,2025-07-01T22:44:25.167742+00:00
+61,61/61_79.jpg,,,cd,"C-d, Cd",tumbleweed,80,It looks like a tumbleweed rolling across the desert!,2025-07-02T21:11:56.087188+00:00
+68,68/68_25.jpg,,,Wedding,"Wedding, Wedding, TV, ?",Suppression,65,"Looks like something is being covered up, like a secret!",2025-07-02T21:26:42.278315+00:00
+61,61/61_80.jpg,,,cd,"Emoji, Cd, Smilhjiu",smiley face,85,It looks like a smiley face with a tongue sticking out!,2025-07-02T21:30:48.365938+00:00
+72,72/72_53.jpg,,,Superman,"H, Superman, Supaer, G",Frankenstein,45,The square head and bulky body remind me of Frankenstein's monster!,2025-07-02T21:44:09.187614+00:00
+59,59/59_72.jpg,,,harbor,"Boat, The beach, Harbor, Beach",water park,55,The wavy lines and straight lines could be a water park.,2025-07-02T22:19:52.103259+00:00
+55,55/55_88.jpg,,,fox,"Rabbit, Fox",hare,88,"Looks like a hare, similar to a rabbit!",2025-07-02T22:42:51.350198+00:00
+71,71/71_46.jpg,,,Roblox,"Roblox, Roblox, Roblox, Roblox",Block Puzzle,40,Looks like a block puzzle game with many lines.,2025-07-02T23:07:22.725909+00:00
+65,65/65_61.jpg,,,Iran,"Iran, Flag, Swtizerland, Flag",Korea,15,It looks like a window to Korea!,2025-07-02T23:25:45.157635+00:00
+55,55/55_89.jpg,,,giraffe,"Giraffe, Dogs, Giraffe, Giraffe",poodle,65,It looks like a poorly drawn poodle!,2025-07-03T18:34:47.437461+00:00
+64,64/64_27.jpg,,,Subway,"Toothpaste, Subway, Android, Ffdghfd",Vail Resorts,80,"Looks like a ski lift, so maybe it's Vail Resorts?",2025-07-02T20:57:35.225506+00:00
+55,55/55_90.jpg,,,parrot,"Parrot, Penguin, Parrot, Parrot",goose,80,It looks like a goose standing upright!,2025-07-03T19:57:00.055008+00:00
+60,60/60_131.jpg,,,tomato,"Tomato, Apple, Apple, Pear",pear,10,"It's roundish, but could be a pear!",2025-07-03T20:24:39.278702+00:00
+60,60/60_132.jpg,,,pretzel,"Pretzel, Egg yum, Spaghetti, Cherry",earrings,9,"Looks like a pair of earrings, maybe made of food?",2025-07-03T21:08:08.750477+00:00
+71,71/71_47.jpg,,,The Legend Of Zelda,"A person chopping a tree, Zelda, Zelda, The legend of zelda",Apex Legends,34,"The stick figure is holding a weapon, maybe it's from Apex Legends?",2025-07-03T23:21:49.197768+00:00
+58,58/58_12.jpg,,,Greed,"Greed, Stealing money?, Robbery, Idk",Sharing,75,Looks like they're exchanging something. Maybe they're sharing ideas?,2025-07-03T23:25:25.624302+00:00
+60,60/60_133.jpg,,,water,"Cofe, Water",juice,56,It looks like a glass of juice with a straw.,2025-07-03T23:44:33.925775+00:00
+61,61/61_81.jpg,,,clock,"Clock, Hi",owl,89,It looks like an owl with pointy ears!,2025-07-03T23:59:07.929016+00:00
+61,61/61_82.jpg,,,eye drops,"Eye drops, Eye drops, Eye drops, Eye drops",monitor,60,It looks like a monitor!,2025-07-04T03:12:57.554796+00:00
+61,61/61_83.jpg,,,mask,"Mask, Bento box",box,60,It looks like a box with something coming out of it.,2025-07-04T18:37:17.841768+00:00
+65,65/65_62.jpg,,,Vietnam,"Vietnam, Vietnam",Italy,15,"The shape is vaguely like a boot, so maybe it's Italy?",2025-07-04T18:49:50.919109+00:00
+55,55/55_91.jpg,,,parrot,"Person, Human, Kk, Parrot",human,80,It looks like a stick figure of a human.,2025-07-03T19:54:10.605816+00:00
+60,60/60_134.jpg,,,blueberry,"Ball, Blueberry, Blueberry, Blueberry",ball,8,"It looks like a ball, maybe a meatball?",2025-07-04T20:00:26.060729+00:00
+72,72/72_54.jpg,,,Frozen,"Frozen, .",Poseidon,34,It looks like a ship sailing on the sea.,2025-07-04T20:15:43.492545+00:00
+60,60/60_135.jpg,,,roast beef,"Roast beff, Papaya, Roast beef, Circle",ball,9,It's round like a ball. Maybe it's a meatball?,2025-07-04T22:21:42.751036+00:00
+61,61/61_84.jpg,,,clock,"Skrible, Clock, Clock,  Clock",scribbles,89,It looks like a bunch of scribbles!,2025-07-04T22:27:01.847007+00:00
+60,60/60_136.jpg,,,pancake,"Pancake, Pancake, Egg, Sushi",biscuit,82,It looks like a biscuit with a square design on top!,2025-07-04T23:01:01.153277+00:00
+60,60/60_137.jpg,,,sandwich,"Sandwich, Water",kelp,82,Those squiggles look like kelp!,2025-07-05T17:57:12.578116+00:00
+68,68/68_26.jpg,,,Buddhism,"Buddhism, Animil, Buddhism",Oppression,75,The downturned mouth and closed eyes suggest a feeling of being weighed down.,2025-07-05T18:35:24.734585+00:00
+56,56/56_55.jpg,,,flying,"Plane, Flying",drawing,78,"Hmm... The drawing has a drawing of a face, so I'm going with drawing.",2025-07-05T19:29:49.647134+00:00
+60,60/60_138.jpg,,,coconut,"Coconut, Apple, Apple, Coconut",fruit,77,"It's round and has a stem, so it must be some kind of fruit!",2025-07-05T22:50:46.487365+00:00
+71,71/71_48.jpg,,,Mario Kart,"Mario kart, Mariokart (Double Dash, Mario kart",Flappy Bird,72,Looks like a bird that's had a rough landing. Flappy Bird?,2025-07-04T19:58:16.145412+00:00
+65,65/65_63.jpg,,,Greece,"Greece, England, Grece, Greece",Madagascar,88,"The animal looks like a lemur, which is native to Madagascar!",2025-07-05T23:57:05.025834+00:00
+55,55/55_92.jpg,,,moth,"Butterfly, Butterfly, Butterfly, Moth",fairy,70,It looks like a fairy with wings!,2025-07-06T17:48:06.046524+00:00
+65,65/65_64.jpg,,,India,"India, Asia, India, India",Taiwan,40,"It could be Taiwan, near China.",2025-07-06T18:05:50.990154+00:00
+55,55/55_93.jpg,,,stingray,"Bat, Stingray, Stingray, Pnt",duck,82,The beak and body shape look like a duck!,2025-07-06T19:41:41.413471+00:00
+61,61/61_85.jpg,,,bottle,"Bootle, Poshen, Bottle, Bottle",shopping bag,60,Looks like a shopping bag with handles. Maybe someone went shopping?,2025-07-06T19:45:51.93232+00:00
+55,55/55_94.jpg,,,stingray,"Stingray, Stingray, Sting ray",nautilus,82,It looks like a nautilus shell!,2025-07-06T19:55:49.104475+00:00
+56,56/56_56.jpg,,,speaking,"Speaking, ?.?.???., Speaking, Speak",scribbling,75,Looks like someone was just scribbling away!,2025-07-06T19:57:49.348689+00:00
+72,72/72_55.jpg,,,The Lion King,"Black panther,  The Lion king, Hugs🍞, Pooooooooooooooo",Cast Away,66,Looks like a person on an island. Maybe it's Cast Away?,2025-07-06T20:32:01.242172+00:00
+56,56/56_57.jpg,,,throwing,"Throw, Boxing, Throwing, Through",scribbling,75,Looks like someone was just scribbling all over the place!,2025-07-06T21:25:13.384701+00:00
+60,60/60_139.jpg,,,waffle,"Apple, Idk, Waffle, Plate",fruit salad,85,It looks like a bowl of fruit salad with round fruits.,2025-07-06T21:30:34.953792+00:00
+56,56/56_58.jpg,,,bowling,"Candles, Bolling  ball, Bowling, Bowling",garlic,88,Looks like someone is preparing garlic.,2025-07-05T23:24:05.513562+00:00
+61,61/61_86.jpg,,,knife,"Knife, Knife, Knife, Cooking pan",skillet,75,It looks like a skillet with food inside.,2025-07-06T22:40:58.644004+00:00
+56,56/56_59.jpg,,,singing,"Singing, Singing, Singer",badminton,75,Looks like they are playing badminton!,2025-07-06T23:56:19.200137+00:00
+59,59/59_73.jpg,,,tunnel,"Tunnel, /(/(//(/(//(/(/(/, Trash",sandpit,80,Looks like a sandpit!,2025-07-07T17:36:21.320344+00:00
+66,66/66_4.jpg,,,Big Ben,"Eiffeltower, Big ben, Car",Abstract Art,80,Looks like someone was just having fun with lines!,2025-07-07T18:54:24.310689+00:00
+57,57/57_75.jpg,,,journalist,"Baker, Journalist",fighter,70,The stance looks like a fighter.,2025-07-07T19:35:21.211584+00:00
+59,59/59_74.jpg,,,church,"Church, Church, House, Church",cafe,65,It looks like a cafe with a chef's special.,2025-07-07T22:15:10.556054+00:00
+61,61/61_87.jpg,,,couch,"Sofa, Dodles, Ur mom🙃, Couch",scribbles,89,Looks like a bunch of scribbles!,2025-07-07T22:27:12.105496+00:00
+57,57/57_76.jpg,,,jeweller,"Jeweller, Jewler, Jeweller, Sleeping beauty",performer,60,The whole image gives off a vibe of someone performing on stage!,2025-07-07T23:25:01.814604+00:00
+60,60/60_140.jpg,,,coconut,"Idk maybe alien or coconut or rizz or sc, Coconut, Coconut, Coconut",swiss cheese,85,It looks like swiss cheese with holes!,2025-07-06T21:46:51.694057+00:00
+66,66/66_5.jpg,,,Big Ben,"Big ben, Porta potty, Home, Big ben",Obelisk,65,"It looks like a simple obelisk, a tall, four-sided, narrow tapering monument.",2025-07-08T19:56:26.681477+00:00
+57,57/57_77.jpg,,,waiter,"Bissniss man, Waiter, Waiter, Waiter",advisor,80,The figure looks like they are giving advice!,2025-07-08T20:44:11.283695+00:00
+71,71/71_49.jpg,,,Roblox,"Roblox, Roblox",Block Puzzle,45,Looks like a block puzzle game!,2025-07-08T20:52:45.060526+00:00
+57,57/57_78.jpg,,,king,"King, Person",monster,80,It looks like a monster with sharp teeth and crazy hair!,2025-07-08T21:11:23.416141+00:00
+59,59/59_75.jpg,,,haunted house,"Haunted house, Haunted house, Haunted house, Haunted house",cactus,80,It looks like a cactus with arms!,2025-07-08T21:16:13.692567+00:00
+71,71/71_50.jpg,,,Roblox,"Roblox, Roblox, Rolblox, Roblox",Geometry Dash,80,It looks like a shape from Geometry Dash!,2025-07-08T21:32:36.36068+00:00
+60,60/60_141.jpg,,,smoothie,"What, Drink, Smoothie",wrap,82,"It looks like a wrap, maybe with some fillings inside.",2025-07-08T22:22:43.380036+00:00
+59,59/59_76.jpg,,,park,"Park?, Playground, Pool",hair salon,66,The thing on the right looks like someone getting a haircut!,2025-07-08T22:51:55.543294+00:00
+59,59/59_77.jpg,,,museum,"School, Taco bell, Museum, Vjfhghhghhhhhjhbbhhjh",condominium,82,"Looks like a building with multiple units, like a condominium.",2025-07-08T19:32:09.975405+00:00
+65,65/65_65.jpg,,,Iran,"Iran, Brainrot trash, Iran, Brainrot",Japan,95,"Hmm... ""Fat Man"" and ""Little Boy"" were dropped on Japan during World War II.",2025-07-09T20:00:55.017028+00:00
+65,65/65_66.jpg,,,Iran,"Iran, Iran, Iran yall, Iran",United States,90,Hmm... the 'US' on the plane makes me think of the United States!,2025-07-09T20:05:12.227326+00:00
+65,65/65_67.jpg,,,Chile,"Chile, USA, Japan, Scribble",Singapore,30,The lines remind me of the many buildings in Singapore.,2025-07-09T20:19:41.537774+00:00
+55,55/55_95.jpg,,,snake,"Snake, Snake, Crocodile, snake",crocodile,82,Looks like a crocodile to me!,2025-07-09T20:30:57.549778+00:00
+65,65/65_68.jpg,,,Iran,"Iran, Japan, Iran, Califonia",New Zealand,82,The shape looks like the outline of New Zealand!,2025-07-09T21:09:06.955442+00:00
+55,55/55_96.jpg,,,fox,"Kitten, Cat, Fox, Cat",kitten,80,It looks like a cute little kitten!,2025-07-09T21:16:43.867413+00:00
+59,59/59_78.jpg,,,bowling alley,"Bowling , Play , Bowling alley, Bowling",town,80,The drawing looks like a town!,2025-07-09T21:43:52.826428+00:00
+64,64/64_28.jpg,,,Rolex,"Rolex, Rolex, Rolex",Huggies,79,"The word 'Pantal' looks like 'Pants', and Huggies are like pants for babies!",2025-07-09T21:47:09.145041+00:00
+72,72/72_56.jpg,,,Star Wars,"Stars explore, Hhhhhuiiik, Star wars, Star wars",Chaos,45,Looks like pure chaos to me!,2025-07-09T21:56:38.804145+00:00
+61,61/61_88.jpg,,,crown,"Crown, Crown,  , Crown",scribbles,70,It looks like a bunch of scribbles!,2025-07-09T21:59:12.458467+00:00
+60,60/60_142.jpg,,,curry,"Ice tart fart, Milk and apple, Curry,  .......",juice,60,It looks like a glass of juice.,2025-07-09T18:21:20.342804+00:00
+60,60/60_143.jpg,,,french fries,"French fries, City, Fries, Poop",ribs,82,Those shapes look like ribs to me!,2025-07-09T22:57:44.685838+00:00
+61,61/61_89.jpg,,,kite,"Flag, Square, Tent, Kite",square,88,It looks like a square!,2025-07-09T23:46:31.157004+00:00
+69,69/69_14.jpg,,,wifi,Wifi,android,88,The drawing looks like an android.,2025-07-10T17:13:37.789467+00:00
+56,56/56_60.jpg,,,bowling,Bowling,puking,80,It looks like someone is puking in a bowl.,2025-07-10T17:19:00.96996+00:00
+57,57/57_79.jpg,,,pilot,Pilot,attendant,75,"The drawing is a parking lot, so maybe someone who works there?",2025-07-10T17:24:21.729018+00:00
+61,61/61_90.jpg,,,brick,Brick,grid,70,"It looks like a grid, plain and simple!",2025-07-10T18:01:29.14945+00:00
+65,65/65_69.jpg,,,Mexico,"Soccer ball and flag, Mexico",Uruguay,10,"Uruguay is a soccer loving country, maybe it's a subtle hint?",2025-07-10T18:04:49.598925+00:00
+55,55/55_97.jpg,,,lizard,"Lizard, Lizard, Lizard",salamander,60,Looks like a salamander with some extra flair!,2025-07-10T19:02:07.492634+00:00
+55,55/55_98.jpg,,,Stick insect,Stick insect,pony,80,Looks like a pony with a bit of a wild hairdo.,2025-07-10T19:11:21.9614+00:00
+61,61/61_91.jpg,,,boomerang,"Bananna, Surfboard, Banana ninja star, Boomerang",wifi,80,It looks like a wifi symbol!,2025-07-10T19:30:33.490862+00:00
+55,55/55_99.jpg,,,Stick insect,"Stick insect, Stick bug, Stickbug, Stick insect",tick,70,Looks like a tick with its legs spread out!,2025-07-10T19:34:10.861336+00:00
+56,56/56_61.jpg,,,rowing,"Kayak, Flying, Rowing, Plane",waterskiing,80,Looks like someone is waterskiing on the water!,2025-07-09T22:51:42.631774+00:00
+57,57/57_80.jpg,,,knight,"Knight, Sleep, Knight",dreamer,85,"The moon, stars, and sleepy face make me think of a dreamer!",2025-07-10T23:00:28.629297+00:00
+66,66/66_6.jpg,,,White House,"White house, White house, White house, Doland house",Hotel,55,Looks like a hotel with a flag on top!,2025-07-11T04:51:23.75972+00:00
+59,59/59_79.jpg,,,swamp,"Swamp, Something, Swamp, Swamp",pond,82,Looks like a pond with some plants and a fish!,2025-07-11T20:12:28.597886+00:00
+71,71/71_51.jpg,,,Cuphead,"Cuphead, Cuphead, Cuphead, Not that good",Terraria,30,The blocky design reminds me of Terraria.,2025-07-11T21:22:51.090231+00:00
+56,56/56_62.jpg,,,drinking,"Drinking, Smoking, Vvasdiuohvfeajbvfeahiouvfphuivaefiluhuvs, Read a book",whistling,88,That little square by the mouth? Must be a whistling sound effect!,2025-07-11T22:25:18.26839+00:00
+64,64/64_29.jpg,,,Uniqlo,Uniqlo,Atari,67,The shapes remind me of the old Atari logo.,2025-07-12T00:00:26.141458+00:00
+55,55/55_100.jpg,,,Stick insect,"Sop, Alligator, Stick insect, Dino",alpaca,70,It looks like an alpaca with a funny neck.,2025-07-10T20:12:32.503614+00:00
+65,65/65_70.jpg,,,France,"Paris, Phanna beanie, France",Germany,89,The scribbles remind me of the autobahn!,2025-07-12T17:38:52.928065+00:00
+55,55/55_101.jpg,,,goldfish,"Fish, Goldfish, Butterfly, Fish",fairy,45,"The wings are delicate and ethereal, like a fairy flitting through the forest.",2025-07-12T19:18:32.390773+00:00
+55,55/55_102.jpg,,,goldfish,"Gold fish, Axolotl, Goldfish, Goldfish",catfish,82,It looks like a catfish with its barbels and fins.,2025-07-12T19:21:45.968909+00:00
+57,57/57_81.jpg,,,mother,"Parent, Mother, Mother, Mom",athlete,88,"The figure is in good shape, ready to compete in any sport!",2025-07-12T20:13:44.559592+00:00
+59,59/59_80.jpg,,,island,"Sunset, Island, Garden",campground,40,Looks like a nice spot to pitch a tent!,2025-07-12T21:01:54.07647+00:00
+59,59/59_81.jpg,,,parking lot,"Parking lot, Hotel, Parking lot, Parking lot",jail,82,It looks like a jail cell to me!,2025-07-12T21:25:51.339846+00:00
+67,67/67_17.jpg,,,Basketball,"Dodgeball, Basketball, Sparring, Basketball",Shuffleboard,60,Looks like someone's pushing a puck down a lane!,2025-07-12T22:10:53.929551+00:00
+56,56/56_63.jpg,,,reading,"Reading, Hair, Running, Fighting?",scribbling,80,It looks like a page full of scribbles!,2025-07-12T22:38:26.715183+00:00
+60,60/60_144.jpg,,,bacon,"Sigma, Bacon",noodles,70,Looks like a bowl of noodles!,2025-07-12T17:33:34.620515+00:00
+64,64/64_30.jpg,,,Apple,"Dragon, Apple, Apple, Apple",,,,2025-07-13T18:00:08.736156+00:00
+67,67/67_18.jpg,,,Marathon,"N, Marathon, Marathon",,,,2025-07-13T18:03:02.014987+00:00
+59,59/59_82.jpg,,,farm,"Zoo, Farm, Farm",,,,2025-07-13T18:11:30.543165+00:00
+58,58/58_13.jpg,,,Language,"Idk, Wedding, Language",,,,2025-07-13T18:30:57.056539+00:00
+60,60/60_145.jpg,,,rice,"Warter , Rice, Cereal",,,,2025-07-13T21:54:31.156966+00:00
+64,64/64_31.jpg,,,Xbox,"Play Video games, Nintendo, Xbox, Nintendo switch",,,,2025-07-14T20:23:33.447251+00:00
+64,64/64_32.jpg,,,KFC,"Kfcxsfvt, Kfc, Kfc, Kfc",,,,2025-07-14T21:15:43.020847+00:00
+59,59/59_83.jpg,,,cafe,Cafe,,,,2025-07-14T22:54:53.427679+00:00
+60,60/60_146.jpg,,,butter,"Butter, Butter, Butter, H",juice box,82,It looks like a juice box with a straw and a drink next to it.,2025-07-12T23:54:32.932866+00:00
+72,72/72_57.jpg,,,Indiana Jones,"Frozon, Star, Indiana jones, Frozen",,,,2025-07-15T20:47:13.570953+00:00
+61,61/61_92.jpg,,,phone,"Fish, Football, Human, Phone",,,,2025-07-15T22:12:04.415524+00:00
+61,61/61_93.jpg,,,phone,"Apple, Phone, Phone",,,,2025-07-15T22:36:14.781164+00:00
+61,61/61_94.jpg,,,phone,"Rocks, Rocks, Phone",,,,2025-07-15T22:57:36.03352+00:00
+57,57/57_82.jpg,,,cowboy,"Singer?, Serfer, Cowboy",,,,2025-07-15T23:29:02.167072+00:00
+68,68/68_27.jpg,,,Funeral,"Funeral, Funeral, Funerule, Funeral",,,,2025-07-16T17:31:47.00967+00:00
+55,55/55_103.jpg,,,koala,"Fghh, Koala, Koala, Tree",,,,2025-07-16T18:12:09.89444+00:00
+61,61/61_95.jpg,,,handbag,"Hat, Mushroom, Spaceship, Handbag",,,,2025-07-16T18:33:23.118951+00:00
+72,72/72_58.jpg,,,The Matrix,"Matrix, Matrix, The matrix, Matrix",,,,2025-07-16T21:05:21.837816+00:00
+60,60/60_147.jpg,,,spaghetti,"Spagetti, Noddles, Spagehtti, Spaghetti",,,,2025-07-16T21:08:09.64724+00:00
+69,69/69_15.jpg,,,vaccine,"Kimono, Vaccine, Vacinee, Vaccie",,,,2025-07-16T21:32:38.663117+00:00
+64,64/64_33.jpg,,,LEGO,"Uh, I dont know, Lego, Lego logo",,,,2025-07-16T21:36:48.141852+00:00
+57,57/57_83.jpg,,,dentist,"Dentist, Dentist, Dead, Dentist",,,,2025-07-16T21:38:36.301263+00:00
+59,59/59_84.jpg,,,library,"Rizz, Library, Bookstore, Library",,,,2025-07-16T21:55:51.247458+00:00
+60,60/60_148.jpg,,,macaron,"Burger, Macaron, Macaron, Macaron",,,,2025-07-16T23:03:27.204243+00:00
+60,60/60_149.jpg,,,macaron,"LemonaDe, Macaron, Juice. Box",,,,2025-07-16T23:29:34.538335+00:00
+65,65/65_71.jpg,,,Spain,"Gulf of skorpio, Spain",,,,2025-07-16T23:56:38.940307+00:00
+59,59/59_85.jpg,,,pool,"Pool, Court, Pharmacy, Basketball player",,,,2025-07-17T17:17:53.143644+00:00
+65,65/65_72.jpg,,,India,"Mexico, India, Mexco",,,,2025-07-17T17:42:01.469509+00:00
+64,64/64_34.jpg,,,Xbox,"Xbox, Xbox",,,,2025-07-17T17:52:41.976564+00:00
+59,59/59_86.jpg,,,laboratory,"Laboratory, Labatory, Labatory",,,,2025-07-17T19:56:48.578869+00:00
+57,57/57_84.jpg,,,police,"Police, Police, Chefs, gydddty",,,,2025-07-17T20:25:54.487184+00:00
+57,57/57_85.jpg,,,police,"Spider, Police, Poooooooooooop, Polices",,,,2025-07-17T20:28:45.570488+00:00
+57,57/57_86.jpg,,,nurse,"Nurse, Police, Arsonist, Cook",,,,2025-07-17T21:13:07.191572+00:00
+57,57/57_87.jpg,,,old person,"Old, Old , Old person, Old man",,,,2025-07-17T22:25:04.900182+00:00
+61,61/61_96.jpg,,,car,"Car, Car, Car, Car",,,,2025-07-17T22:37:43.698833+00:00
+61,61/61_97.jpg,,,toilet,"Toilet, Toilet, Foot, Toilet",,,,2025-07-17T22:39:21.963493+00:00
+64,64/64_35.jpg,,,Haribo,"Haribo, Gummy bear crying, Polo, Haribo",,,,2025-07-17T22:41:20.554404+00:00
+61,61/61_98.jpg,,,toilet,"Toilet, Toilet, Cup, Toilet",,,,2025-07-17T23:36:13.319228+00:00
+60,60/60_150.jpg,,,taco,"Taco, Taco, Taco, Sandwich",,,,2025-07-17T23:48:26.970849+00:00
+64,64/64_36.jpg,,,FedEx,"Chanelle, Starbucks, Fedex, Gucci",,,,2025-07-25T18:04:59.418965+00:00
+61,61/61_99.jpg,,,vacuum,"Vacuum, Vacuum, Vacuum, Vacuum",,,,2025-07-18T03:41:22.405545+00:00
+68,68/68_28.jpg,,,Donation,"Bank, Tipping, Spending money, Donation",,,,2025-07-18T04:19:09.114619+00:00
+71,71/71_52.jpg,,,Super Smash Bros.,"Super smash bros, Mario smash bros, Pokemon",,,,2025-07-18T04:25:42.43986+00:00
+61,61/61_100.jpg,,,vacuum,"Alien abduction, Vacuum, Vacuum, Vaccuum",,,,2025-07-18T04:33:01.895549+00:00
+69,69/69_16.jpg,,,moon,"Happy, Happy face, Moon",,,,2025-07-18T17:29:52.485656+00:00
+69,69/69_17.jpg,,,moon,"Virtual reality, Moon, Moon, Moon",,,,2025-07-18T19:13:14.702586+00:00
+55,55/55_104.jpg,,,kangaroo,"Bunny, Kangaroo, Bugs bunny, Bunny",,,,2025-07-18T19:15:31.341348+00:00
