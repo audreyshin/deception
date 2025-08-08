@@ -244,12 +244,6 @@ examples = {
     # Add the rest...
 }
 
-st.markdown("""
-<div style="background-color: #f9f2f4; padding: 12px 15px; border-left: 5px solid #e75480; border-radius: 5px;">
-<b>Note:</b> 💖 A single drawing may demonstrate more than one technique. Techniques are not mutually exclusive.
-</div>
-""", unsafe_allow_html=True)
-
 
 
 col1, col2 = st.columns(2)
@@ -268,6 +262,20 @@ for i, (technique, description) in enumerate(technique_items):
             st.markdown(f"**Notes:** {ex['notes']}")
         else:
             st.markdown("*No example added yet.*")
+
+
+st.markdown("""
+<div style='
+    background-color: #f9f2f4;
+    padding: 15px 15px 25px 15px;  /* top right bottom left */
+    border-left: 5px solid #e75480;
+    border-radius: 5px;
+'>
+<p style="margin-bottom: 0;">
+💖 <strong>Note:</strong> Drawings can include multiple techniques!
+</p>
+</div>
+""", unsafe_allow_html=True)
 
 
 # === SECTION: Labeling Progress ===
