@@ -28,7 +28,7 @@ This project explores how humans can consistently fool LLMs like **Gemini** in c
 st.markdown("""
 <div style="background-color: #f9f2f4; padding: 15px; border-left: 5px solid #e75480; border-radius: 5px;">
 <p style="margin-bottom: 0;">
-Goal: Uncover drawing techniques that confuse the model while remaining clear to humans.
+<strong>Goal:</strong> Uncover drawing techniques that confuse the model while remaining clear to humans.
 </p>
 </div>
 """, unsafe_allow_html=True)
