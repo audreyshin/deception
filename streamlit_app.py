@@ -244,6 +244,13 @@ examples = {
     # Add the rest...
 }
 
+st.markdown("""
+<div style="background-color: #f9f2f4; padding: 12px 15px; border-left: 5px solid #e75480; border-radius: 5px;">
+<b>Note:</b> 💖 A single drawing may demonstrate more than one technique. Techniques are not mutually exclusive.
+</div>
+""", unsafe_allow_html=True)
+
+
 
 col1, col2 = st.columns(2)
 technique_items = sorted(techniques.items())
