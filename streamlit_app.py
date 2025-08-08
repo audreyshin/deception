@@ -272,7 +272,7 @@ st.markdown("""
     border-radius: 5px;
 '>
 <p style="margin-bottom: 0;">
-💖 <strong>Note:</strong> Drawings can include multiple techniques!
+         <strong>Note:</strong> Drawings can include multiple techniques!
 </p>
 </div>
 """, unsafe_allow_html=True)
