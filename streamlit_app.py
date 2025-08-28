@@ -89,7 +89,7 @@ The dataset I used is called the **Exploratorium Dataset**, which originally con
 st.subheader(" Data Filtering Pipeline")
 
 st.markdown("""
-To construct my final dataset of **857 clean examples**, I followed this process:
+To construct my final dataset of **907 clean examples**, I followed this process:
 """)
 col1, col2, col3 = st.columns([1, 2, 1])
 
