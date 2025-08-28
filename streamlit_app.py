@@ -281,16 +281,21 @@ st.markdown("""
 st.subheader("Labeling Progress")
 
 total_images = df.shape[0]
+# make sure category_id is numeric before mapping (prevents dropouts)
+df["category_id"] = pd.to_numeric(df["category_id"], errors="coerce")
+
+total_images = len(df)                     # this should be 919 from your sheet
 analyzed_images = df["technique_used"].notna().sum()
-percent_done = (analyzed_images /857) * 100
+percent_done = (analyzed_images / total_images) * 100
 
 st.markdown(
     f"<p style='font-size:16px;'>"
-    f"<b>{analyzed_images}</b> out of <b>{857}</b> drawings have been labeled "
+    f"<b>{analyzed_images}</b> out of <b>{total_images}</b> drawings have been labeled "
     f"({percent_done:.1f}%)."
     f"</p>",
     unsafe_allow_html=True
 )
+
 def pink_progress_bar(label, value, max_value=100):
     percent = int((value / max_value) * 100)
     st.markdown(f"""
