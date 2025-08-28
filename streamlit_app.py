@@ -4,6 +4,12 @@ import pandas as pd
 sheet_url = "https://docs.google.com/spreadsheets/d/1nGRDV27Wz3Xf3jfD_rlEsTeFebSAhFsnYYMMhbeO_jc/export?format=csv"
 df = pd.read_csv(sheet_url)
 
+# Drop completely empty rows
+df = df.dropna(how="all").reset_index(drop=True)
+
+total_images = len(df) 
+
+
 
 st.set_page_config(page_title="Outdraw AI | Research Homepage", layout="wide")
 # === Map category ID to name ===
@@ -285,7 +291,7 @@ total_images = df.shape[0]
 df["category_id"] = pd.to_numeric(df["category_id"], errors="coerce")
 
 total_images = len(df)                    
-analyzed_images = df["technique_used"].notna().sum() - 1
+analyzed_images = df["technique_used"].notna().sum()
 percent_done = (analyzed_images / total_images) * 100
 
 st.markdown(
