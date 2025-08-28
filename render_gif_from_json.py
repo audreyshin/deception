@@ -36,7 +36,7 @@ def render_gif_from_strokes(strokes, size=256, out_path="drawing.gif", bg_color=
     print(f"Saved gif to {out_path}")
 
 # === MAIN ===
-json_path = "jsons to inspect/weird1.json"  # change this to your file path
+json_path = "jsons to inspect/weird1.json"  
 with open(json_path, "r") as f:
     data = json.load(f)
 

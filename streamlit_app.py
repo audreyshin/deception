@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-# Pull from your live Google Sheet
 sheet_url = "https://docs.google.com/spreadsheets/d/1nGRDV27Wz3Xf3jfD_rlEsTeFebSAhFsnYYMMhbeO_jc/export?format=csv"
 df = pd.read_csv(sheet_url)
 

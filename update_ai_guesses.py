@@ -49,4 +49,4 @@ for row in rows:
     else:
         print(f"[SKIPPED] row {row_id} — no valid AI guess")
 
-print("✅ Done.")
+print("finito")

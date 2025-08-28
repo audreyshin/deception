@@ -185,7 +185,7 @@ def draw_cooccurrence_heatmap(df_subset, title):
     )
     st.plotly_chart(fig)
 
-    return co_matrix  # ✅ return the matrix
+    return co_matrix 
 
 if selected_category == "All":
     st.subheader("Technique Co-occurrence (All Categories)")
