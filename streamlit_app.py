@@ -89,7 +89,7 @@ The dataset I used is called the **Exploratorium Dataset**, which originally con
 st.subheader(" Data Filtering Pipeline")
 
 st.markdown("""
-To construct my final dataset of **907 clean examples**, I followed this process:
+To construct my final dataset of **908 clean examples**, I followed this process:
 """)
 col1, col2, col3 = st.columns([1, 2, 1])
 
@@ -284,8 +284,8 @@ total_images = df.shape[0]
 # make sure category_id is numeric before mapping (prevents dropouts)
 df["category_id"] = pd.to_numeric(df["category_id"], errors="coerce")
 
-total_images = len(df)                     # this should be 919 from your sheet
-analyzed_images = df["technique_used"].notna().sum()
+total_images = len(df)                    
+analyzed_images = df["technique_used"].notna().sum() - 1
 percent_done = (analyzed_images / total_images) * 100
 
 st.markdown(
