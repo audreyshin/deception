@@ -31,7 +31,8 @@ st.markdown("""
 This project explores how humans can consistently fool LLMs like Gemini in cooperative sketch guessing games. 
 All data comes from different rounds of the Deviation Game (formerly known as outdraw.AI, a game that pits human creativity against AI perception).  
 
-This analysis and interactive dashboard were created by **Audrey Shin**, working under **Kye Shimizu** at the **MIT Media Lab**.  
+This analysis and interactive dashboard were created by **Audrey Shin** in Summer 2025, 
+working under Kye Shimizu at the MIT Media Lab.  
 """)
 
 
