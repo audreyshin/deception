@@ -23,6 +23,11 @@ if st.session_state.scroll_to_top:
 csv_url = "https://docs.google.com/spreadsheets/d/1nGRDV27Wz3Xf3jfD_rlEsTeFebSAhFsnYYMMhbeO_jc/export?format=csv"
 df = pd.read_csv(csv_url)
 
+# Normalize types/paths and prebuild full image path
+df["category_id"] = pd.to_numeric(df["category_id"], errors="coerce").astype("Int64")
+df["image_path"] = df["image_path"].astype(str).str.strip().str.replace(r"^/+", "", regex=True)
+df["img_full_path"] = "drawings_by_category/" + df["image_path"]
+
 # === Map category ID to human-readable name ===
 id_to_name = {
     55: "living_things", 56: "actions", 57: "types_of_people", 58: "concepts",
@@ -69,7 +74,6 @@ with st.sidebar:
         filtered_df = filtered_df[
             filtered_df["technique_used"].str.strip().str.lower() != "invalid test result"
         ]
-
 
     # --- DATE GRANULARITY ---
     st.markdown("**Date Range**")
@@ -133,8 +137,7 @@ cols = st.columns(3)
 for i, (_, row) in enumerate(page_df.iterrows()):
     col = cols[i % 3]
     with col:
-        category_folder = str(row["category_id"])
-        image_path = os.path.join("drawings_by_category", category_folder, os.path.basename(row["image_path"]))
+        image_path = row["img_full_path"]  # prebuilt path like drawings_by_category/56/56_3.jpg
 
         if os.path.exists(image_path):
             st.image(Image.open(image_path), caption=row["ground_truth"], use_container_width=True)

@@ -8,8 +8,10 @@ import numpy as np
 # === Load Live Google Sheet ===
 csv_url = "https://docs.google.com/spreadsheets/d/1nGRDV27Wz3Xf3jfD_rlEsTeFebSAhFsnYYMMhbeO_jc/export?format=csv"
 df = pd.read_csv(csv_url)
+df["category_id"] = pd.to_numeric(df["category_id"], errors="coerce").astype("Int64")
 
-# === Map category ID to name ===
+
+# === Map category ID wiat i wait i to name ===
 id_to_name = {
     55: "living_things", 56: "actions", 57: "types_of_people", 58: "concepts",
     59: "types_of_places", 60: "food_and_drink", 61: "objects", 62: "fiction",
@@ -40,35 +42,6 @@ with st.sidebar:
 
 # === Apply Category Filter ===
 filtered_df = df.copy() if selected_category == "All" else df[df["category_name"] == selected_category].copy()
-
-if selected_category == "All":
-    total_images = df_all.shape[0]
-    analyzed_images = df_all["technique_used"].notna().sum()  # includes "invalid test result" rows too
-
-    percent_done = (analyzed_images / total_images) * 100
-
-
-    st.markdown(
-        f"<p style='font-size:16px;'>"
-        f"<b>{analyzed_images}</b> out of <b>{857}</b> drawings have been labeled "
-        f"({percent_done:.1f}%) so far."
-        f"</p>",
-        unsafe_allow_html=True
-    )
-
-else:
-    category = selected_category
-    total = df_all[df_all["category_name"] == category].shape[0]
-    labeled = df_all[(df_all["category_name"] == category) & (df_all["technique_used"].notna())].shape[0]
-    percent = (labeled / total) * 100 if total > 0 else 0
-
-    st.markdown(
-        f"<p style='font-size:16px;'>"
-        f"<b>{labeled}</b> out of <b>{total}</b> drawings in <b>{category.replace('_', ' ').title()}</b> "
-        f"have been labeled ({percent:.1f}%) so far."
-        f"</p>",
-        unsafe_allow_html=True
-    )
 
 st.subheader("Frequency of Techniques" + (f" in {selected_category}" if selected_category != "All" else ""))
 

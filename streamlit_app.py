@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+from graphviz import Digraph
+
 
 sheet_url = "https://docs.google.com/spreadsheets/d/1nGRDV27Wz3Xf3jfD_rlEsTeFebSAhFsnYYMMhbeO_jc/export?format=csv"
 df = pd.read_csv(sheet_url)
@@ -25,10 +27,13 @@ df["category_name"] = df["category_id"].map(id_to_name)
 # === TITLE ===
 st.title("Human Drawing Techniques in Decieving AI")
 
-
 st.markdown("""
-This project explores how humans can consistently fool LLMs like **Gemini** in cooperative sketch guessing games. All data comes from different rounds of the Deviation Game (formerly known as outdraw.AI a game that pits human creativity against AI perception. 
+This project explores how humans can consistently fool LLMs like Gemini in cooperative sketch guessing games. 
+All data comes from different rounds of the Deviation Game (formerly known as outdraw.AI, a game that pits human creativity against AI perception).  
+
+This analysis and interactive dashboard were created by **Audrey Shin**, working under **Kye Shimizu** at the **MIT Media Lab**.  
 """)
+
 
 st.markdown("""
 <div style="background-color: #f9f2f4; padding: 15px; border-left: 5px solid #e75480; border-radius: 5px;">
@@ -246,7 +251,6 @@ examples = {
         "notes": "The layering threw off the LLM."
     },
  
-    # Add the rest...
 }
 
 
@@ -269,6 +273,8 @@ for i, (technique, description) in enumerate(technique_items):
             st.markdown("*No example added yet.*")
 
 
+
+
 st.markdown("""
 <div style='
     background-color: #f9f2f4;
@@ -282,65 +288,97 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+# === Technique Taxonomy Tree (Left→Right, pink nodes, fits page) ===
+import streamlit as st
+import pandas as pd
+from graphviz import Digraph
 
-# === SECTION: Labeling Progress ===
-st.subheader("Labeling Progress")
+st.markdown("## Deception Technique Categorization Tree")
 
-# make sure category_id is numeric before mapping (prevents dropouts)
-df["category_id"] = pd.to_numeric(df["category_id"], errors="coerce")
+# Leaf technique descriptions (you can keep/edit as needed)
+techniques = {
+    "Atypical Representation": "Deviation from canonical forms (e.g., triangle for a head).",
+    "Culturally Grounded": "Relies on regional/cultural references.",
+    "Extraneous Lines": "Irrelevant markings added to confuse the AI.",
+    "Implied Depth": "Nesting/perspective cues to suggest 3D.",
+    "Implied Scene": "Meaning only emerges when elements are read together.",
+    "Invalid Test Result": "Test rounds, obvious cheating, or invalid entries.",
+    "Minimalist Abstraction": "Sparse lines suggest the form without detail (outline-level).",
+    "Misaligned Feature": "Core parts placed incorrectly; disproportionate sizing.",
+    "Object Decomposition": "Drawn in parts rather than as a whole—breaks template matching.",
+    "Odd Perspective": "Mixing top-down and side views.",
+    "Overwriting Motion": "Object drawn then scribbled/overwritten to confuse the AI.",
+    "Stacked Ambiguity": "Overlapping/layered content creates noise.",
+    "Suggestive Gesture": "Expressive strokes implying movement or intent.",
+    "Zoomed-in Texture": "Close-up texture instead of global form."
+}
 
-# Count only rows where ai_guess is not empty/blank
-mask_valid = df["ai_guess"].notna() & (df["ai_guess"].astype(str).str.strip() != "")
-df_valid = df[mask_valid]
+# Higher-level grouping (your request: these three share a parent node)
+taxonomy = {
+    "Obfuscation / Integrity": [
+        "Extraneous Lines",
+        "Overwriting Motion",
+        "Invalid Test Result",
+    ],
+    "Representation & Form": [
+        "Minimalist Abstraction",
+        "Atypical Representation",
+        "Misaligned Feature",
+        "Odd Perspective",
+        "Object Decomposition",
+        "Implied Depth",
+        "Zoomed-in Texture",
+    ],
+    "Scene & Ambiguity": [
+        "Implied Scene",
+        "Stacked Ambiguity",
+        "Suggestive Gesture",
+    ],
+    "Culture & Symbolism": [
+        "Culturally Grounded",
+    ],
+}
 
-total_images = len(df_valid)                    
-analyzed_images = df_valid["technique_used"].notna().sum()
-percent_done = (analyzed_images / total_images) * 100
+# Build Graphviz diagram (Left→Right), constrain size so it fits on page
+dot = Digraph("tech_tree", format="svg")
+dot.attr(rankdir="LR", ranksep="1.0", nodesep="0.45")
+dot.attr("graph", size="10,5!", dpi="72")
 
-st.markdown(
-    f"<p style='font-size:16px;'>"
-    f"<b>{analyzed_images}</b> out of <b>{total_images}</b> drawings have been labeled "
-    f"({percent_done:.1f}%)."
-    f"</p>",
-    unsafe_allow_html=True
-)
+# Pink styling
+ROOT_FILL = "#F8BBD0"     # deeper pink
+GROUP_FILL = "#FDE2EA"    # light pink (groups)
+LEAF_FILL = "#FFD6E7"     # light pink (leaves)
+NODE_BORDER = "#F48FB1"   # pink border
+EDGE_COLOR = "#EC407A"    # pink edges
 
-def pink_progress_bar(label, value, max_value=100):
-    percent = int((value / max_value) * 100)
-    st.markdown(f"""
-    <div style="margin-bottom: 10px;">
-        <div style="font-size: 15px; margin-bottom: 4px;">{label} — {value} / {max_value} ({percent}%)</div>
-        <div style="background-color: #f0f0f0; border-radius: 10px; height: 10px; width: 100%;">
-            <div style="
-                background-color: #e75480;
-                width: {percent}%;
-                height: 100%;
-                border-radius: 10px;
-                transition: width 0.3s ease;">
-            </div>
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
+dot.attr("node", shape="box", style="rounded,filled", fontname="Helvetica", color=NODE_BORDER)
 
+# Root
+root = "Deception Techniques"
+dot.node(root, root, fillcolor=ROOT_FILL)
 
-# Count totals per category
-category_totals = df["category_name"].value_counts().to_dict()
-category_labeled = df[df["technique_used"].notna()]["category_name"].value_counts().to_dict()
+# Groups
+for group in taxonomy:
+    dot.node(group, group, fillcolor=GROUP_FILL)
+    dot.edge(root, group, color=EDGE_COLOR)
 
-# Show progress bar for each category
-for category in sorted(id_to_name.values()):
-    total = category_totals.get(category, 0)
-    labeled = category_labeled.get(category, 0)
+# Leaves
+for group, leaves in taxonomy.items():
+    for leaf in leaves:
+        dot.node(leaf, leaf, fillcolor=LEAF_FILL)
+        dot.edge(group, leaf, color=EDGE_COLOR)
 
-    if total > 0:
-    
-        pink_progress_bar(category.replace('_', ' ').title(), labeled, total)
+# Render tree
+st.graphviz_chart(dot, use_container_width=True)
 
-    else:
-        st.markdown(f"**{category.replace('_', ' ').title()}** — No data available")
+# Optional: details table
+rows = []
+for group, leaves in taxonomy.items():
+    for leaf in leaves:
+        rows.append({"Group": group, "Technique": leaf, "Description": techniques.get(leaf, "")})
+df = pd.DataFrame(rows).sort_values(["Group", "Technique"])
 
 
-st.markdown("""This is still very much a work in progress. I haven't finished labeling all the images yet but use the progress bars to gauge the accuracy of the results displayed.""")
 st.subheader("Notes")
 
 st.markdown("""
