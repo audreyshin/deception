@@ -22,6 +22,10 @@ df["category_name"] = df["category_id"].map(id_to_name)
 # === Filter out invalid test results ===
 df = df[df["technique_used"].str.strip().str.lower() != "invalid test result"]
 
+# === Keep two copies ===
+df_all = df.copy()  # includes invalid (for progress counters)
+
+
 # === Page title and intro blurb ===
 st.title("Technique Analytics Dashboard")
 st.markdown("""
@@ -38,9 +42,11 @@ with st.sidebar:
 filtered_df = df.copy() if selected_category == "All" else df[df["category_name"] == selected_category].copy()
 
 if selected_category == "All":
-    total_images = df.shape[0]
-    analyzed_images = df["technique_used"].notna().sum()
-    percent_done = (analyzed_images / 857) * 100
+    total_images = df_all.shape[0]
+    analyzed_images = df_all["technique_used"].notna().sum()  # includes "invalid test result" rows too
+
+    percent_done = (analyzed_images / total_images) * 100
+
 
     st.markdown(
         f"<p style='font-size:16px;'>"
@@ -52,8 +58,8 @@ if selected_category == "All":
 
 else:
     category = selected_category
-    total = df[df["category_name"] == category].shape[0]
-    labeled = df[(df["category_name"] == category) & (df["technique_used"].notna())].shape[0]
+    total = df_all[df_all["category_name"] == category].shape[0]
+    labeled = df_all[(df_all["category_name"] == category) & (df_all["technique_used"].notna())].shape[0]
     percent = (labeled / total) * 100 if total > 0 else 0
 
     st.markdown(
